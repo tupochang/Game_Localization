@@ -1,0 +1,812 @@
+[
+  {
+    "path": "www/data/Actors.json",
+    "sha256": "278b096cbe12cbb7b446787af3191835a9790bdfad9e54e975f467381486def6",
+    "bytes": 1188
+  },
+  {
+    "path": "www/data/Armors.json",
+    "sha256": "37e2da2805dbf3d1e38af835e2539a974044501cb89408cbe124a2b6434a4cf4",
+    "bytes": 15320
+  },
+  {
+    "path": "www/data/Classes.json",
+    "sha256": "71a1457d19b1f29b7494437ba7015622bb5d465dd0cbdf7e6c24d0c54047454b",
+    "bytes": 17781
+  },
+  {
+    "path": "www/data/Difficulties.json",
+    "sha256": "1f5856e99f225ad84a602c51f49b679d0f776922c2131d4289ef84c2d4062f05",
+    "bytes": 454
+  },
+  {
+    "path": "www/data/Enemies.json",
+    "sha256": "d2623b35f977941ba5990a9d644283a771a588fe09285a9374db736313bd1f4e",
+    "bytes": 34743
+  },
+  {
+    "path": "www/data/Items.json",
+    "sha256": "1d66507f9deaf376a80192fd72703d6e0d1227b07cb753d1757824896fd41bbe",
+    "bytes": 16540
+  },
+  {
+    "path": "www/data/Map002.json",
+    "sha256": "8a95202200761d5442650ec21e03ac379ac0dce17a18a90e5793d47ad0add23b",
+    "bytes": 35145
+  },
+  {
+    "path": "www/data/Map003.json",
+    "sha256": "2d7d93def86038cab487f7540bb16b4b2c3f3b633f4aaa6bf71a7843e435faa3",
+    "bytes": 13758
+  },
+  {
+    "path": "www/data/Map004.json",
+    "sha256": "e75b832130575085e1d25c4af270ec1ab8d38c3f028ecee5d2a99ecb821126c3",
+    "bytes": 46888
+  },
+  {
+    "path": "www/data/Map005.json",
+    "sha256": "9e6ebef31f2a181cadd3d53576a608f44e29bf2fc27eccb9be69d9dcd8680cf4",
+    "bytes": 23703
+  },
+  {
+    "path": "www/data/Map006.json",
+    "sha256": "303c913abb91443dfb7856d35fae795179e5ce169e845ccff02ca2dfbb5e0c92",
+    "bytes": 14756
+  },
+  {
+    "path": "www/data/Map007.json",
+    "sha256": "228721154813c5b48a5fcc0993273a3b0c507942a5dcc7891c3b4f66f11217d2",
+    "bytes": 19415
+  },
+  {
+    "path": "www/data/Map008.json",
+    "sha256": "9e5353e409feeeafcebbf975a24f615ea0bf1f03c1238956f78a058e8ead1ed2",
+    "bytes": 13728
+  },
+  {
+    "path": "www/data/Map009.json",
+    "sha256": "d67fb529096080c9d871acecaf9f1d83a20b3ec98900d907e950238bfb8fa148",
+    "bytes": 26642
+  },
+  {
+    "path": "www/data/Map010.json",
+    "sha256": "6ba51440ba6d6a30bfddee189ed0c4be41504b6dcb438c90fc398265be2ccf38",
+    "bytes": 82510
+  },
+  {
+    "path": "www/data/Map011.json",
+    "sha256": "8162d40c0389d10cfc9ee45d0d4867a538a5df1e510e314af6197fcb0a97467d",
+    "bytes": 8173
+  },
+  {
+    "path": "www/data/Map012.json",
+    "sha256": "164fab623b6a24b2c057764e53a635039e32e8c00201448f472ab4bbe2800814",
+    "bytes": 12735
+  },
+  {
+    "path": "www/data/Map013.json",
+    "sha256": "f1d0f96735b555ea10becec054c6b305a941b08f72ebdda7def518fceff51716",
+    "bytes": 28635
+  },
+  {
+    "path": "www/data/Map014.json",
+    "sha256": "c34778b5b78f01b534dc240268f2cb7bb1f7130a4150d80a28a25689d3982458",
+    "bytes": 15690
+  },
+  {
+    "path": "www/data/Map015.json",
+    "sha256": "bb4a357c467341bf4a3ac2e97daf191c29b1ea76209881ff656384265dd647eb",
+    "bytes": 24696
+  },
+  {
+    "path": "www/data/Map016.json",
+    "sha256": "ac20a6756b82b77bfcc453e4342256d9283255b7b2bf6349f07c9ff751fe0148",
+    "bytes": 22722
+  },
+  {
+    "path": "www/data/Map017.json",
+    "sha256": "5a55f4fa6a1ed6d28d0b264cea5e7db85682e1a4ff2bc2321eefeffa615cbfdd",
+    "bytes": 20593
+  },
+  {
+    "path": "www/data/Map018.json",
+    "sha256": "edb54d381bd9d1496060786970242d4d67a2a6bd2bf43a5be7df2bb8aee1e724",
+    "bytes": 7637
+  },
+  {
+    "path": "www/data/Map019.json",
+    "sha256": "7c5debb19526252c8863349b49e7232a4a6e7509e40df521192ba6a934443192",
+    "bytes": 62329
+  },
+  {
+    "path": "www/data/Map020.json",
+    "sha256": "088b5036f24167e97036111e6afaf6daeeccf199774fe3fa23534ac660c00250",
+    "bytes": 8868
+  },
+  {
+    "path": "www/data/Map021.json",
+    "sha256": "6389c0ebbafde26f52bdba74cb26307ddcf92aa5b66b5501089e995e61116388",
+    "bytes": 15590
+  },
+  {
+    "path": "www/data/Map022.json",
+    "sha256": "c4b8ab4358ae4eabaec140b6f3de6e72f71cfe6a2f872044ec1841cddd4eae88",
+    "bytes": 8432
+  },
+  {
+    "path": "www/data/Map023.json",
+    "sha256": "2165edaebbc5db97f1283e59d57a50b3bf48ed05da299b08c9e92097e314f730",
+    "bytes": 19218
+  },
+  {
+    "path": "www/data/Map024.json",
+    "sha256": "914ff8e687abae00f132ec2e6759b211bdf173c496de75f9591d498fdad8ff68",
+    "bytes": 46361
+  },
+  {
+    "path": "www/data/Map025.json",
+    "sha256": "67ad93f529cf4c2a2fea5ab8deb5013aa95c606ef4c3c5234c4e2d9889e5a736",
+    "bytes": 18656
+  },
+  {
+    "path": "www/data/Map026.json",
+    "sha256": "8040c589914846a489ea82673fd166f3d9de4fa727700ecc8b2757facc21253e",
+    "bytes": 23217
+  },
+  {
+    "path": "www/data/Map027.json",
+    "sha256": "d47d9a8c0a9b4d4ba6c708e75cd3817af08eeada6c04241b44c385cc552dace8",
+    "bytes": 57873
+  },
+  {
+    "path": "www/data/Map028.json",
+    "sha256": "1d563ff486e34519e64efb3f1062c36025d8d148813ecaf2ec658098263a14bb",
+    "bytes": 12158
+  },
+  {
+    "path": "www/data/Map029.json",
+    "sha256": "b099f4157924a234d3a145f6cd99bc45f77dd33c1664804c34216f09d2d4b650",
+    "bytes": 6719
+  },
+  {
+    "path": "www/data/Map030.json",
+    "sha256": "6f0779273f5cd92144b2f8128d3a529c1b57ab229776076a66bd20c622ff3228",
+    "bytes": 40921
+  },
+  {
+    "path": "www/data/Map031.json",
+    "sha256": "4f469f485b7901774e96a1888f7609261453853de8d0ffad2a32c9ebf3fb6700",
+    "bytes": 66461
+  },
+  {
+    "path": "www/data/Map032.json",
+    "sha256": "63e5f0f0806ceebd7de95545e81f519bc0189a771cd046666d58b148cba4e3f8",
+    "bytes": 6663
+  },
+  {
+    "path": "www/data/Map033.json",
+    "sha256": "d50d97e342d95ad275b1775bfbf91c64709908cd63d68470ce79442176b830fc",
+    "bytes": 148355
+  },
+  {
+    "path": "www/data/Map034.json",
+    "sha256": "19c535f32f49938beed264ecef7c599d753002ddb7a2fed9a0356c7a45b3629f",
+    "bytes": 7117
+  },
+  {
+    "path": "www/data/Map035.json",
+    "sha256": "5ba60f54d579d7f2e45dd32c4eb49bed1bbfbad6a7bbdfad26c2d6bbbace7089",
+    "bytes": 112712
+  },
+  {
+    "path": "www/data/Map036.json",
+    "sha256": "f4e6fd2798939dcac48e4ff73b2a3f836ba0c3b42c84d9887d3c20bb27fbd11a",
+    "bytes": 7120
+  },
+  {
+    "path": "www/data/Map037.json",
+    "sha256": "e6b7e8f63e37c54eef542c081a41719d69564e31a2ff1c89b8d949996a7dfe94",
+    "bytes": 77729
+  },
+  {
+    "path": "www/data/Map038.json",
+    "sha256": "5a712f5f8ad41bf5f12a1b6f6445f1d0a31c114006483ac3b67d9cc923154edd",
+    "bytes": 89188
+  },
+  {
+    "path": "www/data/Map039.json",
+    "sha256": "e165bd6133ad6fbe4e52c72a52aee4145e9436a62e9b25d496ed3edc7b83b99e",
+    "bytes": 20156
+  },
+  {
+    "path": "www/data/Map040.json",
+    "sha256": "4255c49fb75b48df02ad74ad2f0730261c13216e094e01242bb5fd30dc113af2",
+    "bytes": 12127
+  },
+  {
+    "path": "www/data/Map041.json",
+    "sha256": "feb14367fa88abce48a74eac1469422d320392a75e76c76363391dde3fbe9df1",
+    "bytes": 114818
+  },
+  {
+    "path": "www/data/Map042.json",
+    "sha256": "26a898b4a8c9f9eda8af421b0c62acaba99e722ef89145bf10efe0c46ff3ac54",
+    "bytes": 163651
+  },
+  {
+    "path": "www/data/Map043.json",
+    "sha256": "f7f9fce7f4c7d9c1b6621513e7910e4f4553866b187766dbb9f767dcf3e4320f",
+    "bytes": 157253
+  },
+  {
+    "path": "www/data/Map044.json",
+    "sha256": "2cf306e18c5ffcc2acb1daa1f9b59d0960a81b0d9215bf8d91f7ed22487babe9",
+    "bytes": 30703
+  },
+  {
+    "path": "www/data/Map045.json",
+    "sha256": "e0aa6b6fc547ae741b6a7d226439cd5cf1fcf61aa5081873200634ead20890f4",
+    "bytes": 5591
+  },
+  {
+    "path": "www/data/Map046.json",
+    "sha256": "594ba7d0a84a55092b8acb1e00cc8024ace33f2c1adbef6bf4ae7b2d54a7d635",
+    "bytes": 61521
+  },
+  {
+    "path": "www/data/Map047.json",
+    "sha256": "db7c4ef61a4489c90a51e7e9c330146841e7c04d48d1d4fc05da5416d2bf4e5b",
+    "bytes": 60705
+  },
+  {
+    "path": "www/data/Map048.json",
+    "sha256": "8893db2b30f6bdbc3395a3bfa88785f4f4ab02971f96b02301c70652603068c0",
+    "bytes": 20288
+  },
+  {
+    "path": "www/data/Map049.json",
+    "sha256": "788746d7d20329c3c3ae99b574c037721c197e266d72e1311b0e71fa1b56b0a3",
+    "bytes": 14727
+  },
+  {
+    "path": "www/data/Map050.json",
+    "sha256": "5b75614d7be2476360e0a366c29d9f6aa946a34cc6b735a565c4d99d84bdb70f",
+    "bytes": 145483
+  },
+  {
+    "path": "www/data/Map051.json",
+    "sha256": "20bb76fc072b63826277b1812ff8a1c14098ecde0ffc3d185c557a59877a864c",
+    "bytes": 222587
+  },
+  {
+    "path": "www/data/Map052.json",
+    "sha256": "59bc7b11cf23bf8ea1ec7fc68e15052901b2d515d200c9a94d856549e91f7a13",
+    "bytes": 169267
+  },
+  {
+    "path": "www/data/Map053.json",
+    "sha256": "78ca3559b4a249e285dbd052a174dc2b90efd3cbddcf000bf0b207b3b731b15e",
+    "bytes": 171356
+  },
+  {
+    "path": "www/data/Map054.json",
+    "sha256": "948fb53c9b7d549f321b814ffe41cb92de7ad0b7c7162b7fc2fab1cd8caebe12",
+    "bytes": 174964
+  },
+  {
+    "path": "www/data/Map055.json",
+    "sha256": "da015d01c984650e545af3c195d905fb9c06c3a6dc2233c6d73abb3a7a5248fb",
+    "bytes": 57532
+  },
+  {
+    "path": "www/data/Map056.json",
+    "sha256": "bdcdbb6798e94a31db7c963f5f55688f2886b05ab32c18738479bc8b9e39499b",
+    "bytes": 14991
+  },
+  {
+    "path": "www/data/Map057.json",
+    "sha256": "cbb3990893eb770e5bd798a803bb9bed2fe606ed4de7829c98a6dab8a9fb6462",
+    "bytes": 6364
+  },
+  {
+    "path": "www/data/Map058.json",
+    "sha256": "6a3c5cbec0961009307e6e96ee79c58cac913f5fdd6e1a223d7110fcaaa7f9fd",
+    "bytes": 63282
+  },
+  {
+    "path": "www/data/Map059.json",
+    "sha256": "83d8ee536cdf5e7c17a8fac30290634e89cc4a2561250c8171982cf8f7735ce7",
+    "bytes": 65073
+  },
+  {
+    "path": "www/data/Map060.json",
+    "sha256": "fe5f5a106ad86bf5cab6ee9731d5136b42491fccd0ed4c3e473367fe98c79405",
+    "bytes": 64254
+  },
+  {
+    "path": "www/data/Map061.json",
+    "sha256": "65e1a10b5ba1baaaf5343f55829293b3b08193fdec2a62276af648ead7121b27",
+    "bytes": 8749
+  },
+  {
+    "path": "www/data/Map062.json",
+    "sha256": "85324921c3b1f3cea8fc281a976f474f365d15ffc2f741d3147da233abc936bb",
+    "bytes": 33217
+  },
+  {
+    "path": "www/data/Map064.json",
+    "sha256": "ce13d0fc27d2edef92c1450fef8cbd062c04244cd0616c5b9480a464e090d770",
+    "bytes": 29293
+  },
+  {
+    "path": "www/data/Map065.json",
+    "sha256": "662ec195e860a312d5f6c9989a187687878d54faab7907a6d908d6d841caf186",
+    "bytes": 391009
+  },
+  {
+    "path": "www/data/Map066.json",
+    "sha256": "ce9ca848209efd0938b16b6ea0ca7675523298d34e16ea5c0126f80e0a4ebdd4",
+    "bytes": 31038
+  },
+  {
+    "path": "www/data/Map067.json",
+    "sha256": "9a7ce8db12a613f566b3b98656ee4032bbba21bf7bc307249e10bbcae60a04f9",
+    "bytes": 393378
+  },
+  {
+    "path": "www/data/Map068.json",
+    "sha256": "0b84dd31720c2989e07bea147dc871d2c635bc13425f3a0567bae6bb4c968342",
+    "bytes": 31221
+  },
+  {
+    "path": "www/data/Map069.json",
+    "sha256": "b97fc833d11e8ec3ab1fcd7fc3161763841c2dd922b1376beca3f0c0ee34124a",
+    "bytes": 382523
+  },
+  {
+    "path": "www/data/Map070.json",
+    "sha256": "bc4fc19cf6a0586552a3f96dd1080a84c40cfebde5a93dd0e3ecb7f2b8ca3c76",
+    "bytes": 12892
+  },
+  {
+    "path": "www/data/Map071.json",
+    "sha256": "684648157f994d3da17c5f340605e87c7044970215ee32f2bb874b1fd868c714",
+    "bytes": 62353
+  },
+  {
+    "path": "www/data/Map072.json",
+    "sha256": "e1307168a5c606f475f9de1484f4fd8bf61fc431d0c5d8629419165b1d843933",
+    "bytes": 8378
+  },
+  {
+    "path": "www/data/Map073.json",
+    "sha256": "757d28874170368450be58f5afa2aa66e424da8e9c7dd646e210745e478f1408",
+    "bytes": 6370
+  },
+  {
+    "path": "www/data/Map074.json",
+    "sha256": "a206baf9c31a765c34b7ddec5abf76b6b7ba648e3c1dcc2d9154a7f87d2a3ff7",
+    "bytes": 61498
+  },
+  {
+    "path": "www/data/Map075.json",
+    "sha256": "0a73b0e2d39b0521a2ec4373f9ba31d67a9fc7034d4d9b9759b22ef134e876f8",
+    "bytes": 59713
+  },
+  {
+    "path": "www/data/Map076.json",
+    "sha256": "7142d9c748a1d91d4a54ab178fc115a32dee31a8b44d85803b7f06c3fec32d96",
+    "bytes": 59712
+  },
+  {
+    "path": "www/data/Map077.json",
+    "sha256": "6023d96daf27862e3bff4d8a38202b156587a6a86886f95cc3d8a0855bfce856",
+    "bytes": 60680
+  },
+  {
+    "path": "www/data/Map078.json",
+    "sha256": "9e64fc9dabc39d11ffac2b2ca25a9793941c378cb13ff657bd38c33143346fbe",
+    "bytes": 338752
+  },
+  {
+    "path": "www/data/Map079.json",
+    "sha256": "6a1cb09d16f4d45606fd4b09a16dbadc741ac37179b9847345b681cb4eb9358e",
+    "bytes": 8404
+  },
+  {
+    "path": "www/data/Map080.json",
+    "sha256": "13c722c0013585ee3c665b49702865d7273be2c13f0b0b12e7950203d80b5399",
+    "bytes": 6612
+  },
+  {
+    "path": "www/data/Map081.json",
+    "sha256": "b2a730579933bea8c011a7a90b44d29ebf8f02900c3377d99ea92fbc542ac0b3",
+    "bytes": 8399
+  },
+  {
+    "path": "www/data/Map082.json",
+    "sha256": "894fe957e3eae1bf3741c676dfcf118a7c5e07f793da651567b3ed7edf2868f2",
+    "bytes": 8400
+  },
+  {
+    "path": "www/data/Map083.json",
+    "sha256": "85ce166884914534e0ef224b307b70b25b74f1a75a41f77cbec777eb90539563",
+    "bytes": 6613
+  },
+  {
+    "path": "www/data/Map084.json",
+    "sha256": "cc21240843c3bd31a4ffc5d6a16902a307780a606ac518f0863edabdd443ca18",
+    "bytes": 8405
+  },
+  {
+    "path": "www/data/Map085.json",
+    "sha256": "ad6294d4e6991fee41310df8e9a3d0ca67975565a65e8408bcf435f6f47bb1fa",
+    "bytes": 6614
+  },
+  {
+    "path": "www/data/Map086.json",
+    "sha256": "da522de7b0742899bb45b141c0233c2788607bfbacb905ef0871ddb834e72d3a",
+    "bytes": 8398
+  },
+  {
+    "path": "www/data/Map087.json",
+    "sha256": "04b773237313dbc7ccc27801d4af527e63ed8edbbaa6f66cfcfa07e5d58eddca",
+    "bytes": 6611
+  },
+  {
+    "path": "www/data/Map088.json",
+    "sha256": "8027a480f7df0cf1665ddc813426afaec8dadf9b123b940212536189fb043c9a",
+    "bytes": 8406
+  },
+  {
+    "path": "www/data/Map089.json",
+    "sha256": "f2e1faa98c35566be120aafefc807b97da79aa2f50686543e6406a746e08ed40",
+    "bytes": 8400
+  },
+  {
+    "path": "www/data/Map090.json",
+    "sha256": "893e8c7de991d42e12953363f240ff078b43b55935e0709c86a857fda67bad01",
+    "bytes": 8400
+  },
+  {
+    "path": "www/data/Map091.json",
+    "sha256": "6bedba6b6008a167ac95ec6ee236673dd3e296efec3f371e98a10add589c2f4a",
+    "bytes": 7965
+  },
+  {
+    "path": "www/data/Map092.json",
+    "sha256": "6e11c5ffb8761bec916aac74ee202cc7b36ca9da936a99018a8bdc9b15e82333",
+    "bytes": 729023
+  },
+  {
+    "path": "www/data/Map094.json",
+    "sha256": "138ea610a0e0175576720492ebc642eb62239f4c20c9ec9907b0615f4966cf26",
+    "bytes": 6369
+  },
+  {
+    "path": "www/data/Map095.json",
+    "sha256": "796059b392c90ae3709efdeaf5de35d94b52ef03fe4a8c3775e9c8a09665636a",
+    "bytes": 61499
+  },
+  {
+    "path": "www/data/Map096.json",
+    "sha256": "40ac79ad11f4dbbef40c09ad1d51af23717cb07822404de4808b44899e6492ff",
+    "bytes": 59711
+  },
+  {
+    "path": "www/data/Map097.json",
+    "sha256": "d75c2ecf6175ed2188d995be6f51010424aac1b28df1337b2cce82099aba5ce1",
+    "bytes": 63287
+  },
+  {
+    "path": "www/data/Map098.json",
+    "sha256": "405e8ac58e0a2fe652d2082cd91506cd1c60a54700b2bb6c8d6be320af6906f7",
+    "bytes": 61501
+  },
+  {
+    "path": "www/data/Map099.json",
+    "sha256": "08bf9326eb192f5feece22da859c862d074bcfa51302f391a35140ebadb08f59",
+    "bytes": 60681
+  },
+  {
+    "path": "www/data/Map100.json",
+    "sha256": "483651087b183ef5d4227ce6494575fac95857fec86f7dba4009e4cc3864260f",
+    "bytes": 78706
+  },
+  {
+    "path": "www/data/Map101.json",
+    "sha256": "cbe30d38ea604a4474b543b09f001f3637abafdf4562d6da9b44947a14796a6d",
+    "bytes": 15629
+  },
+  {
+    "path": "www/data/Map102.json",
+    "sha256": "491579d34af374810d5b8fb91fc4ebb563175cd450824c446b3765cc4c97b36f",
+    "bytes": 7635
+  },
+  {
+    "path": "www/data/Map103.json",
+    "sha256": "79f401a0588da6cd72a0eb787596d14c214f217c78698c3fe2b9993d0b3245dd",
+    "bytes": 8660
+  },
+  {
+    "path": "www/data/Map104.json",
+    "sha256": "b56e6e4a0bd8ad015774293bf28ba7fcbed45ddf1fbf30073996ba70f5ea3e3e",
+    "bytes": 6711
+  },
+  {
+    "path": "www/data/Map105.json",
+    "sha256": "fd569de287b6893abca3ca07426447217a299f62d35489fe34f95be51f5f3e0c",
+    "bytes": 5639
+  },
+  {
+    "path": "www/data/Map106.json",
+    "sha256": "a42f1bebb03b2ab065c8ea0300f5867e82f347606943e37e15b89f5bf4be59fa",
+    "bytes": 14563
+  },
+  {
+    "path": "www/data/Map107.json",
+    "sha256": "ea56021dfdad791274ab6d320bc378bada6bae798d20cdd4077fb5c572b154e3",
+    "bytes": 13211
+  },
+  {
+    "path": "www/data/Map108.json",
+    "sha256": "0eb1dca09cf8c54d87f19ff94aa1f84b48c03e7affcb83e1d9f5e7ae7384499a",
+    "bytes": 441995
+  },
+  {
+    "path": "www/data/Map109.json",
+    "sha256": "01726fb33b8590b33fcaf4e7310d21bd54a7b2f7bc4573c217b9f213174dcd57",
+    "bytes": 6372
+  },
+  {
+    "path": "www/data/Map110.json",
+    "sha256": "56508f7ab4982f204b66b3573a703b76ca88deca9fc792b964a992536709d978",
+    "bytes": 59713
+  },
+  {
+    "path": "www/data/Map111.json",
+    "sha256": "723e89a4e3b95dd0532d11db3d3fa4c0d0f8384bc633477bffafdb6b603824fb",
+    "bytes": 59716
+  },
+  {
+    "path": "www/data/Map112.json",
+    "sha256": "b564f1c994a57ffb166f61690c21f9ac8065002882aa120ce9e19b6a81fc35cb",
+    "bytes": 63289
+  },
+  {
+    "path": "www/data/Map113.json",
+    "sha256": "1175efe36d9276209392b3a75216450ef3f17a36d7c41e149bbfd36a91bd85d5",
+    "bytes": 61500
+  },
+  {
+    "path": "www/data/Map114.json",
+    "sha256": "3afb620b655d00037ef99016e641485b9c8d88affa9a5ca01ee86ffc063b532b",
+    "bytes": 57928
+  },
+  {
+    "path": "www/data/Map115.json",
+    "sha256": "19020fa482d0f770bc56b31b694829c51fb154c11c545743dee9afd4b261bcfa",
+    "bytes": 62470
+  },
+  {
+    "path": "www/data/Map116.json",
+    "sha256": "c1c4c2692be63e6d25e17f7836a35c9d3e114676883aa476630ea9386271dd8b",
+    "bytes": 446106
+  },
+  {
+    "path": "www/data/Map117.json",
+    "sha256": "813c56637b301a7de58360453c9c2b5502dd45f023969d84641c2925bb1a2f4d",
+    "bytes": 446815
+  },
+  {
+    "path": "www/data/Map118.json",
+    "sha256": "e3b9a27be9bc3e0d8cb5809f5718783bbcec18a2ee2c6098c68fb56b9f9a10a0",
+    "bytes": 7753
+  },
+  {
+    "path": "www/data/Map119.json",
+    "sha256": "ba527d51879dd4ee898aaa4ba8d4c661bc1cf718f08a1717d3149de9649ada61",
+    "bytes": 49072
+  },
+  {
+    "path": "www/data/Map120.json",
+    "sha256": "486cac355753e2ae257158aff8873dddd3f8960d03a754df346c5a3c826d2083",
+    "bytes": 407738
+  },
+  {
+    "path": "www/data/Map121.json",
+    "sha256": "92291775f6d1b9ecab7eea6bad520d923305f876868fa24b96e1cd1ab104eb6f",
+    "bytes": 24821
+  },
+  {
+    "path": "www/data/Map122.json",
+    "sha256": "fd1786699f202146356ff71867847b63c8c82492b5674c80f72cd2510d89a99c",
+    "bytes": 23947
+  },
+  {
+    "path": "www/data/Map123.json",
+    "sha256": "4ba1d7a6a8977279cb3860cb16207913e93ad85a38e68dbd48cc521b73d6abfa",
+    "bytes": 6372
+  },
+  {
+    "path": "www/data/Map124.json",
+    "sha256": "3710a4f6d39d5f156b55054a85254db155a667402432d4ae54a5fa39726d9c7c",
+    "bytes": 63286
+  },
+  {
+    "path": "www/data/Map126.json",
+    "sha256": "a53eea36118ccfcc4b1be21b59a57ee8c4d19655257c69644f87cf7f1ced99b3",
+    "bytes": 61504
+  },
+  {
+    "path": "www/data/Map127.json",
+    "sha256": "e75f164e7e8c84d58bd1dab8e19e99cb1d767e769ed9cce5c2100af0c05925ca",
+    "bytes": 63289
+  },
+  {
+    "path": "www/data/Map128.json",
+    "sha256": "bd4c21cef4ced0cbe45790fe64189ea030254ba4960b41b9d6030e03ac10b4c7",
+    "bytes": 65075
+  },
+  {
+    "path": "www/data/Map129.json",
+    "sha256": "55367ada2d4b8088704f7e90aae56f3e56032a5a2800d6137bf9ad01a63c0702",
+    "bytes": 66865
+  },
+  {
+    "path": "www/data/Map130.json",
+    "sha256": "0cca27ea92b5577842b306af4331f02456254e7d8b2c987b7c05f32c8e9a52e6",
+    "bytes": 63290
+  },
+  {
+    "path": "www/data/Map131.json",
+    "sha256": "1bb391d41ad75a2c24c3c10101760b396530bb47b34008d94fa027715ab6be07",
+    "bytes": 408609
+  },
+  {
+    "path": "www/data/Map132.json",
+    "sha256": "19953d12a54c524c339d7e42dbaadee9befb15205a28c537e7ce97e304d5abf3",
+    "bytes": 8451
+  },
+  {
+    "path": "www/data/Map133.json",
+    "sha256": "f6cbb5ee52878f56ee4497dde273cc9bb1ec2c1b89be955ce60b637020c5abf6",
+    "bytes": 8451
+  },
+  {
+    "path": "www/data/Map134.json",
+    "sha256": "9bd58d87331897ef667838bcad317f5ee8d2cae543fe6b36da3c860c823834a3",
+    "bytes": 8454
+  },
+  {
+    "path": "www/data/Map135.json",
+    "sha256": "7b3078a5467db5b134d099a266c88d14fbba81c8b7f693518598ffbb14d2e2ed",
+    "bytes": 8445
+  },
+  {
+    "path": "www/data/Map136.json",
+    "sha256": "b2eac6eca574492c69b25fa6ab781bbd70530f6f34d2f9e6342125317ef86c01",
+    "bytes": 8459
+  },
+  {
+    "path": "www/data/Map137.json",
+    "sha256": "7c39fe10fe9e51ef3d82c8a62d171e3815983b1cddc40c17040fd5ff4ac08595",
+    "bytes": 8444
+  },
+  {
+    "path": "www/data/Map138.json",
+    "sha256": "4e7ec164138e0dac630971071c55ab197b7c15467ece51ffc51fc25933e47042",
+    "bytes": 8452
+  },
+  {
+    "path": "www/data/Map139.json",
+    "sha256": "b88379d606e2996a868360435e24709f98380b16f1c6459068a732df24f9e20d",
+    "bytes": 8453
+  },
+  {
+    "path": "www/data/Map140.json",
+    "sha256": "ca3147c0693934733e2e85ed982a10cfcf1b09fc99ac8efc751ddb097f6b37ee",
+    "bytes": 163007
+  },
+  {
+    "path": "www/data/Map141.json",
+    "sha256": "8f2baa746ee3ca60fa280e3fba6c8bd3d53135c09421ec079a4916c738405827",
+    "bytes": 15799
+  },
+  {
+    "path": "www/data/Map142.json",
+    "sha256": "ee86d504969041f9758a66106479ce097b113411a002f06770aca3800d04930a",
+    "bytes": 26703
+  },
+  {
+    "path": "www/data/Map143.json",
+    "sha256": "65a12bc783675eb60495840a621a3a4d2f39b6464b4f6bb285366635ed9cbe7d",
+    "bytes": 463896
+  },
+  {
+    "path": "www/data/Map144.json",
+    "sha256": "2f5ea875240506c4ba1cb7cdf0610ab55c250c621046bb68db924680905590d3",
+    "bytes": 26705
+  },
+  {
+    "path": "www/data/Map145.json",
+    "sha256": "9faaccace34ca1302a3c8be528e8351717fc1db40f01a27a941a2b5aeb4523f4",
+    "bytes": 484568
+  },
+  {
+    "path": "www/data/Map146.json",
+    "sha256": "f090932fb1c582dd4b3907e13b7014d00574d6ca25f09dacc0a1acc546527f8e",
+    "bytes": 24907
+  },
+  {
+    "path": "www/data/Map147.json",
+    "sha256": "e5ba5ff7da80bd7e8348ae68f9bea96dfc841a111264838102ba23b16fea3377",
+    "bytes": 471975
+  },
+  {
+    "path": "www/data/Map148.json",
+    "sha256": "e02e277ef222957e400aeeb487fd72093c0322e873753592859f3bed0fede0c0",
+    "bytes": 26704
+  },
+  {
+    "path": "www/data/Map149.json",
+    "sha256": "48be94d71e0ff257f054ef39c08fda0a5f7a06168dabaa1bbb8eeca7e2b99860",
+    "bytes": 466217
+  },
+  {
+    "path": "www/data/Map150.json",
+    "sha256": "31b4da873408b90f60795dbb9f57ca1c374d4bfa368005f43fe1ee120bb648d7",
+    "bytes": 25797
+  },
+  {
+    "path": "www/data/Map151.json",
+    "sha256": "93c08a6727a7f9053b94c56ff39b51f5063efbe0a69955e6198d492256821a20",
+    "bytes": 16864
+  },
+  {
+    "path": "www/data/Map152.json",
+    "sha256": "77bd72013e78446351b9f629440c287a70fd895b4d059def45b17db3984d03c9",
+    "bytes": 67830
+  },
+  {
+    "path": "www/data/Skills.json",
+    "sha256": "ce8ebe2ee6e19180d91f5109d065652b4e046a3ed34d11489a3052f2cc1855fe",
+    "bytes": 31867
+  },
+  {
+    "path": "www/data/States.json",
+    "sha256": "facf3164388747915e976db982b1b41bf8eab675d6b48ad221af666e75376d09",
+    "bytes": 4636
+  },
+  {
+    "path": "www/data/System.json",
+    "sha256": "249cc2dccf14af61d47f8e42e5b953cae9a57905df60580a0bc85d85846de622",
+    "bytes": 6965
+  },
+  {
+    "path": "www/data/Weapons.json",
+    "sha256": "c3eb24653e2613f0be60814e9b43a8d620e67495862fdb290c5503c7e939d6c9",
+    "bytes": 9321
+  },
+  {
+    "path": "www/img/titles1/Champions of Thora.rpgmvp",
+    "sha256": "3d5f7116d6613ef0f6b4c5799d9430a58ede973af9414c4e183c8d9e532216e9",
+    "bytes": 1246159
+  },
+  {
+    "path": "www/js/plugins/SSG_DifficultySetting.js",
+    "sha256": "30dbf67d9d09ad164a1d3ea5847afa84971fff218a2fa2637ed1bf3b9dcd87ca",
+    "bytes": 20800
+  },
+  {
+    "path": "www/js/plugins.js",
+    "sha256": "76d3751008d918b627e5b55b243556204724c7be48a548605bae43a3a29d948c",
+    "bytes": 4945
+  },
+  {
+    "path": "www/js/rpg_windows.js",
+    "sha256": "41e6a743836488604ec54e5b96ee0a1aa738c668d5cdef650b29b8f57f75633e",
+    "bytes": 182724
+  }
+]

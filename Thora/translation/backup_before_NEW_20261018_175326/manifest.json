@@ -1,0 +1,21 @@
+{
+  "workbook_sha256": "b1a8a7e6adcdb56c1467590a45a704f773a592a43074fafb71bdd8c6ce27454e",
+  "changed_files": [
+    "Actors.json",
+    "Map002.json",
+    "Map010.json",
+    "Map015.json",
+    "Map016.json",
+    "Map017.json",
+    "Map018.json",
+    "Map030.json",
+    "Map041.json",
+    "Map056.json",
+    "Map070.json",
+    "Map092.json",
+    "Map122.json",
+    "Skills.json",
+    "States.json"
+  ],
+  "translations_checked": 2965
+}
