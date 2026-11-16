@@ -1,0 +1,13 @@
+﻿id	status	kind	active_count	total_count	first_location	original_escaped	translation_escaped
+S00135	untranslated	text	3	15	src/Questena.js#/root/0/2141	"\""0xffffff\"""	
+S00140	untranslated	text	2	6	src/Questena.js#/root/2/TitleScreen/1/7/11	S  E  X  E  N  A	
+S00243	untranslated	text	1	5	src/Questena.js#/root/2/Howler/7/1/b/8	":\""volume:"	
+S00261	untranslated	text	1	5	src/Questena.js#/root/2/icall/7/1/b/6	',id:'	
+S00391	untranslated	text	1	5	src/Questena.js#/root/2/debug_menu/1/media/0/12/c-0/1/12/c-1/1/66/c-4/7	:150:150	
+S00703	untranslated	text	1	5	src/Questena.js#/root/2/VenitaScenes/1/Intro/0/18	&mldr;	
+S01784	untranslated	text	1	5	src/Questena.js#/root/2/SetArena/68/1/b/0	refresh_ui:	
+S04252	untranslated	text	1	5	src/Questena.js#/root/2/global decl/12	reset,bg,bgeffect,bgoverlay,actor,actoroverlay,clothes,clothesoverlay,actorfx,fg,fgeffect,fgoverlay,cutawaybg,cutaway,cutawayframe,scene,blurfilter,transition	
+S04253	untranslated	text	1	5	src/Questena.js#/root/2/global decl/16	reset, bg	
+S04291	untranslated	text	1	5	src/Questena.js#/root/2/global decl/220	"\""0x000000\"""	
+S04337	untranslated	text	1	5	src/Questena.js#/root/2/global decl/1878	PlayerGold,PlayerHP,EnemyHP	
+S04342	untranslated	text	1	5	src/Questena.js#/root/2/global decl/1898	sync_watchvars:true	

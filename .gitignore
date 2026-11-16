@@ -1,0 +1,7 @@
+**/_patch_test/
+**/smoke_stage_*/
+**/__pycache__/
+*.asar
+*.exe
+*.sqlite
+*.db

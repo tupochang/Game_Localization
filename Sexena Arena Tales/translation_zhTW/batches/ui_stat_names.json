@@ -1,0 +1,6 @@
+{
+  "S04338": "type:'divbar',max:20,classes:'democlass',name:'體力',bartext:'normal'",
+  "S04339": "type:'text',classes:'democlass2',name:'體力'",
+  "S04340": "type:'text',name:'金幣'",
+  "S04341": "type:'divbar',name:'敵方生命值',max:20,classes:'hide',bartext:'normal'"
+}

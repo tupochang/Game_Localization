@@ -1,0 +1,21 @@
+﻿line	tag	place	text_escaped
+6	title	text	Sexena
+109	div	text	\r\n            All depicted individuals are adults over the age of 21\r\n        
+116	button	text	X
+166	div	text	1x
+167	div	text	Sound On
+194	div	text	\r\n\t\t\t\t\t\t\t\t\t/\r\n\t\t\t\t\t\t\t\t\t
+211	span	text	EnemyHP
+212	span	text	0 
+212	div	text	 / 
+212	span	text	20
+224	div	text	X
+226	li	text	Save
+227	li	text	Load
+228	li	text	Restart
+229	li	text	Quit
+238	input	@value	Save
+240	div	text	Game Saved!  
+240	input	@value	Ok
+252	button	text	Save
+255	input	@value	Load

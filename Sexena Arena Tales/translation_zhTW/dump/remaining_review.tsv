@@ -1,0 +1,443 @@
+id	original	category	reason	active_count	ink_pointers
+S00001	var	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/0/1/0/3/1/b/3;#/root/0/1/0/3/1/b/14
+S00002	style	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/3/1/b/9
+S00003	{	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/3/1/b/17
+S00004	opacity:0.50;	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/3/1/b/21
+S00005	}	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/3/1/b/24
+S00006	/style	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/3/1/b/30
+S00007	hr	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/10
+S00008	br	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/23
+S00009	i	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/36
+S00010	span	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	10	#/root/0/1/0/49;#/root/0/1/0/62;#/root/0/1/0/133;#/root/0/1/0/250;#/root/0/1/0/265;#/root/0/1/0/278;#/root/0/1/0/297;#/root/0/1/0/326;#/root/2/capitalize/8;#/root/2/capitalize/22
+S00011	div	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	21	#/root/0/1/0/75;#/root/0/1/0/88;#/root/0/1/0/101;#/root/0/1/0/120;#/root/0/1/0/146;#/root/0/1/0/159;#/root/0/1/0/172;#/root/0/1/0/185;#/root/0/1/0/198;#/root/0/1/0/217;#/root/0/1/0/236;#/root/0/1/0/345;#/root/0/1/0/358;#/root/2/imgDisplay/5/1/b/36;#/root/2/imgDisplay/5/1/b/73;#/root/2/SevenSharks/1/2;#/root/2/SevenSharks/1/12;#/root/2/SevenSharks/1/22;#/root/2/cardListNameStyled/34;#/root/2/gdCardListNameStyled/15;#/root/2/global decl/96
+S00012	 center	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/108
+S00013	 stretch1000 fadeInUp animated	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/0/1/0/205;#/root/0/1/0/224
+S00014	 delay-1halfs stretch500 swing-bottom-fwd animated	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/243
+S00015	centerline	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/253
+S00016	uiicon uitime	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/281
+S00017	uigold	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/0/1/0/300;#/root/0/1/0/314
+S00018	/span	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/311
+S00019	uiicon uisocial	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/0/1/0/329
+S00020	ui/title.png	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/5
+S00021	title chapterui seperator	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/8
+S00022	ui/chapter_seperator.png	visual_key	圖像、動畫、姿勢或結局資源識別值。	5	#/root/0/15;#/root/2/SevenSharks/1/38/23;#/root/2/TallyWinner/0/59/28/6/b/13;#/root/2/TallyWinner/0/59/29/6/b/13;#/root/2/TallyWinner/0/59/30/1/b/13
+S00023	chapterui seperator	visual_key	圖像、動畫、姿勢或結局資源識別值。	5	#/root/0/18;#/root/2/SevenSharks/1/38/26;#/root/2/TallyWinner/0/59/28/6/b/16;#/root/2/TallyWinner/0/59/29/6/b/16;#/root/2/TallyWinner/0/59/30/1/b/16
+S00024	endings2	visual_key	圖像、動畫、姿勢或結局資源識別值。	3	#/root/0/25;#/root/0/36;#/root/0/47
+S00025	RatEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/28
+S00026	DemocracyEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/39
+S00027	HaremEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/50
+S00028	endings	visual_key	圖像、動畫、姿勢或結局資源識別值。	10	#/root/0/58;#/root/0/69;#/root/0/80;#/root/0/91;#/root/0/102;#/root/0/113;#/root/0/124;#/root/0/135;#/root/0/146;#/root/0/157
+S00029	KoboldEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/61
+S00030	GoblinEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/72
+S00031	OrcEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/83
+S00032	GnollEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/94
+S00033	MinotaurEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/105
+S00034	EttinEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/116
+S00035	GargoyleEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/127
+S00036	QuicklingEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/138
+S00037	HydraEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/149
+S00038	TrollEnd	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/160
+S00039	dragonscene_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	2	#/root/0/168;#/root/0/179
+S00040	idle	visual_key	圖像、動畫、姿勢或結局資源識別值。	22	#/root/0/171;#/root/0/182;#/root/0/298;#/root/0/452;#/root/0/463;#/root/0/606;#/root/0/760;#/root/0/881;#/root/0/991;#/root/0/1101;#/root/0/1255;#/root/0/1354;#/root/0/1464;#/root/0/1563;#/root/0/1733;#/root/0/1777;#/root/0/1856;#/root/0/2025;#/root/2/global decl/966;#/root/2/global decl/990;#/root/2/global decl/1014;#/root/2/global decl/1090
+S00041	dragonscene	visual_key	圖像、動畫、姿勢或結局資源識別值。	9	#/root/0/190;#/root/0/201;#/root/0/212;#/root/0/223;#/root/0/234;#/root/0/245;#/root/0/256;#/root/0/267;#/root/0/278
+S00042	dumbset	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/193
+S00043	firepose	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/204
+S00044	lewdgameover	visual_key	圖像、動畫、姿勢或結局資源識別值。	10	#/root/0/215;#/root/0/375;#/root/0/749;#/root/0/870;#/root/0/947;#/root/0/1090;#/root/0/1244;#/root/0/1343;#/root/0/1420;#/root/0/1552
+S00045	tailpose	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/226
+S00046	battlepose	visual_key	圖像、動畫、姿勢或結局資源識別值。	8	#/root/0/237;#/root/0/859;#/root/0/936;#/root/0/1046;#/root/0/1123;#/root/0/1398;#/root/0/1541;#/root/0/1662
+S00047	defeat	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/248
+S00048	happy	visual_key	圖像、動畫、姿勢或結局資源識別值。	12	#/root/0/259;#/root/0/331;#/root/0/639;#/root/0/782;#/root/0/969;#/root/0/1057;#/root/0/1233;#/root/0/1310;#/root/0/1431;#/root/0/1530;#/root/0/1629;#/root/0/1867
+S00049	mad	visual_key	圖像、動畫、姿勢或結局資源識別值。	9	#/root/0/270;#/root/0/617;#/root/0/771;#/root/0/958;#/root/0/1068;#/root/0/1211;#/root/0/1442;#/root/0/1508;#/root/0/1618
+S00050	shock	visual_key	圖像、動畫、姿勢或結局資源識別值。	6	#/root/0/281;#/root/0/628;#/root/0/1321;#/root/0/1519;#/root/0/1651;#/root/0/1889
+S00051	reddragon_intro.jpg	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/289
+S00052	ratscenes_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	5	#/root/0/295;#/root/0/306;#/root/0/317;#/root/0/328;#/root/0/339
+S00053	angry	visual_key	圖像、動畫、姿勢或結局資源識別值。	3	#/root/0/309;#/root/0/1332;#/root/0/1878
+S00054	sassy	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/320
+S00055	sad	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/342
+S00056	ratscenes	visual_key	圖像、動畫、姿勢或結局資源識別值。	9	#/root/0/350;#/root/0/361;#/root/0/372;#/root/0/383;#/root/0/394;#/root/0/405;#/root/0/416;#/root/0/427;#/root/0/438
+S00057	attack	visual_key	圖像、動畫、姿勢或結局資源識別值。	3	#/root/0/353;#/root/0/650;#/root/0/1299
+S00058	rathugged	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/364
+S00059	lewdgameover2	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/386
+S00060	lewdgameover3	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/397
+S00061	lewdgameover4	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/408
+S00062	sex1	visual_key	圖像、動畫、姿勢或結局資源識別值。	16	#/root/0/419;#/root/0/672;#/root/0/804;#/root/0/892;#/root/0/1002;#/root/0/1112;#/root/0/1266;#/root/0/1365;#/root/0/1475;#/root/0/1574;#/root/0/1744;#/root/0/1788;#/root/2/global decl/946;#/root/2/global decl/970;#/root/2/global decl/994;#/root/2/global decl/1018
+S00063	sex2	visual_key	圖像、動畫、姿勢或結局資源識別值。	16	#/root/0/430;#/root/0/683;#/root/0/815;#/root/0/903;#/root/0/1013;#/root/0/1134;#/root/0/1277;#/root/0/1376;#/root/0/1486;#/root/0/1585;#/root/0/1755;#/root/0/1799;#/root/2/global decl/950;#/root/2/global decl/974;#/root/2/global decl/998;#/root/2/global decl/1022
+S00064	skitter	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/441
+S00065	koboldscene	visual_key	圖像、動畫、姿勢或結局資源識別值。	14	#/root/0/449;#/root/0/460;#/root/0/471;#/root/0/482;#/root/0/493;#/root/0/504;#/root/0/515;#/root/0/526;#/root/0/537;#/root/0/548;#/root/0/559;#/root/0/570;#/root/0/581;#/root/0/592
+S00066	apron	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/474
+S00067	combatstew	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/485
+S00068	tummy	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/496
+S00069	sex	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/507
+S00070	sex_a	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/518
+S00071	sex_b	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/529
+S00072	sex_b_condom	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/540
+S00073	stewcum	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/551
+S00074	stewcum_condom	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/562
+S00075	stewcum_cup	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/573
+S00076	stewcum_stew	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/584
+S00077	tug	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/595
+S00078	goblinscenes_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/603
+S00079	goblinscenes	visual_key	圖像、動畫、姿勢或結局資源識別值。	13	#/root/0/614;#/root/0/625;#/root/0/636;#/root/0/647;#/root/0/658;#/root/0/669;#/root/0/680;#/root/0/691;#/root/0/702;#/root/0/713;#/root/0/724;#/root/0/735;#/root/0/746
+S00080	knockeddown	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/661
+S00081	sex3	visual_key	圖像、動畫、姿勢或結局資源識別值。	14	#/root/0/694;#/root/0/914;#/root/0/1024;#/root/0/1145;#/root/0/1288;#/root/0/1387;#/root/0/1497;#/root/0/1596;#/root/0/1766;#/root/0/1810;#/root/2/global decl/954;#/root/2/global decl/978;#/root/2/global decl/1002;#/root/2/global decl/1026
+S00082	sex4	visual_key	圖像、動畫、姿勢或結局資源識別值。	7	#/root/0/705;#/root/0/848;#/root/0/925;#/root/0/1035;#/root/0/1156;#/root/0/1607;#/root/2/global decl/1030
+S00083	sex4b	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/716
+S00084	sex5	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/727
+S00085	sex6	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/738
+S00086	ettinscene_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	4	#/root/0/757;#/root/0/768;#/root/0/779;#/root/0/790
+S00087	surprised	visual_key	圖像、動畫、姿勢或結局資源識別值。	5	#/root/0/793;#/root/0/980;#/root/0/1079;#/root/0/1222;#/root/0/1453
+S00088	ettinscene	visual_key	圖像、動畫、姿勢或結局資源識別值。	7	#/root/0/801;#/root/0/812;#/root/0/823;#/root/0/834;#/root/0/845;#/root/0/856;#/root/0/867
+S00089	sex3a	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/826
+S00090	sex3b	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/837
+S00091	trollscenes_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/878
+S00092	trollscenes	visual_key	圖像、動畫、姿勢或結局資源識別值。	9	#/root/0/889;#/root/0/900;#/root/0/911;#/root/0/922;#/root/0/933;#/root/0/944;#/root/0/955;#/root/0/966;#/root/0/977
+S00093	quicklingscenes_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/988
+S00094	quicklingscenes	visual_key	圖像、動畫、姿勢或結局資源識別值。	9	#/root/0/999;#/root/0/1010;#/root/0/1021;#/root/0/1032;#/root/0/1043;#/root/0/1054;#/root/0/1065;#/root/0/1076;#/root/0/1087
+S00095	orcscene_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1098
+S00096	orcscene	visual_key	圖像、動畫、姿勢或結局資源識別值。	13	#/root/0/1109;#/root/0/1120;#/root/0/1131;#/root/0/1142;#/root/0/1153;#/root/0/1164;#/root/0/1175;#/root/0/1186;#/root/0/1197;#/root/0/1208;#/root/0/1219;#/root/0/1230;#/root/0/1241
+S00097	grabpaper	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1167
+S00098	grabrock	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1178
+S00099	grabscissor	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1189
+S00100	grabsex	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1200
+S00101	minotaurscenes_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1252
+S00102	minotaurscenes	visual_key	圖像、動畫、姿勢或結局資源識別值。	8	#/root/0/1263;#/root/0/1274;#/root/0/1285;#/root/0/1296;#/root/0/1307;#/root/0/1318;#/root/0/1329;#/root/0/1340
+S00103	hydrascenes_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1351
+S00104	hydrascenes	visual_key	圖像、動畫、姿勢或結局資源識別值。	9	#/root/0/1362;#/root/0/1373;#/root/0/1384;#/root/0/1395;#/root/0/1406;#/root/0/1417;#/root/0/1428;#/root/0/1439;#/root/0/1450
+S00105	cumshot	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1409
+S00106	gnollscene_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1461
+S00107	gnollscene	visual_key	圖像、動畫、姿勢或結局資源識別值。	8	#/root/0/1472;#/root/0/1483;#/root/0/1494;#/root/0/1505;#/root/0/1516;#/root/0/1527;#/root/0/1538;#/root/0/1549
+S00108	gargoylescene_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1560
+S00109	gargoylescene	visual_key	圖像、動畫、姿勢或結局資源識別值。	9	#/root/0/1571;#/root/0/1582;#/root/0/1593;#/root/0/1604;#/root/0/1615;#/root/0/1626;#/root/0/1637;#/root/0/1648;#/root/0/1659
+S00110	scary	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1640
+S00111	venitascenes	visual_key	圖像、動畫、姿勢或結局資源識別值。	7	#/root/0/1670;#/root/0/1681;#/root/0/1692;#/root/0/1703;#/root/0/1712;#/root/0/1721;#/root/2/global decl/930
+S00112	level1	visual_key	圖像、動畫、姿勢或結局資源識別值。	2	#/root/0/1673;#/root/2/global decl/934
+S00113	level2	visual_key	圖像、動畫、姿勢或結局資源識別值。	2	#/root/0/1684;#/root/2/global decl/938
+S00114	level3	visual_key	圖像、動畫、姿勢或結局資源識別值。	2	#/root/0/1695;#/root/2/global decl/942
+S00115	exiescene	visual_key	圖像、動畫、姿勢或結局資源識別值。	4	#/root/0/1730;#/root/0/1741;#/root/0/1752;#/root/0/1763
+S00116	adinascene	visual_key	圖像、動畫、姿勢或結局資源識別值。	5	#/root/0/1774;#/root/0/1785;#/root/0/1796;#/root/0/1807;#/root/2/global decl/986
+S00117	tamaniscene_anim	visual_key	圖像、動畫、姿勢或結局資源識別值。	4	#/root/0/1853;#/root/0/1864;#/root/0/1875;#/root/0/1886
+S00118	tamaniscene	visual_key	圖像、動畫、姿勢或結局資源識別值。	9	#/root/0/1897;#/root/0/1908;#/root/0/1919;#/root/0/1930;#/root/0/1941;#/root/0/1952;#/root/0/1963;#/root/0/1974;#/root/0/1985
+S00119	sex_01	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1900
+S00120	sex_02	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1911
+S00121	sex_03	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1922
+S00122	sex_04	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1933
+S00123	sex_05	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1944
+S00124	withvenitaidle	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1955
+S00125	withvenitahappy	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1966
+S00126	withvenitamad	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1977
+S00127	withvenitashock	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/1988
+S00128	object	visual_key	圖像、動畫、姿勢或結局資源識別值。	3	#/root/0/2033;#/root/0/2042;#/root/0/2051
+S00129	intro	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/2061
+S00130	play	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/2070
+S00131	style2	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/2079
+S00132	style1	visual_key	圖像、動畫、姿勢或結局資源識別值。	5	#/root/0/2088;#/root/0/2115;#/root/0/2124;#/root/0/2133;#/root/0/2149
+S00133	style3	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/2097
+S00134	style4	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/2106
+S00135	"""0xffffff"""	color	畫面顏色常數；變更會影響色彩。	3	#/root/0/2141;#/root/2/spine/21;#/root/2/tintColor/6/1/b/3
+S00136	style5	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/2158
+S00137	tug_style1	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/2167
+S00138	slap_style1	visual_key	圖像、動畫、姿勢或結局資源識別值。	1	#/root/0/2176
+S00139	 	space	空字串或排版空白。	256	#/root/2/TitleScreen/1/4/1/b/0;#/root/2/TitleScreen/1/7/25/25/c-0/0;#/root/2/TitleScreen/1/7/25/25/c-1/0;#/root/2/GameStart/0/0/4/1/b/0;#/root/2/nameStyling/5/1/b/19;#/root/2/portraitStyling/5/1/b/19;#/root/2/clearstage/3/1/b/6;#/root/2/clearstage/3/1/b/14;#/root/2/clearstage/3/1/b/22;#/root/2/clearstage/3/1/b/30;#/root/2/clearstage/3/1/b/38;#/root/2/clearstage/3/1/b/46;#/root/2/clearstage/3/1/b/54;#/root/2/clearstage/3/1/b/62;#/root/2/clearstage/3/1/b/70;#/root/2/clearstage/3/1/b/78;#/root/2/clearstage/3/1/b/86;#/root/2/clearstage/3/1/b/94;#/root/2/clearstage/3/1/b/102;#/root/2/clearbg/3/1/b/6;#/root/2/clearbg/3/1/b/14;#/root/2/clearbg/3/1/b/22;#/root/2/clearbg/3/1/b/30;#/root/2/clearbg/3/1/b/38;#/root/2/clearbg/3/1/b/46;#/root/2/clearbg/3/1/b/54;#/root/2/clearactor/3/1/b/6;#/root/2/clearactor/3/1/b/14;#/root/2/clearactor/3/1/b/22;#/root/2/clearactor/3/1/b/30;#/root/2/clearactor/3/1/b/38;#/root/2/fullscreen_transition/21/1/b/1/6/b/7;#/root/2/fullscreen_transition/21/1/b/3/14/b/7;#/root/2/imgDisplay/5/1/b/31/1/b/3;#/root/2/setCutaway/18;#/root/2/SoundStop/9;#/root/2/SoundIntro/16/1/b/20;#/root/2/SoundIntro/16/1/b/34;#/root/2/soundsettings/0/0/24/c-0/1/42/c-6/0;#/root/2/soundsettings/0/0/24/c-0/1/42/g-0/5;#/root/2/soundsettings/0/0/24/c-0/1/42/g-0/11;#/root/2/soundsettings/0/0/24/c-1/1/42/c-6/0;#/root/2/soundsettings/0/0/24/c-1/1/42/g-0/5;#/root/2/soundsettings/0/0/24/c-2/1/42/c-6/0;#/root/2/soundsettings/0/0/24/c-2/1/42/g-0/5;#/root/2/soundsettings/0/0/24/c-2/1/42/g-0/11;#/root/2/soundsettings/0/0/24/c-3/0;#/root/2/saveload/2/0/18/c-0/0;#/root/2/saveload/2/0/18/c-0/8/54/c-0/16;#/root/2/saveload/2/0/18/c-0/8/54/c-1/16;#/root/2/saveload/2/0/18/c-0/8/54/c-2/16;#/root/2/saveload/2/0/18/c-0/8/54/c-3/16;#/root/2/saveload/2/0/18/c-0/8/54/c-4/16;#/root/2/saveload/2/0/18/c-0/8/54/c-5/16;#/root/2/saveload/2/0/18/c-0/8/54/c-6/16;#/root/2/saveload/2/0/18/c-0/8/54/c-7/16;#/root/2/saveload/2/0/18/c-0/8/54/c-8/0;#/root/2/saveload/2/0/18/c-1/0;#/root/2/saveload/2/0/18/c-1/8/54/c-0/16;#/root/2/saveload/2/0/18/c-1/8/54/c-1/16;#/root/2/saveload/2/0/18/c-1/8/54/c-2/16;#/root/2/saveload/2/0/18/c-1/8/54/c-3/16;#/root/2/saveload/2/0/18/c-1/8/54/c-4/16;#/root/2/saveload/2/0/18/c-1/8/54/c-5/16;#/root/2/saveload/2/0/18/c-1/8/54/c-6/16;#/root/2/saveload/2/0/18/c-1/8/54/c-7/16;#/root/2/saveload/2/0/18/c-1/8/54/c-8/0;#/root/2/saveload/2/1/g-0/1/5;#/root/2/swapEnemy/5/1/b/0;#/root/2/characterDefine/5/6/b/8/6/b/9;#/root/2/addbulge/7;#/root/2/flow/1/10/c-0/0;#/root/2/respond/1/10/c-0/0;#/root/2/respond/1/10/c-0/7;#/root/2/goBack/1/11/c-0/0;#/root/2/debug_menu/0/24/c-2/1/30/c-3/0;#/root/2/debug_menu/0/24/c-2/1/30/c-3/2/24/c-0/0;#/root/2/debug_menu/0/24/c-2/1/30/c-3/2/24/c-1/0;#/root/2/debug_menu/0/24/c-2/1/30/c-3/2/24/c-2/0;#/root/2/debug_menu/0/24/c-2/1/30/c-3/2/24/c-3/0;#/root/2/debug_menu/0/24/c-2/1/30/c-4/0;#/root/2/debug_menu/0/24/c-3/0;#/root/2/debug_menu/1/media/0/12/c-1/1/72/c-11/0;#/root/2/Tutorial/10/walkthroughintro/18;#/root/2/Tutorial/10/walkthroughintro/25;#/root/2/Tutorial/10/walkthroughintro/67;#/root/2/Tutorial/10/walkthroughintro/143;#/root/2/GalleryScreen/0/44/g-0/1/116/c-4/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-4/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-4/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-4/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-5/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-5/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-5/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-5/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-6/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-6/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-6/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-6/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-7/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-7/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-7/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-7/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-8/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-8/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-8/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-8/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-9/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-9/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-9/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-9/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-10/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-10/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-10/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-10/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-11/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-11/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-11/2/19/c-1/1/12/c-1/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-11/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-12/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-12/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-12/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-12/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-13/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-13/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-13/2/19/c-1/1/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-13/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-14/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-14/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-14/2/19/c-1/1/12/c-1/0;#/root/2/GalleryScreen/0/44/g-0/1/116/c-14/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-16/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-16/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-16/2/19/c-1/1/12/c-1/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-16/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-17/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-17/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-17/2/19/c-1/1/12/c-1/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-17/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-18/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-18/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-18/2/19/c-1/1/12/c-1/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-18/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-19/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-19/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-19/2/19/c-1/1/12/c-1/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-19/2/19/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-20/2/19/c-0/12/18/c-2/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-20/2/19/c-0/12/18/g-0/6/c-3/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-20/2/19/c-1/1/12/c-1/0;#/root/2/GalleryScreen/0/44/g-1/4/62/c-20/2/19/c-2/0;#/root/2/SexenaMap/0/51/1/b/0;#/root/2/SexenaMap/0/67/1/b/0;#/root/2/SexenaMap/0/70/61/c-0/0;#/root/2/SexenaMap/0/70/61/c-1/0;#/root/2/SexenaMap/0/70/61/c-2/0;#/root/2/SexenaMap/0/70/61/c-3/0;#/root/2/SexenaMap/0/70/61/c-4/0;#/root/2/SexenaMap/0/70/61/c-5/1/26/c-1/0;#/root/2/SexenaMap/0/70/61/c-5/1/26/c-2/0;#/root/2/SexenaMap/0/71/g-0/1/10/10/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/23/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/36/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/49/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/62/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/75/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/88/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/101/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/114/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/127/1/b/8;#/root/2/SexenaMap/0/71/g-0/1/10/140/1/b/8;#/root/2/Tavern/1/Init/0/5/1/b/0;#/root/2/Tavern/1/tavern/0/4;#/root/2/Tavern/1/tavern/0/24/6/37/c-0/5;#/root/2/Tavern/1/tavern/0/24/6/37/c-3/0;#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/7;#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/c-0/0;#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/excuseme/5;#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/sauce_top/0/21/g-0/12/c-3/5;#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/sauce_top/0/21/g-0/12/c-4/5;#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/sauce_top/0/21/g-1/10;#/root/2/VenitaScenes/1/Intro/0/25/c-0/10/13/c-0/15/6/c-0/31/12/c-1/0;#/root/2/VenitaScenes/1/Intro/0/25/c-0/10/13/c-0/15/6/c-0/31/12/g-0/14/4/1/b/0;#/root/2/VenitaScenes/1/rat/0/0/89/4/26/c-0/0;#/root/2/VenitaScenes/1/rat/0/0/89/4/26/c-0/78/14/c-0/0;#/root/2/VenitaScenes/1/rat/0/0/89/4/26/c-1/14/6/g-0/14/18/c-0/0;#/root/2/ItemShop/4/itemshop/0/60/c-2/0;#/root/2/WeaponShop/4/weaponshop/0/59/c-2/0;#/root/2/ArmorShop/4/armorshop/0/58/c-2/0;#/root/2/AdinaScenes/1/talkconditions/4/1/b/0;#/root/2/Arena/1/entry/0/25;#/root/2/Arena/1/entry/0/34/25/c-0/1/12/c-0/5;#/root/2/Arena/1/entry/0/34/25/c-1/0;#/root/2/Arena/1/entry/0/35/g-0/1/3/1/b/5;#/root/2/Arena/1/entry/0/35/g-0/1/10/4;#/root/2/Arena/1/fighterintro/7;#/root/2/Arena/1/fighterintro/12;#/root/2/SetArena/12;#/root/2/SetArena/18;#/root/2/CombatResult/1/events/0/6/b/1/11/s0/1;#/root/2/ArenaEvents/1/lose/6;#/root/2/ArenaEvents/1/dead/14;#/root/2/showAttack/11;#/root/2/Player/1/Actions/0/5/1/b/0;#/root/2/Player/1/DefendChoice/1/13/c-0/1/16/c-0/5;#/root/2/Player/1/DefendChoice/1/13/c-0/1/16/c-1/0;#/root/2/Player/1/ItemChoice/0/10/c-0/0;#/root/2/Player/1/ItemChoice/0/10/c-0/2/30/c-2/0;#/root/2/RatScenes/1/lickend/0/135/c-0/15/12/c-0/8/12/c-0/8/12/c-1/0;#/root/2/RatScenes/1/lickend/0/135/c-0/15/12/c-0/8/12/c-1/0;#/root/2/RatScenes/1/Intro/0/45/c-0/35/12/c-1/0;#/root/2/RatScenes/1/Fuck/0/4;#/root/2/RatScenes/1/Fuck/0/25/c-0/0;#/root/2/KoboldScenes/1/Mid/0/33/c-1/0;#/root/2/KoboldScenes/1/Fuck/0/51/c-0/140/6/c-0/0;#/root/2/GoblinScenes/1/Fuck/0/160;#/root/2/GoblinScenes/1/Fuck/0/586;#/root/2/GnollScenes/1/Fuck/4;#/root/2/SevenSharks/1/38/10;#/root/2/SevenSharks/1/38/20;#/root/2/SevenSharks/1/38/32/73/c-5/0;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-0/0;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/136/c-5/0;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-2/0;#/root/2/TallyWinner/0/59/28/6/b/41;#/root/2/TallyWinner/0/59/28/6/b/51;#/root/2/TallyWinner/0/59/28/6/b/65/1/b/14;#/root/2/TallyWinner/0/59/28/6/b/65/1/b/24;#/root/2/TallyWinner/0/59/29/6/b/41;#/root/2/TallyWinner/0/59/29/6/b/51;#/root/2/TallyWinner/0/59/29/6/b/65/1/b/14;#/root/2/TallyWinner/0/59/29/6/b/65/1/b/24;#/root/2/TallyWinner/0/59/30/1/b/41;#/root/2/TallyWinner/0/59/30/1/b/51;#/root/2/TallyWinner/0/59/30/1/b/65/1/b/14;#/root/2/TallyWinner/0/59/30/1/b/65/1/b/24;#/root/2/TallyWinner/0/59/86/c-0/0;#/root/2/TallyWinner/0/59/86/c-1/0;#/root/2/cardListSuit/6/1/b/0;#/root/2/cardListSuit/22/1/b/0;#/root/2/cardListSuit/30/1/b/0;#/root/2/cardListName/17/1/b/13;#/root/2/cardListName/22/1/b/4;#/root/2/cardListNameStyled/49/1/b/17;#/root/2/cardListNameStyled/54/1/b/16;#/root/2/GambleDrink/59/showhand/0/46/different_choice/18/c-3/0;#/root/2/GambleDrink/59/showhand/0/46/same_choice/18/c-8/0;#/root/2/gdCardListSuit/8/1/b/12/1/b/0;#/root/2/gdCardListName/16/1/b/13;#/root/2/gdCardListName/21/1/b/4;#/root/2/gdCardListNameStyled/30/1/b/17;#/root/2/gdCardListNameStyled/35/1/b/16;#/root/2/CatchPig/0/19;#/root/2/CatchPig/0/28/3/1/b/0;#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-3/18/0/2/c-0/17;#/root/2/XXXScenes/1/Quip/0/0/12
+S00140	S  E  X  E  N  A	brand	標題畫面的 Sexena 標誌，保留原品牌字形。	2	#/root/2/TitleScreen/1/7/11;#/root/2/EndingScenes/1/Credits/0/7
+S00142		space	空字串或排版空白。	299	#/root/2/TitleScreen/1/7/21;#/root/2/drawDiv/10/3;#/root/2/nameStyling/6/1/b/3;#/root/2/portraitStyling/6/1/b/3;#/root/2/d/3;#/root/2/glue/2;#/root/2/clearstage/3/1/b/110;#/root/2/clearactor/3/1/b/46;#/root/2/clearfadecharacter/3/1/b/5;#/root/2/clearfadestage/3/1/b/5;#/root/2/clearfadeall/3/1/b/5;#/root/2/clearfadeall/3/1/b/11;#/root/2/SetStage/3/1/b/5;#/root/2/SetStage/3/1/b/11;#/root/2/NukeStage/3/1/b/5;#/root/2/fullscreen_transition/8;#/root/2/imgDisplay/5/1/b/3;#/root/2/imgDisplay/5/1/b/20;#/root/2/imgDisplay/5/1/b/27;#/root/2/setCutaway/24;#/root/2/DS/51/6/b/5;#/root/2/SoundPlay/26;#/root/2/SoundFadeIn/9/1/b/1/3;#/root/2/SoundFadeIn/9/1/b/2/3;#/root/2/soundsettings/0/0/24/c-0/1/42/c-0/6;#/root/2/soundsettings/0/0/24/c-0/1/42/c-1/6;#/root/2/characterDefine/6/6/b/8/6/b/4;#/root/2/characterDefine/6/6/b/15;#/root/2/clean/1/4/b/3;#/root/2/commaListName/7/6/b/20;#/root/2/commaListName/9/6/b/6;#/root/2/commaListName/10/1/b/20;#/root/2/commaList/6/6/b/17;#/root/2/commaList/8/6/b/6;#/root/2/commaList/9/1/b/17;#/root/2/SexenaMap/0/71/g-0/1/10/10/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/23/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/36/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/49/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/62/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/75/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/88/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/101/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/114/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/127/1/b/14;#/root/2/SexenaMap/0/71/g-0/1/10/140/1/b/14;#/root/2/Tavern/1/Init/0/7;#/root/2/Tavern/1/tavern/0/25/end/8/11/5;#/root/2/ItemShop/4/itemshop/0/4;#/root/2/WeaponShop/4/weaponshop/0/4;#/root/2/WeaponShop/4/weaponshop/0/19;#/root/2/ArmorShop/4/armorshop/0/4;#/root/2/Arena/1/entry/0/35/g-0/1/3/1/b/11;#/root/2/Arena/1/fighterintro/22;#/root/2/Arena/1/fighterintro/28/6/b/2;#/root/2/Arena/1/fighterintro/30;#/root/2/RatScenes/1/Fuck/0/25/c-0/10;#/root/2/KoboldScenes/1/Fuck/0/4;#/root/2/KoboldScenes/1/Fuck/0/11;#/root/2/KoboldScenes/1/Fuck/0/24;#/root/2/KoboldScenes/1/LewdGameOver/0/16;#/root/2/KoboldScenes/1/LewdGameOver/0/23;#/root/2/GoblinScenes/1/Intro/0/33/c-0/103;#/root/2/GoblinScenes/1/LewdGameOver/59;#/root/2/GoblinScenes/1/Fuck/0/22;#/root/2/GoblinScenes/1/Fuck/0/206;#/root/2/GoblinScenes/1/Fuck/0/417;#/root/2/GoblinScenes/1/Fuck/0/472;#/root/2/MinotaurScenes/1/NoSword/6/6/b/8;#/root/2/MinotaurScenes/1/Fuck/10;#/root/2/EttinScenes/1/Fuck/696;#/root/2/SevenSharks/1/38/32/73/c-5/404;#/root/2/SevenSharks/2/showhand/0/24/15/13;#/root/2/SevenSharks/2/showhand/0/24/15/51;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-0/30;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/7;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/28;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/54;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/80;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/106;#/root/2/SevenSharks/2/showhand/0/24/15/93/c-3/1/18/c-0/5;#/root/2/EnemyTurn/57;#/root/2/EnemyTurn/79;#/root/2/TallyWinner/0/51/10/b/14/1/b/14;#/root/2/TallyWinner/0/51/10/b/30/1/b/14;#/root/2/scoreSuitAI/6;#/root/2/cardListSuit/6/1/b/6;#/root/2/cardListSuit/14/1/b/6;#/root/2/cardListSuit/22/1/b/6;#/root/2/cardListSuit/30/1/b/6;#/root/2/cardListSuitExt/11/1/b/1/4/b/6;#/root/2/cardListSuitExt/11/1/b/2/1/b/6;#/root/2/cardListSuitExt/20/1/b/10/4/b/6;#/root/2/cardListSuitExt/20/1/b/11/1/b/6;#/root/2/cardListSuitExt/29/1/b/19/4/b/6;#/root/2/cardListSuitExt/29/1/b/20/1/b/6;#/root/2/cardListSuitExt/38/1/b/28/4/b/6;#/root/2/cardListSuitExt/38/1/b/29/1/b/6;#/root/2/cardListSuitExt/38/1/b/31;#/root/2/cardListName/17/1/b/11/1/b/2;#/root/2/cardListNameStyled/16;#/root/2/cardListNameStyled/22;#/root/2/cardListNameStyled/28;#/root/2/dealCard/34/1/b/4;#/root/2/gdCardListSuitExt/10/1/b/13/1/b/1/4/b/10;#/root/2/gdCardListSuitExt/10/1/b/13/1/b/2/1/b/10;#/root/2/gdCardListName/16/1/b/11/1/b/2;#/root/2/gdDealCard/34/1/b/4;#/root/2/CatchPig/0/2;#/root/2/global decl/230;#/root/2/global decl/234;#/root/2/global decl/310;#/root/2/global decl/314;#/root/2/global decl/318;#/root/2/global decl/322;#/root/2/global decl/326;#/root/2/global decl/330;#/root/2/global decl/334;#/root/2/global decl/338;#/root/2/global decl/342;#/root/2/global decl/346;#/root/2/global decl/350;#/root/2/global decl/354;#/root/2/global decl/358;#/root/2/global decl/362;#/root/2/global decl/366;#/root/2/global decl/370;#/root/2/global decl/374;#/root/2/global decl/378;#/root/2/global decl/382;#/root/2/global decl/386;#/root/2/global decl/390;#/root/2/global decl/394;#/root/2/global decl/398;#/root/2/global decl/402;#/root/2/global decl/406;#/root/2/global decl/410;#/root/2/global decl/414;#/root/2/global decl/418;#/root/2/global decl/422;#/root/2/global decl/426;#/root/2/global decl/430;#/root/2/global decl/434;#/root/2/global decl/438;#/root/2/global decl/442;#/root/2/global decl/446;#/root/2/global decl/450;#/root/2/global decl/454;#/root/2/global decl/458;#/root/2/global decl/462;#/root/2/global decl/466;#/root/2/global decl/470;#/root/2/global decl/474;#/root/2/global decl/478;#/root/2/global decl/482;#/root/2/global decl/486;#/root/2/global decl/490;#/root/2/global decl/494;#/root/2/global decl/498;#/root/2/global decl/502;#/root/2/global decl/506;#/root/2/global decl/510;#/root/2/global decl/514;#/root/2/global decl/518;#/root/2/global decl/522;#/root/2/global decl/526;#/root/2/global decl/530;#/root/2/global decl/534;#/root/2/global decl/538;#/root/2/global decl/542;#/root/2/global decl/546;#/root/2/global decl/550;#/root/2/global decl/554;#/root/2/global decl/558;#/root/2/global decl/562;#/root/2/global decl/566;#/root/2/global decl/570;#/root/2/global decl/574;#/root/2/global decl/578;#/root/2/global decl/582;#/root/2/global decl/586;#/root/2/global decl/590;#/root/2/global decl/594;#/root/2/global decl/598;#/root/2/global decl/602;#/root/2/global decl/606;#/root/2/global decl/610;#/root/2/global decl/614;#/root/2/global decl/618;#/root/2/global decl/622;#/root/2/global decl/626;#/root/2/global decl/630;#/root/2/global decl/634;#/root/2/global decl/638;#/root/2/global decl/642;#/root/2/global decl/646;#/root/2/global decl/650;#/root/2/global decl/654;#/root/2/global decl/658;#/root/2/global decl/662;#/root/2/global decl/666;#/root/2/global decl/670;#/root/2/global decl/674;#/root/2/global decl/678;#/root/2/global decl/682;#/root/2/global decl/686;#/root/2/global decl/690;#/root/2/global decl/694;#/root/2/global decl/698;#/root/2/global decl/702;#/root/2/global decl/706;#/root/2/global decl/710;#/root/2/global decl/714;#/root/2/global decl/718;#/root/2/global decl/722;#/root/2/global decl/726;#/root/2/global decl/730;#/root/2/global decl/734;#/root/2/global decl/738;#/root/2/global decl/742;#/root/2/global decl/746;#/root/2/global decl/750;#/root/2/global decl/754;#/root/2/global decl/758;#/root/2/global decl/762;#/root/2/global decl/766;#/root/2/global decl/770;#/root/2/global decl/774;#/root/2/global decl/778;#/root/2/global decl/782;#/root/2/global decl/786;#/root/2/global decl/790;#/root/2/global decl/794;#/root/2/global decl/798;#/root/2/global decl/802;#/root/2/global decl/806;#/root/2/global decl/810;#/root/2/global decl/814;#/root/2/global decl/818;#/root/2/global decl/822;#/root/2/global decl/826;#/root/2/global decl/830;#/root/2/global decl/834;#/root/2/global decl/838;#/root/2/global decl/842;#/root/2/global decl/846;#/root/2/global decl/850;#/root/2/global decl/854;#/root/2/global decl/858;#/root/2/global decl/862;#/root/2/global decl/866;#/root/2/global decl/870;#/root/2/global decl/874;#/root/2/global decl/878;#/root/2/global decl/882;#/root/2/global decl/886;#/root/2/global decl/890;#/root/2/global decl/894;#/root/2/global decl/898;#/root/2/global decl/902;#/root/2/global decl/906;#/root/2/global decl/910;#/root/2/global decl/914;#/root/2/global decl/918;#/root/2/global decl/922;#/root/2/global decl/926;#/root/2/global decl/1034;#/root/2/global decl/1038;#/root/2/global decl/1042;#/root/2/global decl/1046;#/root/2/global decl/1050;#/root/2/global decl/1054;#/root/2/global decl/1058;#/root/2/global decl/1062;#/root/2/global decl/1066;#/root/2/global decl/1070;#/root/2/global decl/1074;#/root/2/global decl/1078;#/root/2/global decl/1082;#/root/2/global decl/1214;#/root/2/global decl/1222;#/root/2/global decl/1230;#/root/2/global decl/1346;#/root/2/global decl/1384;#/root/2/global decl/1424;#/root/2/global decl/1464;#/root/2/global decl/1504;#/root/2/global decl/1544;#/root/2/global decl/1584;#/root/2/global decl/1624;#/root/2/global decl/1664;#/root/2/global decl/1704;#/root/2/global decl/1744;#/root/2/global decl/1784;#/root/2/global decl/1824;#/root/2/global decl/1864;#/root/2/global decl/2062;#/root/2/global decl/2066;#/root/2/global decl/2070
+S00147	hpbargroup	ui_id	傳給 show_ui_id 等函式的介面元素 ID。	3	#/root/2/TitleScreen/1/8/g-0/1/8;#/root/2/SetArena/73;#/root/2/ArenaEvents/1/dead/2
+S00148	EnemyHP	ui_id	傳給 show_ui_id 等函式的介面元素 ID。	1	#/root/2/TitleScreen/1/8/g-0/1/16
+S00149	PlayerHP1	ui_id	傳給 show_ui_id 等函式的介面元素 ID。	1	#/root/2/TitleScreen/1/8/g-0/1/24
+S00150	saveto:restart:TitleScreen	ink_command	重新開始時的存檔目標指令。	1	#/root/2/GameStart/0/0/11/3/1/b/0
+S00151	<	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	7	#/root/2/hide/4/1/b/0;#/root/2/simpleCSS/3;#/root/2/CSS/4/6/b/2/18/s0/4;#/root/2/CSS/5/6/b/4;#/root/2/CSSClass/5/6/b/2/18/s0/4;#/root/2/CSSClass/6/6/b/4;#/root/2/CSSOpen/3
+S00152	/	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	3	#/root/2/hide/4/1/b/5/1/b/0;#/root/2/nameStyling/5/1/b/12;#/root/2/portraitStyling/5/1/b/12
+S00153	style> 	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/2/hide/4/1/b/7
+S00154	: 	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/2/drawDiv/4/1/b/3
+S00155	</div>	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/2/drawDiv/10/8/b/11
+S00156	<div class='	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/2/drawDiv/11/1/b/11
+S00157	'>	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/2/drawDiv/11/1/b/21;#/root/2/CSSClass/6/6/b/14
+S00158	<div class='nameui'>	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/2/drawStyle/10/3;#/root/2/drawStyle/10/8/b/11
+S00159	<div class='dialogueui'>	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/2/drawStyle/11/3;#/root/2/drawStyle/11/8/b/11
+S00160	name	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	4	#/root/2/nameStyling/6/1/b/11;#/root/2/nameStyling/6/1/b/37;#/root/2/portraitStyling/6/1/b/41;#/root/2/portraitStyling/6/1/b/67
+S00161	 nameui	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	4	#/root/2/nameStyling/6/1/b/16;#/root/2/nameStyling/6/1/b/42;#/root/2/portraitStyling/6/1/b/46;#/root/2/portraitStyling/6/1/b/72
+S00162	 class='dialogueui name	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/2/nameStyling/6/1/b/55;#/root/2/portraitStyling/6/1/b/85
+S00163	'	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	5	#/root/2/nameStyling/6/1/b/60;#/root/2/portraitStyling/6/1/b/90;#/root/2/spine_ext/51;#/root/2/spine/68;#/root/2/imgDisplay/5/1/b/64
+S00164	portrait	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/2/portraitStyling/6/1/b/11;#/root/2/portraitStyling/6/1/b/26
+S00165	 portraitui	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/2/portraitStyling/6/1/b/16;#/root/2/portraitStyling/6/1/b/31
+S00166	>	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	7	#/root/2/simpleCSS/8;#/root/2/CSS/4/6/b/2/18/s0/9;#/root/2/CSS/4/6/b/2/18/s1/9;#/root/2/CSS/5/6/b/9;#/root/2/CSSClass/5/6/b/2/18/s0/9;#/root/2/CSSClass/5/6/b/2/18/s1/9;#/root/2/CSSOpen/8
+S00167	</	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/2/CSS/4/6/b/2/18/s1/4;#/root/2/CSSClass/5/6/b/2/18/s1/4
+S00168	 class='	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	1	#/root/2/CSSClass/6/6/b/9
+S00169	capitalize	markup	HTML 標籤、CSS 類別或拼接片段；不是對話。	2	#/root/2/capitalize/5;#/root/2/capitalize/19
+S00172	.json:	scene_command	場景圖層、動畫參數或資源路徑片段。	2	#/root/2/spine_ext/14;#/root/2/spine/31
+S00173	:'x:	scene_command	場景圖層、動畫參數或資源路徑片段。	2	#/root/2/spine_ext/19;#/root/2/spine/36
+S00174	,y:	scene_command	場景圖層、動畫參數或資源路徑片段。	2	#/root/2/spine_ext/24;#/root/2/spine/41
+S00175	,scale:	scene_command	場景圖層、動畫參數或資源路徑片段。	2	#/root/2/spine_ext/29;#/root/2/spine/46
+S00176	,loop:	scene_command	場景圖層、動畫參數或資源路徑片段。	3	#/root/2/spine_ext/34;#/root/2/spine/51;#/root/2/Howler/7/1/b/13
+S00177	,timescale:	scene_command	場景圖層、動畫參數或資源路徑片段。	2	#/root/2/spine_ext/39;#/root/2/spine/56
+S00178	,tint:	scene_command	場景圖層、動畫參數或資源路徑片段。	2	#/root/2/spine_ext/45;#/root/2/spine/62
+S00179	clear:text	scene_command	場景圖層、動畫參數或資源路徑片段。	2	#/root/2/clearalltext/3/1/b/3;#/root/2/Arena/1/fighterintro/35/1/b/3
+S00180	transition	scene_command	場景圖層、動畫參數或資源路徑片段。	2	#/root/2/fullscreen_animation/4;#/root/2/trans/3
+S00181	img class='imgdisplay	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/imgDisplay/5/1/b/50
+S00182	' src='	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/imgDisplay/5/1/b/59
+S00183	bg	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/bg/3
+S00184	bgeffect	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/bgeffect/3
+S00185	bgoverlay	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/bgoverlay/3
+S00186	actor	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/actor/3
+S00187	actorfx	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/actorfx/3
+S00188	actoroverlay	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/actoroverlay/3
+S00189	clothes	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/clothes/3
+S00190	clothesoverlay	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/clothesoverlay/3
+S00191	fg	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/fg/3
+S00192	fgeffect	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/fgeffect/3
+S00193	fgoverlay	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/fgoverlay/3
+S00194	cutawaybg	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/cutawaybg/3
+S00195	cutaway	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/cutaway/3
+S00196	cutawayframe	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/cutawayframe/3
+S00197	scene	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/scene/3
+S00198	:	scene_command	場景圖層、動畫參數或資源路徑片段。	3	#/root/2/layerDisplay/5/1/b/1/6/b/4/6/b/8;#/root/2/layerDisplay/5/1/b/1/6/b/5/1/b/8;#/root/2/layerDisplay/5/1/b/2/1/b/7
+S00199	img/	scene_command	場景圖層、動畫參數或資源路徑片段。	1	#/root/2/layerDisplay/5/1/b/2/1/b/10
+S00200	FXCritter.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/5/6/b/5
+S00201	FXFailed.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/6/6/b/5
+S00202	FXFlame.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/7/6/b/5
+S00203	FXFlya.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/8/6/b/5
+S00204	FXGulp.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/9/6/b/5
+S00205	FXMetalClunk.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/10/6/b/5
+S00206	FXMoo.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/11/6/b/5
+S00207	FXPunchFace.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/12/6/b/5
+S00208	FXSpurt.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/13/6/b/5
+S00209	FXSuck.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/14/6/b/5
+S00210	FXWhip.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/15/6/b/5
+S00211	FXBell.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/16/6/b/5
+S00212	FXClank.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/17/6/b/5
+S00213	sfxmiss.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/18/6/b/5
+S00214	sfxsparklewoosh.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/19/6/b/5
+S00215	sfxflirt.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/20/6/b/5
+S00216	sfxhealingitem.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/21/6/b/5
+S00217	FXEnemyLandsAHit_01.mp3	audio_key	音效、語音或音樂檔名。	2	#/root/2/DS/22/6/b/5;#/root/2/DS/27/6/b/5
+S00218	FXYouLandAHit_01.mp3	audio_key	音效、語音或音樂檔名。	2	#/root/2/DS/23/6/b/5;#/root/2/DS/28/6/b/5
+S00219	fx_guitar.mp3	audio_key	音效、語音或音樂檔名。	2	#/root/2/DS/24/6/b/5;#/root/2/DS/29/6/b/5
+S00220	fx_walk.mp3	audio_key	音效、語音或音樂檔名。	2	#/root/2/DS/25/6/b/5;#/root/2/DS/30/6/b/5
+S00221	fx_gold.mp3	audio_key	音效、語音或音樂檔名。	2	#/root/2/DS/26/6/b/5;#/root/2/DS/31/6/b/5
+S00222	VO_venita_02.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/32/6/b/5
+S00223	VO_venita_03.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/33/6/b/5
+S00224	VO_venita_04.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/34/6/b/5
+S00225	VO_venita_01.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/35/6/b/5
+S00226	FXEnterBuilding.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/36/6/b/5
+S00227	music_intro.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/37/6/b/5
+S00228	ambient_taverncrowd.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/38/6/b/5
+S00229	ambient_tavern.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/39/6/b/5
+S00230	ambient_street.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/40/6/b/5
+S00231	ambient_town.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/41/6/b/5
+S00232	ambient_day.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/42/6/b/5
+S00233	music_combat_01.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/43/6/b/5
+S00234	music_combat_02.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/44/6/b/5
+S00235	music_combat_03.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/45/6/b/5
+S00236	music_tavern_02.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/46/6/b/5
+S00237	music_smooth.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/47/6/b/5
+S00238	MUSICCombat.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/48/6/b/5
+S00239	MUSICIntro.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/49/6/b/5
+S00240	MUSICConvo.mp3	audio_key	音效、語音或音樂檔名。	1	#/root/2/DS/50/6/b/5
+S00241	stop()	audio_command	Howler 音訊指令片段。	1	#/root/2/SoundStop/4
+S00242	howler:sound/	audio_command	Howler 音訊指令片段。	3	#/root/2/Howler/7/1/b/3;#/root/2/HowlerExtGain/8/1/b/3;#/root/2/HowlerExt/6/1/b/3
+S00243	":""volume:"	audio_command	Howler 音訊指令片段。	1	#/root/2/Howler/7/1/b/8
+S00244	",action:'play()'"""	audio_command	Howler 音訊指令片段。	1	#/root/2/Howler/7/1/b/18
+S00245	":""action:'fade("	audio_command	Howler 音訊指令片段。	1	#/root/2/HowlerExtGain/8/1/b/8
+S00246	,	audio_command	Howler 音訊指令片段。	6	#/root/2/HowlerExtGain/8/1/b/13;#/root/2/HowlerExtGain/8/1/b/18;#/root/2/SevenSharks/1/38/32/73/c-5/124;#/root/2/SevenSharks/1/38/32/73/c-5/159;#/root/2/SevenSharks/1/38/32/73/c-5/299;#/root/2/SevenSharks/1/38/32/73/c-5/374
+S00247	")'"""	audio_command	Howler 音訊指令片段。	1	#/root/2/HowlerExtGain/8/1/b/23
+S00248	":""action:'"	audio_command	Howler 音訊指令片段。	1	#/root/2/HowlerExt/6/1/b/8
+S00249	"'"""	audio_command	Howler 音訊指令片段。	1	#/root/2/HowlerExt/6/1/b/13
+S00255	1	call_fragment	數值常數或 icall 介面指令片段。	5	#/root/2/soundsettings/0/0/24/c-0/1/8;#/root/2/soundsettings/0/0/24/c-1/1/8;#/root/2/soundsettings/0/0/24/c-2/1/8;#/root/2/SevenSharks/1/38/32/7;#/root/2/SevenSharks/1/38/32/73/c-5/94
+S00256	3	call_fragment	數值常數或 icall 介面指令片段。	5	#/root/2/soundsettings/0/0/24/c-0/1/14;#/root/2/soundsettings/0/0/24/c-1/1/14;#/root/2/soundsettings/0/0/24/c-2/1/14;#/root/2/SevenSharks/1/38/32/33;#/root/2/SevenSharks/1/38/32/73/c-5/324
+S00257	5	call_fragment	數值常數或 icall 介面指令片段。	4	#/root/2/soundsettings/0/0/24/c-0/1/20;#/root/2/soundsettings/0/0/24/c-1/1/20;#/root/2/soundsettings/0/0/24/c-2/1/20;#/root/2/SevenSharks/1/38/32/46
+S00258	7	call_fragment	數值常數或 icall 介面指令片段。	3	#/root/2/soundsettings/0/0/24/c-0/1/26;#/root/2/soundsettings/0/0/24/c-1/1/26;#/root/2/soundsettings/0/0/24/c-2/1/26
+S00259	10	call_fragment	數值常數或 icall 介面指令片段。	3	#/root/2/soundsettings/0/0/24/c-0/1/32;#/root/2/soundsettings/0/0/24/c-1/1/32;#/root/2/soundsettings/0/0/24/c-2/1/32
+S00260	"icall:""call:'"	call_fragment	數值常數或 icall 介面指令片段。	1	#/root/2/icall/7/1/b/1
+S00261	',id:'	call_fragment	數值常數或 icall 介面指令片段。	1	#/root/2/icall/7/1/b/6
+S00262	',attr:{	call_fragment	數值常數或 icall 介面指令片段。	1	#/root/2/icall/7/1/b/11
+S00263	},jquery:{	call_fragment	數值常數或 icall 介面指令片段。	1	#/root/2/icall/7/1/b/16
+S00264	"}"""	call_fragment	數值常數或 icall 介面指令片段。	1	#/root/2/icall/7/1/b/21
+S00265	"icall:""call:'update_ui',id:'statwrap_"	call_fragment	數值常數或 icall 介面指令片段。	2	#/root/2/show_ui_id/4/1/b/1;#/root/2/hide_ui_id/4/1/b/1
+S00266	"',jquery:{removeClass:'hide',addClass:'visible'}"""	call_fragment	數值常數或 icall 介面指令片段。	2	#/root/2/show_ui_id/4/1/b/6;#/root/2/show_ui_id_ext/4/1/b/6
+S00267	"',jquery:{removeClass:'visible',addClass:'hide'}"""	call_fragment	數值常數或 icall 介面指令片段。	2	#/root/2/hide_ui_id/4/1/b/6;#/root/2/hide_ui_id_ext/4/1/b/6
+S00268	"icall:""call:'update_ui',id:'"	call_fragment	數值常數或 icall 介面指令片段。	2	#/root/2/show_ui_id_ext/4/1/b/1;#/root/2/hide_ui_id_ext/4/1/b/1
+S00282	saveto:savepointtest:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-0/8/54/c-0/19
+S00283	saveto:savepoint1:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-0/8/54/c-1/19
+S00284	saveto:savepoint2:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-0/8/54/c-2/19
+S00285	saveto:savepoint3:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-0/8/54/c-3/19
+S00286	saveto:savepoint4:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-0/8/54/c-4/19
+S00287	saveto:savepoint5:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-0/8/54/c-5/19
+S00288	saveto:savepoint6:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-0/8/54/c-6/19
+S00289	saveto:savepoint7:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-0/8/54/c-7/19
+S00292	load:savepointtest	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-1/8/54/c-0/19
+S00293	load:savepoint1	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-1/8/54/c-1/19
+S00294	load:savepoint2	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-1/8/54/c-2/19
+S00295	load:savepoint3	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-1/8/54/c-3/19
+S00296	load:savepoint4	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-1/8/54/c-4/19
+S00297	load:savepoint5	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-1/8/54/c-5/19
+S00298	load:savepoint6	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-1/8/54/c-6/19
+S00299	load:savepoint7	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/saveload/2/0/18/c-1/8/54/c-7/19
+S00309	.	punctuation	標點、分隔符或省略號片段。	15	#/root/2/giveItemEnemy/39;#/root/2/receiveItemEnemy/39;#/root/2/gainItemEnemy/35;#/root/2/receiveItemPlayer/35;#/root/2/gainItemPlayer/29;#/root/2/loseItemPlayer/29;#/root/2/hp/20/1/b/24;#/root/2/VenitaScenes/1/rat/0/0/89/4/26/c-1/14/6/g-0/14/18/c-1/12;#/root/2/Arena/1/entry/0/34/25/c-1/2/189/c-0/22;#/root/2/Player/1/DefendChoice/1/13/c-0/1/16/c-0/7;#/root/2/Player/1/ItemChoice/0/10/c-0/2/30/c-0/1/13/c-0/9;#/root/2/Player/1/ItemChoice/0/10/c-0/2/30/c-1/1/13/c-0/9;#/root/2/Player/1/Resolve/25/6/b/10/1/b/15;#/root/2/RatScenes/1/Intro/0/31;#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-3/18/0/2/c-1/8/17/s0/1
+S00325	set_var:optionstyle:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/choicebox/5/1/b/1
+S00326	pause:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/pause/5/1/b/3
+S00331	, 	punctuation	標點、分隔符或省略號片段。	2	#/root/2/commaListName/10/1/b/9;#/root/2/commaList/9/1/b/7
+S00335	.choice-more	ink_command	儲存、讀取、UI 更新或選項樣式指令。	2	#/root/2/flow/1/6;#/root/2/respond/1/6
+S00345	lock_achievement:start_game	achievement_key	成就鎖定或解鎖指令與鍵名。	2	#/root/2/debug_menu/0/24/c-0/1/18/c-0/1;#/root/2/debug_achievement/1/lock/34
+S00346	unlock_achievement:start_game	achievement_key	成就鎖定或解鎖指令與鍵名。	2	#/root/2/debug_menu/0/24/c-0/1/18/c-0/3;#/root/2/Tutorial/10/walkthroughintro/5
+S00353	debug_menu.debug_menu	ink_path	Ink 場景跳轉路徑。	1	#/root/2/debug_menu/0/24/c-2/1/30/c-1/4
+S00390	:x:150,y:150	numeric	除錯座標或數值常數。	1	#/root/2/debug_menu/1/media/0/12/c-0/1/12/c-1/1/66/c-3/7
+S00391	:150:150	numeric	除錯座標或數值常數。	1	#/root/2/debug_menu/1/media/0/12/c-0/1/12/c-1/1/66/c-4/7
+S00403	lock_achievement:rat_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/0
+S00404	lock_achievement:kobold_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/2
+S00405	lock_achievement:goblin_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/4
+S00406	lock_achievement:orc_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/6
+S00407	lock_achievement:gnoll_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/8
+S00408	lock_achievement:minotaur_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/10
+S00409	lock_achievement:ettin_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/12
+S00410	lock_achievement:gargoyle_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/14
+S00411	lock_achievement:quickling_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/16
+S00412	lock_achievement:hydra_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/18
+S00413	lock_achievement:troll_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/20
+S00414	lock_achievement:dragon_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/22
+S00415	lock_achievement:venita_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/24
+S00416	lock_achievement:exie_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/26
+S00417	lock_achievement:joi_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/28
+S00418	lock_achievement:tamani_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/30
+S00419	lock_achievement:valeri_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/32
+S00420	lock_achievement:end_game	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/lock/36
+S00421	unlock_achievement:rat_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/debug_achievement/1/unlock/0
+S00446	  	space	空字串或排版空白。	5	#/root/2/GalleryScreen/0/44/c-3/0;#/root/2/SexenaMap/0/59/1/b/0;#/root/2/GargoyleScenes/1/Mid/65;#/root/2/cardListSuit/14/1/b/0;#/root/2/GambleDrink/59/showhand/0/46/oddeven_choice/20/c-6/0
+S00520	.menu	css_class	選單 CSS 類別。	5	#/root/2/SexenaMap/0/70/7;#/root/2/SexenaMap/0/70/18;#/root/2/SexenaMap/0/70/29;#/root/2/SexenaMap/0/70/40;#/root/2/SexenaMap/0/70/51
+S00525	Options.menu	ink_path	Ink 場景跳轉路徑。	1	#/root/2/SexenaMap/0/70/57
+S00526	             	space	空字串或排版空白。	1	#/root/2/SexenaMap/0/70/61/c-5/1/26/c-0/0
+S00527	unlock_achievement:kobold_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	2	#/root/2/SexenaMap/0/71/g-0/1/10/10/1/b/2;#/root/2/SexenaMap/0/71/g-0/1/10/23/1/b/2
+S00528	unlock_achievement:goblin_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	2	#/root/2/SexenaMap/0/71/g-0/1/10/36/1/b/2;#/root/2/GoblinScenes/1/Fuck/0/611
+S00529	unlock_achievement:orc_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/49/1/b/2
+S00530	unlock_achievement:gnoll_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/62/1/b/2
+S00531	unlock_achievement:minotaur_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	2	#/root/2/SexenaMap/0/71/g-0/1/10/75/1/b/2;#/root/2/MinotaurScenes/1/Fuck/411
+S00532	unlock_achievement:ettin_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/88/1/b/2
+S00533	unlock_achievement:gargoyle_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/101/1/b/2
+S00534	unlock_achievement:quickling_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/114/1/b/2
+S00535	unlock_achievement:hydra_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/127/1/b/2
+S00536	unlock_achievement:troll_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/140/1/b/2
+S00537	unlock_achievement:venita_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/146/1/b/0/11/s0/1
+S00538	unlock_achievement:joi_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/152/1/b/0/11/s0/1
+S00539	unlock_achievement:exie_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/158/1/b/0/11/s0/1
+S00540	unlock_achievement:valeri_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/SexenaMap/0/71/g-0/1/10/164/1/b/0/11/s0/1
+S00703	&mldr;	entity	省略號的 HTML 實體。	1	#/root/2/VenitaScenes/1/Intro/0/18
+S01155	 ...	punctuation	標點、分隔符或省略號片段。	9	#/root/2/VenitaScenes/1/rub/371;#/root/2/VenitaScenes/1/rub/413;#/root/2/TamaniEvents/1/TamaniFuck/0/56/g-0/183/c-1/6;#/root/2/TamaniEvents/1/TamaniFuck/0/56/g-1/113/c-2/6;#/root/2/GoblinScenes/1/Fuck/0/353;#/root/2/EttinScenes/1/Fuck/37;#/root/2/EttinScenes/1/Fuck/51;#/root/2/GargoyleScenes/1/Fuck/674;#/root/2/GargoyleScenes/1/Fuck/721
+S01194	leave	control_value	寫入 Ink 變數的分支控制值，非選項顯示文字。	3	#/root/2/ItemShop/0/6/b/26;#/root/2/WeaponShop/0/6/b/25;#/root/2/ArmorShop/0/6/b/26
+S01784	refresh_ui:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/SetArena/68/1/b/0
+S01793	load:restart sync_watchvars:	ink_command	儲存、讀取、UI 更新或選項樣式指令。	1	#/root/2/ArenaEvents/1/dead/47
+S01794	-5000	numeric	除錯座標或數值常數。	1	#/root/2/ArenaEvents/1/dead/55/1/b/0
+S02000	unlock_achievement:tamani_gallery	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/TamaniEvents/1/TamaniFuck/0/56/g-2/11
+S02033	    	space	空字串或排版空白。	1	#/root/2/RatScenes/1/lickend/0/135/c-1/0
+S04062	Doxy	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/47
+S04064	VernardoHunk	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/58
+S04066	ArdentPurple	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/69
+S04068	CyanCapsule	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/80
+S04070	Atrix	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/91
+S04072	FlynnFlann	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/102
+S04074	RedPwny	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/113
+S04076	Gil	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/124
+S04078	Seel	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/135
+S04080	Reva	credit_name	片尾製作名單的人名或暱稱。	1	#/root/2/EndingScenes/1/Credits/0/146
+S04082	unlock_achievement:end_game	achievement_key	成就鎖定或解鎖指令與鍵名。	1	#/root/2/EndingScenes/1/Credits/0/153
+S04084	sscardvalue	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/SevenSharks/1/5
+S04085	sscardsuit	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/SevenSharks/1/15
+S04086	sscardface	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/SevenSharks/1/25
+S04087	ui/chapter_cards.png	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/SevenSharks/1/38/2
+S04088	chapterui icon	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/SevenSharks/1/38/5
+S04090	2	numeric	除錯座標或數值常數。	3	#/root/2/SevenSharks/1/38/32/20;#/root/2/SevenSharks/1/38/32/73/c-5/84;#/root/2/SevenSharks/1/38/32/73/c-5/364
+S04138	)	punctuation	標點、分隔符或省略號片段。	2	#/root/2/SevenSharks/2/showhand/0/24/15/42;#/root/2/GambleDrink/59/showhand/0/34
+S04175	ssCardWhite	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/doubleScoreRules/8
+S04176	ssCardBlue	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/doubleScoreRules/18
+S04177	ssCardGreen	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/doubleScoreRules/28
+S04178	ssCardBlack	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/doubleScoreRules/38
+S04179	 sscard	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/cardListNameStyled/41
+S04214	 gdcard	card_key	紙牌樣式、花色或圖像資源鍵。	1	#/root/2/gdCardListNameStyled/22
+S04225	right	control_value	寫入 Ink 變數的分支控制值，非選項顯示文字。	3	#/root/2/CatchPig/0/28/14/c-1/1/3/c-0/9;#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-3/10;#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-6/10
+S04226	back	control_value	寫入 Ink 變數的分支控制值，非選項顯示文字。	2	#/root/2/CatchPig/0/28/14/c-1/1/3/c-1/9;#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-6/15
+S04227	left	control_value	寫入 Ink 變數的分支控制值，非選項顯示文字。	1	#/root/2/CatchPig/0/28/14/c-1/1/3/c-2/9
+S04251	render_height, render_width	render_config	渲染尺寸、圖層清單或影像設定。	1	#/root/2/global decl/2
+S04252	reset,bg,bgeffect,bgoverlay,actor,actoroverlay,clothes,clothesoverlay,actorfx,fg,fgeffect,fgoverlay,cutawaybg,cutaway,cutawayframe,scene,blurfilter,transition	render_config	渲染尺寸、圖層清單或影像設定。	1	#/root/2/global decl/12
+S04253	reset, bg	render_config	渲染尺寸、圖層清單或影像設定。	1	#/root/2/global decl/16
+S04254	x:0, y:0, type:'image', value:'', center:true	render_config	渲染尺寸、圖層清單或影像設定。	1	#/root/2/global decl/20
+S04255	x:0, y:0, type:'image', value:'', center:true, centery:true	render_config	渲染尺寸、圖層清單或影像設定。	6	#/root/2/global decl/24;#/root/2/global decl/28;#/root/2/global decl/32;#/root/2/global decl/56;#/root/2/global decl/64;#/root/2/global decl/80
+S04256	x:150, y:930, type:'image', value:'', center:true, centery:false	render_config	渲染尺寸、圖層清單或影像設定。	4	#/root/2/global decl/36;#/root/2/global decl/40;#/root/2/global decl/44;#/root/2/global decl/48
+S04257	x:150, y:0, type:'image', value:'', center:true, centery:true	render_config	渲染尺寸、圖層清單或影像設定。	1	#/root/2/global decl/52
+S04258	x:0, y:0, type:'image', value:'', center:true, centery:true, ztop:true	render_config	渲染尺寸、圖層清單或影像設定。	2	#/root/2/global decl/60;#/root/2/global decl/88
+S04259	x:155, y:0, type:'image', value:'', center:true, centery:true	render_config	渲染尺寸、圖層清單或影像設定。	3	#/root/2/global decl/68;#/root/2/global decl/72;#/root/2/global decl/76
+S04260	x:100, y:25, type:'image', value:'', center:true, centery:true	render_config	渲染尺寸、圖層清單或影像設定。	1	#/root/2/global decl/84
+S04261	x:0, y:0, type:'filter', value:'blur'	render_config	渲染尺寸、圖層清單或影像設定。	1	#/root/2/global decl/92
+S04262	ruler	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/100
+S04263	break	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/104
+S04264	zone	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/108
+S04265	title	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/112
+S04266	center	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/116
+S04267	italic	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/120
+S04268	bold	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/124
+S04269	underline	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/128
+S04270	gameui	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/132
+S04271	info	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/136
+S04272	log	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/140
+S04273	narrate	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/144
+S04274	notice	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/148
+S04275	display	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/152
+S04276	tutorial	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/156
+S04277	sign	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/160
+S04278	warning	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/164
+S04279	uiphealth	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/168
+S04280	uiehealth	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/172
+S04281	firstupper	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/176
+S04282	stophistory	style_key	CSS 樣式、文字效果或介面狀態鍵。	1	#/root/2/global decl/180
+S04283	⏳	icon	介面圖示符號，無英文字。	1	#/root/2/global decl/184
+S04284	💰	icon	介面圖示符號，無英文字。	1	#/root/2/global decl/188
+S04285	💬	icon	介面圖示符號，無英文字。	1	#/root/2/global decl/192
+S04286	🍺	icon	介面圖示符號，無英文字。	1	#/root/2/global decl/196
+S04287	⚗️	icon	介面圖示符號，無英文字。	1	#/root/2/global decl/200
+S04288	⚔️	icon	介面圖示符號，無英文字。	1	#/root/2/global decl/204
+S04289	🛡️	icon	介面圖示符號，無英文字。	1	#/root/2/global decl/208
+S04290	🏟️	icon	介面圖示符號，無英文字。	1	#/root/2/global decl/212
+S04291	"""0x000000"""	color	畫面顏色常數；變更會影響色彩。	1	#/root/2/global decl/220
+S04292	frame.png	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/226
+S04293	black.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/238
+S04294	tavernyard.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/242
+S04295	taverncellar.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/246
+S04296	arenawall.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/250
+S04297	bedroom.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/254
+S04298	blacksmith.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/258
+S04299	inn.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/262
+S04300	lockerroom.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/266
+S04301	stonefloor.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/270
+S04302	trashheap.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/274
+S04303	tavernstable.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/278
+S04304	shop.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/282
+S04305	townsquare.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/286
+S04306	arena.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/290
+S04307	arenaoutside.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/294
+S04308	arenafloor.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/298
+S04309	titlesplash.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/302
+S04310	tree.jpg	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/306
+S04311	exie	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/958
+S04312	exiescenes	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/962
+S04313	adina	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/982
+S04314	joi	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1006
+S04315	joiscene	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1010
+S04316	saucefaeries	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1086
+S04317	jar	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1094
+S04318	sauce	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1098
+S04319	cum	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1102
+S04320	chonkers	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1106
+S04321	book	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1110
+S04322	cauldron	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1114
+S04323	column	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1118
+S04324	introsplash	visual_key	背景圖檔或角色視覺資源鍵。	1	#/root/2/global decl/1122
+S04325	fxmiss	effect_key	畫面特效資源鍵。	2	#/root/2/global decl/1130;#/root/2/global decl/1146
+S04326	fxcharge	effect_key	畫面特效資源鍵。	2	#/root/2/global decl/1134;#/root/2/global decl/1138
+S04327	fxtailswipe	effect_key	畫面特效資源鍵。	1	#/root/2/global decl/1142
+S04328	fxlick	effect_key	畫面特效資源鍵。	1	#/root/2/global decl/1150
+S04329	fxstab	effect_key	畫面特效資源鍵。	1	#/root/2/global decl/1154
+S04330	fxdust	effect_key	畫面特效資源鍵。	1	#/root/2/global decl/1158
+S04331	fxspeedline	effect_key	畫面特效資源鍵。	1	#/root/2/global decl/1162
+S04332	combatfx	effect_key	畫面特效資源鍵。	2	#/root/2/global decl/1166;#/root/2/global decl/1170
+S04333	true	control_value	布林值或控制指令。	1	#/root/2/global decl/1188
+S04334	false	control_value	布林值或控制指令。	1	#/root/2/global decl/1192
+S04335	norepeat	control_value	布林值或控制指令。	1	#/root/2/global decl/1196
+S04336	clear	control_value	布林值或控制指令。	1	#/root/2/global decl/1252
+S04337	PlayerGold,PlayerHP,EnemyHP	watchvar_config	狀態欄變數清單或同步指令；顯示名稱已另譯。	1	#/root/2/global decl/1878
+S04342	sync_watchvars:true	watchvar_config	狀態欄變數清單或同步指令；顯示名稱已另譯。	1	#/root/2/global decl/1898

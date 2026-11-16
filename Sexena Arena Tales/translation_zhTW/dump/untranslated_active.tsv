@@ -1,0 +1,443 @@
+﻿id	status	kind	active_count	total_count	first_location	original_escaped	translation_escaped
+S00001	untranslated	technical	2	10	src/Questena.js#/root/0/1/0/3/1/b/3	var	
+S00002	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/3/1/b/9	style	
+S00003	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/3/1/b/17	{	
+S00004	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/3/1/b/21	opacity:0.50;	
+S00005	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/3/1/b/24	}	
+S00006	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/3/1/b/30	/style	
+S00007	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/10	hr	
+S00008	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/23	br	
+S00009	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/36	i	
+S00010	untranslated	technical	10	50	src/Questena.js#/root/0/1/0/49	span	
+S00011	untranslated	technical	21	105	src/Questena.js#/root/0/1/0/75	div	
+S00012	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/108	 center	
+S00013	untranslated	technical	2	10	src/Questena.js#/root/0/1/0/205	 stretch1000 fadeInUp animated	
+S00014	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/243	 delay-1halfs stretch500 swing-bottom-fwd animated	
+S00015	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/253	centerline	
+S00016	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/281	uiicon uitime	
+S00017	untranslated	technical	2	10	src/Questena.js#/root/0/1/0/300	uigold	
+S00018	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/311	/span	
+S00019	untranslated	technical	1	5	src/Questena.js#/root/0/1/0/329	uiicon uisocial	
+S00020	untranslated	technical	1	5	src/Questena.js#/root/0/5	ui/title.png	
+S00021	untranslated	technical	1	5	src/Questena.js#/root/0/8	title chapterui seperator	
+S00022	untranslated	technical	5	25	src/Questena.js#/root/0/15	ui/chapter_seperator.png	
+S00023	untranslated	technical	5	25	src/Questena.js#/root/0/18	chapterui seperator	
+S00024	untranslated	technical	3	3	src/Questena.js#/root/0/25	endings2	
+S00025	untranslated	technical	1	1	src/Questena.js#/root/0/28	RatEnd	
+S00026	untranslated	technical	1	1	src/Questena.js#/root/0/39	DemocracyEnd	
+S00027	untranslated	technical	1	1	src/Questena.js#/root/0/50	HaremEnd	
+S00028	untranslated	technical	10	10	src/Questena.js#/root/0/58	endings	
+S00029	untranslated	technical	1	1	src/Questena.js#/root/0/61	KoboldEnd	
+S00030	untranslated	technical	1	1	src/Questena.js#/root/0/72	GoblinEnd	
+S00031	untranslated	technical	1	1	src/Questena.js#/root/0/83	OrcEnd	
+S00032	untranslated	technical	1	1	src/Questena.js#/root/0/94	GnollEnd	
+S00033	untranslated	technical	1	1	src/Questena.js#/root/0/105	MinotaurEnd	
+S00034	untranslated	technical	1	1	src/Questena.js#/root/0/116	EttinEnd	
+S00035	untranslated	technical	1	1	src/Questena.js#/root/0/127	GargoyleEnd	
+S00036	untranslated	technical	1	1	src/Questena.js#/root/0/138	QuicklingEnd	
+S00037	untranslated	technical	1	1	src/Questena.js#/root/0/149	HydraEnd	
+S00038	untranslated	technical	1	1	src/Questena.js#/root/0/160	TrollEnd	
+S00039	untranslated	technical	2	2	src/Questena.js#/root/0/168	dragonscene_anim	
+S00040	untranslated	technical	22	50	src/Questena.js#/root/0/171	idle	
+S00041	untranslated	technical	9	9	src/Questena.js#/root/0/190	dragonscene	
+S00042	untranslated	technical	1	1	src/Questena.js#/root/0/193	dumbset	
+S00043	untranslated	technical	1	1	src/Questena.js#/root/0/204	firepose	
+S00044	untranslated	technical	10	12	src/Questena.js#/root/0/215	lewdgameover	
+S00045	untranslated	technical	1	1	src/Questena.js#/root/0/226	tailpose	
+S00046	untranslated	technical	8	9	src/Questena.js#/root/0/237	battlepose	
+S00047	untranslated	technical	1	1	src/Questena.js#/root/0/248	defeat	
+S00048	untranslated	technical	12	15	src/Questena.js#/root/0/259	happy	
+S00049	untranslated	technical	9	9	src/Questena.js#/root/0/270	mad	
+S00050	untranslated	technical	6	6	src/Questena.js#/root/0/281	shock	
+S00051	untranslated	technical	1	5	src/Questena.js#/root/0/289	reddragon_intro.jpg	
+S00052	untranslated	technical	5	5	src/Questena.js#/root/0/295	ratscenes_anim	
+S00053	untranslated	technical	3	6	src/Questena.js#/root/0/309	angry	
+S00054	untranslated	technical	1	1	src/Questena.js#/root/0/320	sassy	
+S00055	untranslated	technical	1	4	src/Questena.js#/root/0/342	sad	
+S00056	untranslated	technical	9	10	src/Questena.js#/root/0/350	ratscenes	
+S00057	untranslated	technical	3	12	src/Questena.js#/root/0/353	attack	
+S00058	untranslated	technical	1	2	src/Questena.js#/root/0/364	rathugged	
+S00059	untranslated	technical	1	2	src/Questena.js#/root/0/386	lewdgameover2	
+S00060	untranslated	technical	1	2	src/Questena.js#/root/0/397	lewdgameover3	
+S00061	untranslated	technical	1	2	src/Questena.js#/root/0/408	lewdgameover4	
+S00062	untranslated	technical	16	28	src/Questena.js#/root/0/419	sex1	
+S00063	untranslated	technical	16	29	src/Questena.js#/root/0/430	sex2	
+S00064	untranslated	technical	1	5	src/Questena.js#/root/0/441	skitter	
+S00065	untranslated	technical	14	18	src/Questena.js#/root/0/449	koboldscene	
+S00066	untranslated	technical	1	5	src/Questena.js#/root/0/474	apron	
+S00067	untranslated	technical	1	5	src/Questena.js#/root/0/485	combatstew	
+S00068	untranslated	technical	1	5	src/Questena.js#/root/0/496	tummy	
+S00069	untranslated	technical	1	5	src/Questena.js#/root/0/507	sex	
+S00070	untranslated	technical	1	5	src/Questena.js#/root/0/518	sex_a	
+S00071	untranslated	technical	1	5	src/Questena.js#/root/0/529	sex_b	
+S00072	untranslated	technical	1	5	src/Questena.js#/root/0/540	sex_b_condom	
+S00073	untranslated	technical	1	5	src/Questena.js#/root/0/551	stewcum	
+S00074	untranslated	technical	1	5	src/Questena.js#/root/0/562	stewcum_condom	
+S00075	untranslated	technical	1	5	src/Questena.js#/root/0/573	stewcum_cup	
+S00076	untranslated	technical	1	5	src/Questena.js#/root/0/584	stewcum_stew	
+S00077	untranslated	technical	1	5	src/Questena.js#/root/0/595	tug	
+S00078	untranslated	technical	1	1	src/Questena.js#/root/0/603	goblinscenes_anim	
+S00079	untranslated	technical	13	14	src/Questena.js#/root/0/614	goblinscenes	
+S00080	untranslated	technical	1	2	src/Questena.js#/root/0/661	knockeddown	
+S00081	untranslated	technical	14	25	src/Questena.js#/root/0/694	sex3	
+S00082	untranslated	technical	7	17	src/Questena.js#/root/0/705	sex4	
+S00083	untranslated	technical	1	2	src/Questena.js#/root/0/716	sex4b	
+S00084	untranslated	technical	1	2	src/Questena.js#/root/0/727	sex5	
+S00085	untranslated	technical	1	1	src/Questena.js#/root/0/738	sex6	
+S00086	untranslated	technical	4	4	src/Questena.js#/root/0/757	ettinscene_anim	
+S00087	untranslated	technical	5	5	src/Questena.js#/root/0/793	surprised	
+S00088	untranslated	technical	7	8	src/Questena.js#/root/0/801	ettinscene	
+S00089	untranslated	technical	1	2	src/Questena.js#/root/0/826	sex3a	
+S00090	untranslated	technical	1	2	src/Questena.js#/root/0/837	sex3b	
+S00091	untranslated	technical	1	1	src/Questena.js#/root/0/878	trollscenes_anim	
+S00092	untranslated	technical	9	10	src/Questena.js#/root/0/889	trollscenes	
+S00093	untranslated	technical	1	1	src/Questena.js#/root/0/988	quicklingscenes_anim	
+S00094	untranslated	technical	9	10	src/Questena.js#/root/0/999	quicklingscenes	
+S00095	untranslated	technical	1	1	src/Questena.js#/root/0/1098	orcscene_anim	
+S00096	untranslated	technical	13	14	src/Questena.js#/root/0/1109	orcscene	
+S00097	untranslated	technical	1	2	src/Questena.js#/root/0/1167	grabpaper	
+S00098	untranslated	technical	1	2	src/Questena.js#/root/0/1178	grabrock	
+S00099	untranslated	technical	1	2	src/Questena.js#/root/0/1189	grabscissor	
+S00100	untranslated	technical	1	2	src/Questena.js#/root/0/1200	grabsex	
+S00101	untranslated	technical	1	1	src/Questena.js#/root/0/1252	minotaurscenes_anim	
+S00102	untranslated	technical	8	9	src/Questena.js#/root/0/1263	minotaurscenes	
+S00103	untranslated	technical	1	1	src/Questena.js#/root/0/1351	hydrascenes_anim	
+S00104	untranslated	technical	9	10	src/Questena.js#/root/0/1362	hydrascenes	
+S00105	untranslated	technical	1	1	src/Questena.js#/root/0/1409	cumshot	
+S00106	untranslated	technical	1	1	src/Questena.js#/root/0/1461	gnollscene_anim	
+S00107	untranslated	technical	8	9	src/Questena.js#/root/0/1472	gnollscene	
+S00108	untranslated	technical	1	1	src/Questena.js#/root/0/1560	gargoylescene_anim	
+S00109	untranslated	technical	9	10	src/Questena.js#/root/0/1571	gargoylescene	
+S00110	untranslated	technical	1	1	src/Questena.js#/root/0/1640	scary	
+S00111	untranslated	technical	7	11	src/Questena.js#/root/0/1670	venitascenes	
+S00112	untranslated	technical	2	10	src/Questena.js#/root/0/1673	level1	
+S00113	untranslated	technical	2	10	src/Questena.js#/root/0/1684	level2	
+S00114	untranslated	technical	2	10	src/Questena.js#/root/0/1695	level3	
+S00115	untranslated	technical	4	4	src/Questena.js#/root/0/1730	exiescene	
+S00116	untranslated	technical	5	5	src/Questena.js#/root/0/1774	adinascene	
+S00117	untranslated	technical	4	4	src/Questena.js#/root/0/1853	tamaniscene_anim	
+S00118	untranslated	technical	9	9	src/Questena.js#/root/0/1897	tamaniscene	
+S00119	untranslated	technical	1	1	src/Questena.js#/root/0/1900	sex_01	
+S00120	untranslated	technical	1	1	src/Questena.js#/root/0/1911	sex_02	
+S00121	untranslated	technical	1	1	src/Questena.js#/root/0/1922	sex_03	
+S00122	untranslated	technical	1	1	src/Questena.js#/root/0/1933	sex_04	
+S00123	untranslated	technical	1	1	src/Questena.js#/root/0/1944	sex_05	
+S00124	untranslated	technical	1	1	src/Questena.js#/root/0/1955	withvenitaidle	
+S00125	untranslated	technical	1	1	src/Questena.js#/root/0/1966	withvenitahappy	
+S00126	untranslated	technical	1	1	src/Questena.js#/root/0/1977	withvenitamad	
+S00127	untranslated	technical	1	1	src/Questena.js#/root/0/1988	withvenitashock	
+S00128	untranslated	technical	3	15	src/Questena.js#/root/0/2033	object	
+S00129	untranslated	technical	1	5	src/Questena.js#/root/0/2061	intro	
+S00130	untranslated	technical	1	5	src/Questena.js#/root/0/2070	play	
+S00131	untranslated	technical	1	5	src/Questena.js#/root/0/2079	style2	
+S00132	untranslated	technical	5	25	src/Questena.js#/root/0/2088	style1	
+S00133	untranslated	technical	1	5	src/Questena.js#/root/0/2097	style3	
+S00134	untranslated	technical	1	5	src/Questena.js#/root/0/2106	style4	
+S00135	untranslated	text	3	15	src/Questena.js#/root/0/2141	"\""0xffffff\"""	
+S00136	untranslated	technical	1	5	src/Questena.js#/root/0/2158	style5	
+S00137	untranslated	technical	1	5	src/Questena.js#/root/0/2167	tug_style1	
+S00138	untranslated	technical	1	5	src/Questena.js#/root/0/2176	slap_style1	
+S00139	untranslated	technical	256	1078	src/Questena.js#/root/2/TitleScreen/1/4/1/b/0	 	
+S00140	untranslated	text	2	6	src/Questena.js#/root/2/TitleScreen/1/7/11	S  E  X  E  N  A	
+S00142	untranslated	technical	299	689	src/Questena.js#/root/2/TitleScreen/1/7/21		
+S00147	untranslated	technical	3	15	src/Questena.js#/root/2/TitleScreen/1/8/g-0/1/8	hpbargroup	
+S00148	untranslated	technical	1	5	src/Questena.js#/root/2/TitleScreen/1/8/g-0/1/16	EnemyHP	
+S00149	untranslated	technical	1	5	src/Questena.js#/root/2/TitleScreen/1/8/g-0/1/24	PlayerHP1	
+S00150	untranslated	technical	1	5	src/Questena.js#/root/2/GameStart/0/0/11/3/1/b/0	saveto:restart:TitleScreen	
+S00151	untranslated	technical	7	35	src/Questena.js#/root/2/hide/4/1/b/0	<	
+S00152	untranslated	technical	3	15	src/Questena.js#/root/2/hide/4/1/b/5/1/b/0	/	
+S00153	untranslated	technical	1	5	src/Questena.js#/root/2/hide/4/1/b/7	style> 	
+S00154	untranslated	technical	1	5	src/Questena.js#/root/2/drawDiv/4/1/b/3	: 	
+S00155	untranslated	technical	1	5	src/Questena.js#/root/2/drawDiv/10/8/b/11	</div>	
+S00156	untranslated	technical	1	5	src/Questena.js#/root/2/drawDiv/11/1/b/11	<div class='	
+S00157	untranslated	technical	2	10	src/Questena.js#/root/2/drawDiv/11/1/b/21	'>	
+S00158	untranslated	technical	2	10	src/Questena.js#/root/2/drawStyle/10/3	<div class='nameui'>	
+S00159	untranslated	technical	2	10	src/Questena.js#/root/2/drawStyle/11/3	<div class='dialogueui'>	
+S00160	untranslated	technical	4	20	src/Questena.js#/root/2/nameStyling/6/1/b/11	name	
+S00161	untranslated	technical	4	20	src/Questena.js#/root/2/nameStyling/6/1/b/16	 nameui	
+S00162	untranslated	technical	2	10	src/Questena.js#/root/2/nameStyling/6/1/b/55	 class='dialogueui name	
+S00163	untranslated	technical	5	25	src/Questena.js#/root/2/nameStyling/6/1/b/60	'	
+S00164	untranslated	technical	2	10	src/Questena.js#/root/2/portraitStyling/6/1/b/11	portrait	
+S00165	untranslated	technical	2	10	src/Questena.js#/root/2/portraitStyling/6/1/b/16	 portraitui	
+S00166	untranslated	technical	7	35	src/Questena.js#/root/2/simpleCSS/8	>	
+S00167	untranslated	technical	2	10	src/Questena.js#/root/2/CSS/4/6/b/2/18/s1/4	</	
+S00168	untranslated	technical	1	5	src/Questena.js#/root/2/CSSClass/6/6/b/9	 class='	
+S00169	untranslated	technical	2	10	src/Questena.js#/root/2/capitalize/5	capitalize	
+S00172	untranslated	technical	2	10	src/Questena.js#/root/2/spine_ext/14	.json:	
+S00173	untranslated	technical	2	10	src/Questena.js#/root/2/spine_ext/19	:'x:	
+S00174	untranslated	technical	2	10	src/Questena.js#/root/2/spine_ext/24	,y:	
+S00175	untranslated	technical	2	10	src/Questena.js#/root/2/spine_ext/29	,scale:	
+S00176	untranslated	technical	3	15	src/Questena.js#/root/2/spine_ext/34	,loop:	
+S00177	untranslated	technical	2	10	src/Questena.js#/root/2/spine_ext/39	,timescale:	
+S00178	untranslated	technical	2	10	src/Questena.js#/root/2/spine_ext/45	,tint:	
+S00179	untranslated	technical	2	10	src/Questena.js#/root/2/clearalltext/3/1/b/3	clear:text	
+S00180	untranslated	technical	2	10	src/Questena.js#/root/2/fullscreen_animation/4	transition	
+S00181	untranslated	technical	1	5	src/Questena.js#/root/2/imgDisplay/5/1/b/50	img class='imgdisplay	
+S00182	untranslated	technical	1	5	src/Questena.js#/root/2/imgDisplay/5/1/b/59	' src='	
+S00183	untranslated	technical	1	5	src/Questena.js#/root/2/bg/3	bg	
+S00184	untranslated	technical	1	5	src/Questena.js#/root/2/bgeffect/3	bgeffect	
+S00185	untranslated	technical	1	5	src/Questena.js#/root/2/bgoverlay/3	bgoverlay	
+S00186	untranslated	technical	1	5	src/Questena.js#/root/2/actor/3	actor	
+S00187	untranslated	technical	1	5	src/Questena.js#/root/2/actorfx/3	actorfx	
+S00188	untranslated	technical	1	5	src/Questena.js#/root/2/actoroverlay/3	actoroverlay	
+S00189	untranslated	technical	1	5	src/Questena.js#/root/2/clothes/3	clothes	
+S00190	untranslated	technical	1	5	src/Questena.js#/root/2/clothesoverlay/3	clothesoverlay	
+S00191	untranslated	technical	1	5	src/Questena.js#/root/2/fg/3	fg	
+S00192	untranslated	technical	1	5	src/Questena.js#/root/2/fgeffect/3	fgeffect	
+S00193	untranslated	technical	1	5	src/Questena.js#/root/2/fgoverlay/3	fgoverlay	
+S00194	untranslated	technical	1	5	src/Questena.js#/root/2/cutawaybg/3	cutawaybg	
+S00195	untranslated	technical	1	5	src/Questena.js#/root/2/cutaway/3	cutaway	
+S00196	untranslated	technical	1	5	src/Questena.js#/root/2/cutawayframe/3	cutawayframe	
+S00197	untranslated	technical	1	5	src/Questena.js#/root/2/scene/3	scene	
+S00198	untranslated	technical	3	15	src/Questena.js#/root/2/layerDisplay/5/1/b/1/6/b/4/6/b/8	:	
+S00199	untranslated	technical	1	5	src/Questena.js#/root/2/layerDisplay/5/1/b/2/1/b/10	img/	
+S00200	untranslated	technical	1	1	src/Questena.js#/root/2/DS/5/6/b/5	FXCritter.mp3	
+S00201	untranslated	technical	1	1	src/Questena.js#/root/2/DS/6/6/b/5	FXFailed.mp3	
+S00202	untranslated	technical	1	1	src/Questena.js#/root/2/DS/7/6/b/5	FXFlame.mp3	
+S00203	untranslated	technical	1	1	src/Questena.js#/root/2/DS/8/6/b/5	FXFlya.mp3	
+S00204	untranslated	technical	1	1	src/Questena.js#/root/2/DS/9/6/b/5	FXGulp.mp3	
+S00205	untranslated	technical	1	1	src/Questena.js#/root/2/DS/10/6/b/5	FXMetalClunk.mp3	
+S00206	untranslated	technical	1	1	src/Questena.js#/root/2/DS/11/6/b/5	FXMoo.mp3	
+S00207	untranslated	technical	1	1	src/Questena.js#/root/2/DS/12/6/b/5	FXPunchFace.mp3	
+S00208	untranslated	technical	1	1	src/Questena.js#/root/2/DS/13/6/b/5	FXSpurt.mp3	
+S00209	untranslated	technical	1	1	src/Questena.js#/root/2/DS/14/6/b/5	FXSuck.mp3	
+S00210	untranslated	technical	1	1	src/Questena.js#/root/2/DS/15/6/b/5	FXWhip.mp3	
+S00211	untranslated	technical	1	1	src/Questena.js#/root/2/DS/16/6/b/5	FXBell.mp3	
+S00212	untranslated	technical	1	1	src/Questena.js#/root/2/DS/17/6/b/5	FXClank.mp3	
+S00213	untranslated	technical	1	5	src/Questena.js#/root/2/DS/18/6/b/5	sfxmiss.mp3	
+S00214	untranslated	technical	1	5	src/Questena.js#/root/2/DS/19/6/b/5	sfxsparklewoosh.mp3	
+S00215	untranslated	technical	1	5	src/Questena.js#/root/2/DS/20/6/b/5	sfxflirt.mp3	
+S00216	untranslated	technical	1	5	src/Questena.js#/root/2/DS/21/6/b/5	sfxhealingitem.mp3	
+S00217	untranslated	technical	2	10	src/Questena.js#/root/2/DS/22/6/b/5	FXEnemyLandsAHit_01.mp3	
+S00218	untranslated	technical	2	10	src/Questena.js#/root/2/DS/23/6/b/5	FXYouLandAHit_01.mp3	
+S00219	untranslated	technical	2	10	src/Questena.js#/root/2/DS/24/6/b/5	fx_guitar.mp3	
+S00220	untranslated	technical	2	10	src/Questena.js#/root/2/DS/25/6/b/5	fx_walk.mp3	
+S00221	untranslated	technical	2	10	src/Questena.js#/root/2/DS/26/6/b/5	fx_gold.mp3	
+S00222	untranslated	technical	1	5	src/Questena.js#/root/2/DS/32/6/b/5	VO_venita_02.mp3	
+S00223	untranslated	technical	1	5	src/Questena.js#/root/2/DS/33/6/b/5	VO_venita_03.mp3	
+S00224	untranslated	technical	1	5	src/Questena.js#/root/2/DS/34/6/b/5	VO_venita_04.mp3	
+S00225	untranslated	technical	1	5	src/Questena.js#/root/2/DS/35/6/b/5	VO_venita_01.mp3	
+S00226	untranslated	technical	1	5	src/Questena.js#/root/2/DS/36/6/b/5	FXEnterBuilding.mp3	
+S00227	untranslated	technical	1	5	src/Questena.js#/root/2/DS/37/6/b/5	music_intro.mp3	
+S00228	untranslated	technical	1	5	src/Questena.js#/root/2/DS/38/6/b/5	ambient_taverncrowd.mp3	
+S00229	untranslated	technical	1	5	src/Questena.js#/root/2/DS/39/6/b/5	ambient_tavern.mp3	
+S00230	untranslated	technical	1	5	src/Questena.js#/root/2/DS/40/6/b/5	ambient_street.mp3	
+S00231	untranslated	technical	1	5	src/Questena.js#/root/2/DS/41/6/b/5	ambient_town.mp3	
+S00232	untranslated	technical	1	5	src/Questena.js#/root/2/DS/42/6/b/5	ambient_day.mp3	
+S00233	untranslated	technical	1	5	src/Questena.js#/root/2/DS/43/6/b/5	music_combat_01.mp3	
+S00234	untranslated	technical	1	5	src/Questena.js#/root/2/DS/44/6/b/5	music_combat_02.mp3	
+S00235	untranslated	technical	1	5	src/Questena.js#/root/2/DS/45/6/b/5	music_combat_03.mp3	
+S00236	untranslated	technical	1	5	src/Questena.js#/root/2/DS/46/6/b/5	music_tavern_02.mp3	
+S00237	untranslated	technical	1	5	src/Questena.js#/root/2/DS/47/6/b/5	music_smooth.mp3	
+S00238	untranslated	technical	1	5	src/Questena.js#/root/2/DS/48/6/b/5	MUSICCombat.mp3	
+S00239	untranslated	technical	1	5	src/Questena.js#/root/2/DS/49/6/b/5	MUSICIntro.mp3	
+S00240	untranslated	technical	1	5	src/Questena.js#/root/2/DS/50/6/b/5	MUSICConvo.mp3	
+S00241	untranslated	technical	1	5	src/Questena.js#/root/2/SoundStop/4	stop()	
+S00242	untranslated	technical	3	15	src/Questena.js#/root/2/Howler/7/1/b/3	howler:sound/	
+S00243	untranslated	text	1	5	src/Questena.js#/root/2/Howler/7/1/b/8	":\""volume:"	
+S00244	untranslated	technical	1	5	src/Questena.js#/root/2/Howler/7/1/b/18	",action:'play()'\"""	
+S00245	untranslated	technical	1	5	src/Questena.js#/root/2/HowlerExtGain/8/1/b/8	":\""action:'fade("	
+S00246	untranslated	technical	6	30	src/Questena.js#/root/2/HowlerExtGain/8/1/b/13	,	
+S00247	untranslated	technical	1	5	src/Questena.js#/root/2/HowlerExtGain/8/1/b/23	")'\"""	
+S00248	untranslated	technical	1	5	src/Questena.js#/root/2/HowlerExt/6/1/b/8	":\""action:'"	
+S00249	untranslated	technical	1	5	src/Questena.js#/root/2/HowlerExt/6/1/b/13	"'\"""	
+S00255	untranslated	technical	5	17	src/Questena.js#/root/2/soundsettings/0/0/24/c-0/1/8	1	
+S00256	untranslated	technical	5	17	src/Questena.js#/root/2/soundsettings/0/0/24/c-0/1/14	3	
+S00257	untranslated	technical	4	8	src/Questena.js#/root/2/soundsettings/0/0/24/c-0/1/20	5	
+S00258	untranslated	technical	3	3	src/Questena.js#/root/2/soundsettings/0/0/24/c-0/1/26	7	
+S00259	untranslated	technical	3	3	src/Questena.js#/root/2/soundsettings/0/0/24/c-0/1/32	10	
+S00260	untranslated	technical	1	5	src/Questena.js#/root/2/icall/7/1/b/1	"icall:\""call:'"	
+S00261	untranslated	text	1	5	src/Questena.js#/root/2/icall/7/1/b/6	',id:'	
+S00262	untranslated	technical	1	5	src/Questena.js#/root/2/icall/7/1/b/11	',attr:{	
+S00263	untranslated	technical	1	5	src/Questena.js#/root/2/icall/7/1/b/16	},jquery:{	
+S00264	untranslated	technical	1	5	src/Questena.js#/root/2/icall/7/1/b/21	"}\"""	
+S00265	untranslated	technical	2	10	src/Questena.js#/root/2/show_ui_id/4/1/b/1	"icall:\""call:'update_ui',id:'statwrap_"	
+S00266	untranslated	technical	2	10	src/Questena.js#/root/2/show_ui_id/4/1/b/6	"',jquery:{removeClass:'hide',addClass:'visible'}\"""	
+S00267	untranslated	technical	2	10	src/Questena.js#/root/2/hide_ui_id/4/1/b/6	"',jquery:{removeClass:'visible',addClass:'hide'}\"""	
+S00268	untranslated	technical	2	10	src/Questena.js#/root/2/show_ui_id_ext/4/1/b/1	"icall:\""call:'update_ui',id:'"	
+S00282	untranslated	technical	1	5	src/Questena.js#/root/2/saveload/2/0/18/c-0/8/54/c-0/19	saveto:savepointtest:	
+S00283	untranslated	technical	1	5	src/Questena.js#/root/2/saveload/2/0/18/c-0/8/54/c-1/19	saveto:savepoint1:	
+S00284	untranslated	technical	1	5	src/Questena.js#/root/2/saveload/2/0/18/c-0/8/54/c-2/19	saveto:savepoint2:	
+S00285	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-0/8/54/c-3/19	saveto:savepoint3:	
+S00286	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-0/8/54/c-4/19	saveto:savepoint4:	
+S00287	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-0/8/54/c-5/19	saveto:savepoint5:	
+S00288	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-0/8/54/c-6/19	saveto:savepoint6:	
+S00289	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-0/8/54/c-7/19	saveto:savepoint7:	
+S00292	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-1/8/54/c-0/19	load:savepointtest	
+S00293	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-1/8/54/c-1/19	load:savepoint1	
+S00294	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-1/8/54/c-2/19	load:savepoint2	
+S00295	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-1/8/54/c-3/19	load:savepoint3	
+S00296	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-1/8/54/c-4/19	load:savepoint4	
+S00297	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-1/8/54/c-5/19	load:savepoint5	
+S00298	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-1/8/54/c-6/19	load:savepoint6	
+S00299	untranslated	technical	1	1	src/Questena.js#/root/2/saveload/2/0/18/c-1/8/54/c-7/19	load:savepoint7	
+S00309	untranslated	technical	15	75	src/Questena.js#/root/2/giveItemEnemy/39	.	
+S00325	untranslated	technical	1	5	src/Questena.js#/root/2/choicebox/5/1/b/1	set_var:optionstyle:	
+S00326	untranslated	technical	1	5	src/Questena.js#/root/2/pause/5/1/b/3	pause:	
+S00331	untranslated	technical	2	10	src/Questena.js#/root/2/commaListName/10/1/b/9	, 	
+S00335	untranslated	technical	2	10	src/Questena.js#/root/2/flow/1/6	.choice-more	
+S00345	untranslated	technical	2	2	src/Questena.js#/root/2/debug_menu/0/24/c-0/1/18/c-0/1	lock_achievement:start_game	
+S00346	untranslated	technical	2	2	src/Questena.js#/root/2/debug_menu/0/24/c-0/1/18/c-0/3	unlock_achievement:start_game	
+S00353	untranslated	technical	1	1	src/Questena.js#/root/2/debug_menu/0/24/c-2/1/30/c-1/4	debug_menu.debug_menu	
+S00390	untranslated	technical	1	5	src/Questena.js#/root/2/debug_menu/1/media/0/12/c-0/1/12/c-1/1/66/c-3/7	:x:150,y:150	
+S00391	untranslated	text	1	5	src/Questena.js#/root/2/debug_menu/1/media/0/12/c-0/1/12/c-1/1/66/c-4/7	:150:150	
+S00403	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/0	lock_achievement:rat_gallery	
+S00404	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/2	lock_achievement:kobold_gallery	
+S00405	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/4	lock_achievement:goblin_gallery	
+S00406	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/6	lock_achievement:orc_gallery	
+S00407	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/8	lock_achievement:gnoll_gallery	
+S00408	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/10	lock_achievement:minotaur_gallery	
+S00409	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/12	lock_achievement:ettin_gallery	
+S00410	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/14	lock_achievement:gargoyle_gallery	
+S00411	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/16	lock_achievement:quickling_gallery	
+S00412	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/18	lock_achievement:hydra_gallery	
+S00413	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/20	lock_achievement:troll_gallery	
+S00414	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/22	lock_achievement:dragon_gallery	
+S00415	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/24	lock_achievement:venita_gallery	
+S00416	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/26	lock_achievement:exie_gallery	
+S00417	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/28	lock_achievement:joi_gallery	
+S00418	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/30	lock_achievement:tamani_gallery	
+S00419	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/32	lock_achievement:valeri_gallery	
+S00420	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/lock/36	lock_achievement:end_game	
+S00421	untranslated	technical	1	1	src/Questena.js#/root/2/debug_achievement/1/unlock/0	unlock_achievement:rat_gallery	
+S00446	untranslated	technical	5	13	src/Questena.js#/root/2/GalleryScreen/0/44/c-3/0	  	
+S00520	untranslated	technical	5	25	src/Questena.js#/root/2/SexenaMap/0/70/7	.menu	
+S00525	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/70/57	Options.menu	
+S00526	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/70/61/c-5/1/26/c-0/0	             	
+S00527	untranslated	technical	2	2	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/10/1/b/2	unlock_achievement:kobold_gallery	
+S00528	untranslated	technical	2	2	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/36/1/b/2	unlock_achievement:goblin_gallery	
+S00529	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/49/1/b/2	unlock_achievement:orc_gallery	
+S00530	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/62/1/b/2	unlock_achievement:gnoll_gallery	
+S00531	untranslated	technical	2	2	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/75/1/b/2	unlock_achievement:minotaur_gallery	
+S00532	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/88/1/b/2	unlock_achievement:ettin_gallery	
+S00533	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/101/1/b/2	unlock_achievement:gargoyle_gallery	
+S00534	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/114/1/b/2	unlock_achievement:quickling_gallery	
+S00535	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/127/1/b/2	unlock_achievement:hydra_gallery	
+S00536	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/140/1/b/2	unlock_achievement:troll_gallery	
+S00537	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/146/1/b/0/11/s0/1	unlock_achievement:venita_gallery	
+S00538	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/152/1/b/0/11/s0/1	unlock_achievement:joi_gallery	
+S00539	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/158/1/b/0/11/s0/1	unlock_achievement:exie_gallery	
+S00540	untranslated	technical	1	1	src/Questena.js#/root/2/SexenaMap/0/71/g-0/1/10/164/1/b/0/11/s0/1	unlock_achievement:valeri_gallery	
+S00703	untranslated	text	1	5	src/Questena.js#/root/2/VenitaScenes/1/Intro/0/18	&mldr;	
+S01155	untranslated	technical	9	9	src/Questena.js#/root/2/VenitaScenes/1/rub/371	 ...	
+S01194	untranslated	technical	3	15	src/Questena.js#/root/2/ItemShop/0/6/b/26	leave	
+S01784	untranslated	text	1	5	src/Questena.js#/root/2/SetArena/68/1/b/0	refresh_ui:	
+S01793	untranslated	technical	1	5	src/Questena.js#/root/2/ArenaEvents/1/dead/47	load:restart sync_watchvars:	
+S01794	untranslated	technical	1	5	src/Questena.js#/root/2/ArenaEvents/1/dead/55/1/b/0	-5000	
+S02000	untranslated	technical	1	1	src/Questena.js#/root/2/TamaniEvents/1/TamaniFuck/0/56/g-2/11	unlock_achievement:tamani_gallery	
+S02033	untranslated	technical	1	5	src/Questena.js#/root/2/RatScenes/1/lickend/0/135/c-1/0	    	
+S04062	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/47	Doxy	
+S04064	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/58	VernardoHunk	
+S04066	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/69	ArdentPurple	
+S04068	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/80	CyanCapsule	
+S04070	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/91	Atrix	
+S04072	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/102	FlynnFlann	
+S04074	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/113	RedPwny	
+S04076	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/124	Gil	
+S04078	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/135	Seel	
+S04080	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/146	Reva	
+S04082	untranslated	technical	1	1	src/Questena.js#/root/2/EndingScenes/1/Credits/0/153	unlock_achievement:end_game	
+S04084	untranslated	technical	1	5	src/Questena.js#/root/2/SevenSharks/1/5	sscardvalue	
+S04085	untranslated	technical	1	5	src/Questena.js#/root/2/SevenSharks/1/15	sscardsuit	
+S04086	untranslated	technical	1	5	src/Questena.js#/root/2/SevenSharks/1/25	sscardface	
+S04087	untranslated	technical	1	5	src/Questena.js#/root/2/SevenSharks/1/38/2	ui/chapter_cards.png	
+S04088	untranslated	technical	1	5	src/Questena.js#/root/2/SevenSharks/1/38/5	chapterui icon	
+S04090	untranslated	technical	3	15	src/Questena.js#/root/2/SevenSharks/1/38/32/20	2	
+S04138	untranslated	technical	2	10	src/Questena.js#/root/2/SevenSharks/2/showhand/0/24/15/42	)	
+S04175	untranslated	technical	1	5	src/Questena.js#/root/2/doubleScoreRules/8	ssCardWhite	
+S04176	untranslated	technical	1	5	src/Questena.js#/root/2/doubleScoreRules/18	ssCardBlue	
+S04177	untranslated	technical	1	5	src/Questena.js#/root/2/doubleScoreRules/28	ssCardGreen	
+S04178	untranslated	technical	1	5	src/Questena.js#/root/2/doubleScoreRules/38	ssCardBlack	
+S04179	untranslated	technical	1	5	src/Questena.js#/root/2/cardListNameStyled/41	 sscard	
+S04214	untranslated	technical	1	5	src/Questena.js#/root/2/gdCardListNameStyled/22	 gdcard	
+S04225	untranslated	technical	3	15	src/Questena.js#/root/2/CatchPig/0/28/14/c-1/1/3/c-0/9	right	
+S04226	untranslated	technical	2	10	src/Questena.js#/root/2/CatchPig/0/28/14/c-1/1/3/c-1/9	back	
+S04227	untranslated	technical	1	5	src/Questena.js#/root/2/CatchPig/0/28/14/c-1/1/3/c-2/9	left	
+S04251	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/2	render_height, render_width	
+S04252	untranslated	text	1	5	src/Questena.js#/root/2/global decl/12	reset,bg,bgeffect,bgoverlay,actor,actoroverlay,clothes,clothesoverlay,actorfx,fg,fgeffect,fgoverlay,cutawaybg,cutaway,cutawayframe,scene,blurfilter,transition	
+S04253	untranslated	text	1	5	src/Questena.js#/root/2/global decl/16	reset, bg	
+S04254	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/20	x:0, y:0, type:'image', value:'', center:true	
+S04255	untranslated	technical	6	30	src/Questena.js#/root/2/global decl/24	x:0, y:0, type:'image', value:'', center:true, centery:true	
+S04256	untranslated	technical	4	20	src/Questena.js#/root/2/global decl/36	x:150, y:930, type:'image', value:'', center:true, centery:false	
+S04257	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/52	x:150, y:0, type:'image', value:'', center:true, centery:true	
+S04258	untranslated	technical	2	10	src/Questena.js#/root/2/global decl/60	x:0, y:0, type:'image', value:'', center:true, centery:true, ztop:true	
+S04259	untranslated	technical	3	15	src/Questena.js#/root/2/global decl/68	x:155, y:0, type:'image', value:'', center:true, centery:true	
+S04260	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/84	x:100, y:25, type:'image', value:'', center:true, centery:true	
+S04261	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/92	x:0, y:0, type:'filter', value:'blur'	
+S04262	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/100	ruler	
+S04263	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/104	break	
+S04264	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/108	zone	
+S04265	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/112	title	
+S04266	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/116	center	
+S04267	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/120	italic	
+S04268	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/124	bold	
+S04269	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/128	underline	
+S04270	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/132	gameui	
+S04271	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/136	info	
+S04272	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/140	log	
+S04273	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/144	narrate	
+S04274	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/148	notice	
+S04275	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/152	display	
+S04276	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/156	tutorial	
+S04277	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/160	sign	
+S04278	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/164	warning	
+S04279	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/168	uiphealth	
+S04280	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/172	uiehealth	
+S04281	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/176	firstupper	
+S04282	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/180	stophistory	
+S04283	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/184	⏳	
+S04284	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/188	💰	
+S04285	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/192	💬	
+S04286	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/196	🍺	
+S04287	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/200	⚗️	
+S04288	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/204	⚔️	
+S04289	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/208	🛡️	
+S04290	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/212	🏟️	
+S04291	untranslated	text	1	5	src/Questena.js#/root/2/global decl/220	"\""0x000000\"""	
+S04292	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/226	frame.png	
+S04293	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/238	black.jpg	
+S04294	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/242	tavernyard.jpg	
+S04295	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/246	taverncellar.jpg	
+S04296	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/250	arenawall.jpg	
+S04297	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/254	bedroom.jpg	
+S04298	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/258	blacksmith.jpg	
+S04299	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/262	inn.jpg	
+S04300	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/266	lockerroom.jpg	
+S04301	untranslated	technical	1	1	src/Questena.js#/root/2/global decl/270	stonefloor.jpg	
+S04302	untranslated	technical	1	1	src/Questena.js#/root/2/global decl/274	trashheap.jpg	
+S04303	untranslated	technical	1	1	src/Questena.js#/root/2/global decl/278	tavernstable.jpg	
+S04304	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/282	shop.jpg	
+S04305	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/286	townsquare.jpg	
+S04306	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/290	arena.jpg	
+S04307	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/294	arenaoutside.jpg	
+S04308	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/298	arenafloor.jpg	
+S04309	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/302	titlesplash.jpg	
+S04310	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/306	tree.jpg	
+S04311	untranslated	technical	1	1	src/Questena.js#/root/2/global decl/958	exie	
+S04312	untranslated	technical	1	1	src/Questena.js#/root/2/global decl/962	exiescenes	
+S04313	untranslated	technical	1	1	src/Questena.js#/root/2/global decl/982	adina	
+S04314	untranslated	technical	1	1	src/Questena.js#/root/2/global decl/1006	joi	
+S04315	untranslated	technical	1	1	src/Questena.js#/root/2/global decl/1010	joiscene	
+S04316	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1086	saucefaeries	
+S04317	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1094	jar	
+S04318	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1098	sauce	
+S04319	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1102	cum	
+S04320	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1106	chonkers	
+S04321	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1110	book	
+S04322	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1114	cauldron	
+S04323	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1118	column	
+S04324	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1122	introsplash	
+S04325	untranslated	technical	2	10	src/Questena.js#/root/2/global decl/1130	fxmiss	
+S04326	untranslated	technical	2	10	src/Questena.js#/root/2/global decl/1134	fxcharge	
+S04327	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1142	fxtailswipe	
+S04328	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1150	fxlick	
+S04329	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1154	fxstab	
+S04330	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1158	fxdust	
+S04331	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1162	fxspeedline	
+S04332	untranslated	technical	2	10	src/Questena.js#/root/2/global decl/1166	combatfx	
+S04333	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1188	true	
+S04334	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1192	false	
+S04335	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1196	norepeat	
+S04336	untranslated	technical	1	5	src/Questena.js#/root/2/global decl/1252	clear	
+S04337	untranslated	text	1	5	src/Questena.js#/root/2/global decl/1878	PlayerGold,PlayerHP,EnemyHP	
+S04342	untranslated	text	1	5	src/Questena.js#/root/2/global decl/1898	sync_watchvars:true	

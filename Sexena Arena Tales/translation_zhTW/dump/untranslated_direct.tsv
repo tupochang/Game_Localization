@@ -1,0 +1,1451 @@
+id	kind	original	context	pointer
+S00001	technical	var	expression	#/root/0/1/0/3/1/b/3
+S00001	technical	var	direct	#/root/0/1/0/3/1/b/14
+S00002	technical	style	expression	#/root/0/1/0/3/1/b/9
+S00003	technical	{	expression	#/root/0/1/0/3/1/b/17
+S00004	technical	opacity:0.50;	direct	#/root/0/1/0/3/1/b/21
+S00005	technical	}	expression	#/root/0/1/0/3/1/b/24
+S00006	technical	/style	expression	#/root/0/1/0/3/1/b/30
+S00007	technical	hr	expression	#/root/0/1/0/10
+S00008	technical	br	expression	#/root/0/1/0/23
+S00009	technical	i	expression	#/root/0/1/0/36
+S00010	technical	span	expression	#/root/0/1/0/49
+S00010	technical	span	expression	#/root/0/1/0/62
+S00010	technical	span	expression	#/root/0/1/0/133
+S00010	technical	span	expression	#/root/0/1/0/250
+S00010	technical	span	expression	#/root/0/1/0/265
+S00010	technical	span	expression	#/root/0/1/0/278
+S00010	technical	span	expression	#/root/0/1/0/297
+S00010	technical	span	expression	#/root/0/1/0/326
+S00010	technical	span	expression	#/root/2/capitalize/8
+S00010	technical	span	expression	#/root/2/capitalize/22
+S00011	technical	div	expression	#/root/0/1/0/75
+S00011	technical	div	expression	#/root/0/1/0/88
+S00011	technical	div	expression	#/root/0/1/0/101
+S00011	technical	div	expression	#/root/0/1/0/120
+S00011	technical	div	expression	#/root/0/1/0/146
+S00011	technical	div	expression	#/root/0/1/0/159
+S00011	technical	div	expression	#/root/0/1/0/172
+S00011	technical	div	expression	#/root/0/1/0/185
+S00011	technical	div	expression	#/root/0/1/0/198
+S00011	technical	div	expression	#/root/0/1/0/217
+S00011	technical	div	expression	#/root/0/1/0/236
+S00011	technical	div	expression	#/root/0/1/0/345
+S00011	technical	div	expression	#/root/0/1/0/358
+S00011	technical	div	expression	#/root/2/imgDisplay/5/1/b/36
+S00011	technical	div	expression	#/root/2/imgDisplay/5/1/b/73
+S00011	technical	div	expression	#/root/2/SevenSharks/1/2
+S00011	technical	div	expression	#/root/2/SevenSharks/1/12
+S00011	technical	div	expression	#/root/2/SevenSharks/1/22
+S00011	technical	div	expression	#/root/2/cardListNameStyled/34
+S00011	technical	div	expression	#/root/2/gdCardListNameStyled/15
+S00011	technical	div	expression	#/root/2/global decl/96
+S00012	technical	 center	expression	#/root/0/1/0/108
+S00013	technical	 stretch1000 fadeInUp animated	expression	#/root/0/1/0/205
+S00013	technical	 stretch1000 fadeInUp animated	expression	#/root/0/1/0/224
+S00014	technical	 delay-1halfs stretch500 swing-bottom-fwd animated	expression	#/root/0/1/0/243
+S00015	technical	centerline	expression	#/root/0/1/0/253
+S00016	technical	uiicon uitime	expression	#/root/0/1/0/281
+S00017	technical	uigold	expression	#/root/0/1/0/300
+S00017	technical	uigold	expression	#/root/0/1/0/314
+S00018	technical	/span	expression	#/root/0/1/0/311
+S00019	technical	uiicon uisocial	expression	#/root/0/1/0/329
+S00020	technical	ui/title.png	expression	#/root/0/5
+S00021	technical	title chapterui seperator	expression	#/root/0/8
+S00022	technical	ui/chapter_seperator.png	expression	#/root/0/15
+S00022	technical	ui/chapter_seperator.png	expression	#/root/2/SevenSharks/1/38/23
+S00022	technical	ui/chapter_seperator.png	expression	#/root/2/TallyWinner/0/59/28/6/b/13
+S00022	technical	ui/chapter_seperator.png	expression	#/root/2/TallyWinner/0/59/29/6/b/13
+S00022	technical	ui/chapter_seperator.png	expression	#/root/2/TallyWinner/0/59/30/1/b/13
+S00023	technical	chapterui seperator	expression	#/root/0/18
+S00023	technical	chapterui seperator	expression	#/root/2/SevenSharks/1/38/26
+S00023	technical	chapterui seperator	expression	#/root/2/TallyWinner/0/59/28/6/b/16
+S00023	technical	chapterui seperator	expression	#/root/2/TallyWinner/0/59/29/6/b/16
+S00023	technical	chapterui seperator	expression	#/root/2/TallyWinner/0/59/30/1/b/16
+S00024	technical	endings2	expression	#/root/0/25
+S00024	technical	endings2	expression	#/root/0/36
+S00024	technical	endings2	expression	#/root/0/47
+S00025	technical	RatEnd	expression	#/root/0/28
+S00026	technical	DemocracyEnd	expression	#/root/0/39
+S00027	technical	HaremEnd	expression	#/root/0/50
+S00028	technical	endings	expression	#/root/0/58
+S00028	technical	endings	expression	#/root/0/69
+S00028	technical	endings	expression	#/root/0/80
+S00028	technical	endings	expression	#/root/0/91
+S00028	technical	endings	expression	#/root/0/102
+S00028	technical	endings	expression	#/root/0/113
+S00028	technical	endings	expression	#/root/0/124
+S00028	technical	endings	expression	#/root/0/135
+S00028	technical	endings	expression	#/root/0/146
+S00028	technical	endings	expression	#/root/0/157
+S00029	technical	KoboldEnd	expression	#/root/0/61
+S00030	technical	GoblinEnd	expression	#/root/0/72
+S00031	technical	OrcEnd	expression	#/root/0/83
+S00032	technical	GnollEnd	expression	#/root/0/94
+S00033	technical	MinotaurEnd	expression	#/root/0/105
+S00034	technical	EttinEnd	expression	#/root/0/116
+S00035	technical	GargoyleEnd	expression	#/root/0/127
+S00036	technical	QuicklingEnd	expression	#/root/0/138
+S00037	technical	HydraEnd	expression	#/root/0/149
+S00038	technical	TrollEnd	expression	#/root/0/160
+S00039	technical	dragonscene_anim	expression	#/root/0/168
+S00039	technical	dragonscene_anim	expression	#/root/0/179
+S00040	technical	idle	expression	#/root/0/171
+S00040	technical	idle	expression	#/root/0/182
+S00040	technical	idle	expression	#/root/0/298
+S00040	technical	idle	expression	#/root/0/452
+S00040	technical	idle	expression	#/root/0/463
+S00040	technical	idle	expression	#/root/0/606
+S00040	technical	idle	expression	#/root/0/760
+S00040	technical	idle	expression	#/root/0/881
+S00040	technical	idle	expression	#/root/0/991
+S00040	technical	idle	expression	#/root/0/1101
+S00040	technical	idle	expression	#/root/0/1255
+S00040	technical	idle	expression	#/root/0/1354
+S00040	technical	idle	expression	#/root/0/1464
+S00040	technical	idle	expression	#/root/0/1563
+S00040	technical	idle	expression	#/root/0/1733
+S00040	technical	idle	expression	#/root/0/1777
+S00040	technical	idle	expression	#/root/0/1856
+S00040	technical	idle	expression	#/root/0/2025
+S00040	technical	idle	expression	#/root/2/global decl/966
+S00040	technical	idle	expression	#/root/2/global decl/990
+S00040	technical	idle	expression	#/root/2/global decl/1014
+S00040	technical	idle	expression	#/root/2/global decl/1090
+S00041	technical	dragonscene	expression	#/root/0/190
+S00041	technical	dragonscene	expression	#/root/0/201
+S00041	technical	dragonscene	expression	#/root/0/212
+S00041	technical	dragonscene	expression	#/root/0/223
+S00041	technical	dragonscene	expression	#/root/0/234
+S00041	technical	dragonscene	expression	#/root/0/245
+S00041	technical	dragonscene	expression	#/root/0/256
+S00041	technical	dragonscene	expression	#/root/0/267
+S00041	technical	dragonscene	expression	#/root/0/278
+S00042	technical	dumbset	expression	#/root/0/193
+S00043	technical	firepose	expression	#/root/0/204
+S00044	technical	lewdgameover	expression	#/root/0/215
+S00044	technical	lewdgameover	expression	#/root/0/375
+S00044	technical	lewdgameover	expression	#/root/0/749
+S00044	technical	lewdgameover	expression	#/root/0/870
+S00044	technical	lewdgameover	expression	#/root/0/947
+S00044	technical	lewdgameover	expression	#/root/0/1090
+S00044	technical	lewdgameover	expression	#/root/0/1244
+S00044	technical	lewdgameover	expression	#/root/0/1343
+S00044	technical	lewdgameover	expression	#/root/0/1420
+S00044	technical	lewdgameover	expression	#/root/0/1552
+S00045	technical	tailpose	expression	#/root/0/226
+S00046	technical	battlepose	expression	#/root/0/237
+S00046	technical	battlepose	expression	#/root/0/859
+S00046	technical	battlepose	expression	#/root/0/936
+S00046	technical	battlepose	expression	#/root/0/1046
+S00046	technical	battlepose	expression	#/root/0/1123
+S00046	technical	battlepose	expression	#/root/0/1398
+S00046	technical	battlepose	expression	#/root/0/1541
+S00046	technical	battlepose	expression	#/root/0/1662
+S00047	technical	defeat	expression	#/root/0/248
+S00048	technical	happy	expression	#/root/0/259
+S00048	technical	happy	expression	#/root/0/331
+S00048	technical	happy	expression	#/root/0/639
+S00048	technical	happy	expression	#/root/0/782
+S00048	technical	happy	expression	#/root/0/969
+S00048	technical	happy	expression	#/root/0/1057
+S00048	technical	happy	expression	#/root/0/1233
+S00048	technical	happy	expression	#/root/0/1310
+S00048	technical	happy	expression	#/root/0/1431
+S00048	technical	happy	expression	#/root/0/1530
+S00048	technical	happy	expression	#/root/0/1629
+S00048	technical	happy	expression	#/root/0/1867
+S00049	technical	mad	expression	#/root/0/270
+S00049	technical	mad	expression	#/root/0/617
+S00049	technical	mad	expression	#/root/0/771
+S00049	technical	mad	expression	#/root/0/958
+S00049	technical	mad	expression	#/root/0/1068
+S00049	technical	mad	expression	#/root/0/1211
+S00049	technical	mad	expression	#/root/0/1442
+S00049	technical	mad	expression	#/root/0/1508
+S00049	technical	mad	expression	#/root/0/1618
+S00050	technical	shock	expression	#/root/0/281
+S00050	technical	shock	expression	#/root/0/628
+S00050	technical	shock	expression	#/root/0/1321
+S00050	technical	shock	expression	#/root/0/1519
+S00050	technical	shock	expression	#/root/0/1651
+S00050	technical	shock	expression	#/root/0/1889
+S00051	technical	reddragon_intro.jpg	expression	#/root/0/289
+S00052	technical	ratscenes_anim	expression	#/root/0/295
+S00052	technical	ratscenes_anim	expression	#/root/0/306
+S00052	technical	ratscenes_anim	expression	#/root/0/317
+S00052	technical	ratscenes_anim	expression	#/root/0/328
+S00052	technical	ratscenes_anim	expression	#/root/0/339
+S00053	technical	angry	expression	#/root/0/309
+S00053	technical	angry	expression	#/root/0/1332
+S00053	technical	angry	expression	#/root/0/1878
+S00054	technical	sassy	expression	#/root/0/320
+S00055	technical	sad	expression	#/root/0/342
+S00056	technical	ratscenes	expression	#/root/0/350
+S00056	technical	ratscenes	expression	#/root/0/361
+S00056	technical	ratscenes	expression	#/root/0/372
+S00056	technical	ratscenes	expression	#/root/0/383
+S00056	technical	ratscenes	expression	#/root/0/394
+S00056	technical	ratscenes	expression	#/root/0/405
+S00056	technical	ratscenes	expression	#/root/0/416
+S00056	technical	ratscenes	expression	#/root/0/427
+S00056	technical	ratscenes	expression	#/root/0/438
+S00057	technical	attack	expression	#/root/0/353
+S00057	technical	attack	expression	#/root/0/650
+S00057	technical	attack	expression	#/root/0/1299
+S00058	technical	rathugged	expression	#/root/0/364
+S00059	technical	lewdgameover2	expression	#/root/0/386
+S00060	technical	lewdgameover3	expression	#/root/0/397
+S00061	technical	lewdgameover4	expression	#/root/0/408
+S00062	technical	sex1	expression	#/root/0/419
+S00062	technical	sex1	expression	#/root/0/672
+S00062	technical	sex1	expression	#/root/0/804
+S00062	technical	sex1	expression	#/root/0/892
+S00062	technical	sex1	expression	#/root/0/1002
+S00062	technical	sex1	expression	#/root/0/1112
+S00062	technical	sex1	expression	#/root/0/1266
+S00062	technical	sex1	expression	#/root/0/1365
+S00062	technical	sex1	expression	#/root/0/1475
+S00062	technical	sex1	expression	#/root/0/1574
+S00062	technical	sex1	expression	#/root/0/1744
+S00062	technical	sex1	expression	#/root/0/1788
+S00062	technical	sex1	expression	#/root/2/global decl/946
+S00062	technical	sex1	expression	#/root/2/global decl/970
+S00062	technical	sex1	expression	#/root/2/global decl/994
+S00062	technical	sex1	expression	#/root/2/global decl/1018
+S00063	technical	sex2	expression	#/root/0/430
+S00063	technical	sex2	expression	#/root/0/683
+S00063	technical	sex2	expression	#/root/0/815
+S00063	technical	sex2	expression	#/root/0/903
+S00063	technical	sex2	expression	#/root/0/1013
+S00063	technical	sex2	expression	#/root/0/1134
+S00063	technical	sex2	expression	#/root/0/1277
+S00063	technical	sex2	expression	#/root/0/1376
+S00063	technical	sex2	expression	#/root/0/1486
+S00063	technical	sex2	expression	#/root/0/1585
+S00063	technical	sex2	expression	#/root/0/1755
+S00063	technical	sex2	expression	#/root/0/1799
+S00063	technical	sex2	expression	#/root/2/global decl/950
+S00063	technical	sex2	expression	#/root/2/global decl/974
+S00063	technical	sex2	expression	#/root/2/global decl/998
+S00063	technical	sex2	expression	#/root/2/global decl/1022
+S00064	technical	skitter	expression	#/root/0/441
+S00065	technical	koboldscene	expression	#/root/0/449
+S00065	technical	koboldscene	expression	#/root/0/460
+S00065	technical	koboldscene	expression	#/root/0/471
+S00065	technical	koboldscene	expression	#/root/0/482
+S00065	technical	koboldscene	expression	#/root/0/493
+S00065	technical	koboldscene	expression	#/root/0/504
+S00065	technical	koboldscene	expression	#/root/0/515
+S00065	technical	koboldscene	expression	#/root/0/526
+S00065	technical	koboldscene	expression	#/root/0/537
+S00065	technical	koboldscene	expression	#/root/0/548
+S00065	technical	koboldscene	expression	#/root/0/559
+S00065	technical	koboldscene	expression	#/root/0/570
+S00065	technical	koboldscene	expression	#/root/0/581
+S00065	technical	koboldscene	expression	#/root/0/592
+S00066	technical	apron	expression	#/root/0/474
+S00067	technical	combatstew	expression	#/root/0/485
+S00068	technical	tummy	expression	#/root/0/496
+S00069	technical	sex	expression	#/root/0/507
+S00070	technical	sex_a	expression	#/root/0/518
+S00071	technical	sex_b	expression	#/root/0/529
+S00072	technical	sex_b_condom	expression	#/root/0/540
+S00073	technical	stewcum	expression	#/root/0/551
+S00074	technical	stewcum_condom	expression	#/root/0/562
+S00075	technical	stewcum_cup	expression	#/root/0/573
+S00076	technical	stewcum_stew	expression	#/root/0/584
+S00077	technical	tug	expression	#/root/0/595
+S00078	technical	goblinscenes_anim	expression	#/root/0/603
+S00079	technical	goblinscenes	expression	#/root/0/614
+S00079	technical	goblinscenes	expression	#/root/0/625
+S00079	technical	goblinscenes	expression	#/root/0/636
+S00079	technical	goblinscenes	expression	#/root/0/647
+S00079	technical	goblinscenes	expression	#/root/0/658
+S00079	technical	goblinscenes	expression	#/root/0/669
+S00079	technical	goblinscenes	expression	#/root/0/680
+S00079	technical	goblinscenes	expression	#/root/0/691
+S00079	technical	goblinscenes	expression	#/root/0/702
+S00079	technical	goblinscenes	expression	#/root/0/713
+S00079	technical	goblinscenes	expression	#/root/0/724
+S00079	technical	goblinscenes	expression	#/root/0/735
+S00079	technical	goblinscenes	expression	#/root/0/746
+S00080	technical	knockeddown	expression	#/root/0/661
+S00081	technical	sex3	expression	#/root/0/694
+S00081	technical	sex3	expression	#/root/0/914
+S00081	technical	sex3	expression	#/root/0/1024
+S00081	technical	sex3	expression	#/root/0/1145
+S00081	technical	sex3	expression	#/root/0/1288
+S00081	technical	sex3	expression	#/root/0/1387
+S00081	technical	sex3	expression	#/root/0/1497
+S00081	technical	sex3	expression	#/root/0/1596
+S00081	technical	sex3	expression	#/root/0/1766
+S00081	technical	sex3	expression	#/root/0/1810
+S00081	technical	sex3	expression	#/root/2/global decl/954
+S00081	technical	sex3	expression	#/root/2/global decl/978
+S00081	technical	sex3	expression	#/root/2/global decl/1002
+S00081	technical	sex3	expression	#/root/2/global decl/1026
+S00082	technical	sex4	expression	#/root/0/705
+S00082	technical	sex4	expression	#/root/0/848
+S00082	technical	sex4	expression	#/root/0/925
+S00082	technical	sex4	expression	#/root/0/1035
+S00082	technical	sex4	expression	#/root/0/1156
+S00082	technical	sex4	expression	#/root/0/1607
+S00082	technical	sex4	expression	#/root/2/global decl/1030
+S00083	technical	sex4b	expression	#/root/0/716
+S00084	technical	sex5	expression	#/root/0/727
+S00085	technical	sex6	expression	#/root/0/738
+S00086	technical	ettinscene_anim	expression	#/root/0/757
+S00086	technical	ettinscene_anim	expression	#/root/0/768
+S00086	technical	ettinscene_anim	expression	#/root/0/779
+S00086	technical	ettinscene_anim	expression	#/root/0/790
+S00087	technical	surprised	expression	#/root/0/793
+S00087	technical	surprised	expression	#/root/0/980
+S00087	technical	surprised	expression	#/root/0/1079
+S00087	technical	surprised	expression	#/root/0/1222
+S00087	technical	surprised	expression	#/root/0/1453
+S00088	technical	ettinscene	expression	#/root/0/801
+S00088	technical	ettinscene	expression	#/root/0/812
+S00088	technical	ettinscene	expression	#/root/0/823
+S00088	technical	ettinscene	expression	#/root/0/834
+S00088	technical	ettinscene	expression	#/root/0/845
+S00088	technical	ettinscene	expression	#/root/0/856
+S00088	technical	ettinscene	expression	#/root/0/867
+S00089	technical	sex3a	expression	#/root/0/826
+S00090	technical	sex3b	expression	#/root/0/837
+S00091	technical	trollscenes_anim	expression	#/root/0/878
+S00092	technical	trollscenes	expression	#/root/0/889
+S00092	technical	trollscenes	expression	#/root/0/900
+S00092	technical	trollscenes	expression	#/root/0/911
+S00092	technical	trollscenes	expression	#/root/0/922
+S00092	technical	trollscenes	expression	#/root/0/933
+S00092	technical	trollscenes	expression	#/root/0/944
+S00092	technical	trollscenes	expression	#/root/0/955
+S00092	technical	trollscenes	expression	#/root/0/966
+S00092	technical	trollscenes	expression	#/root/0/977
+S00093	technical	quicklingscenes_anim	expression	#/root/0/988
+S00094	technical	quicklingscenes	expression	#/root/0/999
+S00094	technical	quicklingscenes	expression	#/root/0/1010
+S00094	technical	quicklingscenes	expression	#/root/0/1021
+S00094	technical	quicklingscenes	expression	#/root/0/1032
+S00094	technical	quicklingscenes	expression	#/root/0/1043
+S00094	technical	quicklingscenes	expression	#/root/0/1054
+S00094	technical	quicklingscenes	expression	#/root/0/1065
+S00094	technical	quicklingscenes	expression	#/root/0/1076
+S00094	technical	quicklingscenes	expression	#/root/0/1087
+S00095	technical	orcscene_anim	expression	#/root/0/1098
+S00096	technical	orcscene	expression	#/root/0/1109
+S00096	technical	orcscene	expression	#/root/0/1120
+S00096	technical	orcscene	expression	#/root/0/1131
+S00096	technical	orcscene	expression	#/root/0/1142
+S00096	technical	orcscene	expression	#/root/0/1153
+S00096	technical	orcscene	expression	#/root/0/1164
+S00096	technical	orcscene	expression	#/root/0/1175
+S00096	technical	orcscene	expression	#/root/0/1186
+S00096	technical	orcscene	expression	#/root/0/1197
+S00096	technical	orcscene	expression	#/root/0/1208
+S00096	technical	orcscene	expression	#/root/0/1219
+S00096	technical	orcscene	expression	#/root/0/1230
+S00096	technical	orcscene	expression	#/root/0/1241
+S00097	technical	grabpaper	expression	#/root/0/1167
+S00098	technical	grabrock	expression	#/root/0/1178
+S00099	technical	grabscissor	expression	#/root/0/1189
+S00100	technical	grabsex	expression	#/root/0/1200
+S00101	technical	minotaurscenes_anim	expression	#/root/0/1252
+S00102	technical	minotaurscenes	expression	#/root/0/1263
+S00102	technical	minotaurscenes	expression	#/root/0/1274
+S00102	technical	minotaurscenes	expression	#/root/0/1285
+S00102	technical	minotaurscenes	expression	#/root/0/1296
+S00102	technical	minotaurscenes	expression	#/root/0/1307
+S00102	technical	minotaurscenes	expression	#/root/0/1318
+S00102	technical	minotaurscenes	expression	#/root/0/1329
+S00102	technical	minotaurscenes	expression	#/root/0/1340
+S00103	technical	hydrascenes_anim	expression	#/root/0/1351
+S00104	technical	hydrascenes	expression	#/root/0/1362
+S00104	technical	hydrascenes	expression	#/root/0/1373
+S00104	technical	hydrascenes	expression	#/root/0/1384
+S00104	technical	hydrascenes	expression	#/root/0/1395
+S00104	technical	hydrascenes	expression	#/root/0/1406
+S00104	technical	hydrascenes	expression	#/root/0/1417
+S00104	technical	hydrascenes	expression	#/root/0/1428
+S00104	technical	hydrascenes	expression	#/root/0/1439
+S00104	technical	hydrascenes	expression	#/root/0/1450
+S00105	technical	cumshot	expression	#/root/0/1409
+S00106	technical	gnollscene_anim	expression	#/root/0/1461
+S00107	technical	gnollscene	expression	#/root/0/1472
+S00107	technical	gnollscene	expression	#/root/0/1483
+S00107	technical	gnollscene	expression	#/root/0/1494
+S00107	technical	gnollscene	expression	#/root/0/1505
+S00107	technical	gnollscene	expression	#/root/0/1516
+S00107	technical	gnollscene	expression	#/root/0/1527
+S00107	technical	gnollscene	expression	#/root/0/1538
+S00107	technical	gnollscene	expression	#/root/0/1549
+S00108	technical	gargoylescene_anim	expression	#/root/0/1560
+S00109	technical	gargoylescene	expression	#/root/0/1571
+S00109	technical	gargoylescene	expression	#/root/0/1582
+S00109	technical	gargoylescene	expression	#/root/0/1593
+S00109	technical	gargoylescene	expression	#/root/0/1604
+S00109	technical	gargoylescene	expression	#/root/0/1615
+S00109	technical	gargoylescene	expression	#/root/0/1626
+S00109	technical	gargoylescene	expression	#/root/0/1637
+S00109	technical	gargoylescene	expression	#/root/0/1648
+S00109	technical	gargoylescene	expression	#/root/0/1659
+S00110	technical	scary	expression	#/root/0/1640
+S00111	technical	venitascenes	expression	#/root/0/1670
+S00111	technical	venitascenes	expression	#/root/0/1681
+S00111	technical	venitascenes	expression	#/root/0/1692
+S00111	technical	venitascenes	expression	#/root/0/1703
+S00111	technical	venitascenes	expression	#/root/0/1712
+S00111	technical	venitascenes	expression	#/root/0/1721
+S00111	technical	venitascenes	expression	#/root/2/global decl/930
+S00112	technical	level1	expression	#/root/0/1673
+S00112	technical	level1	expression	#/root/2/global decl/934
+S00113	technical	level2	expression	#/root/0/1684
+S00113	technical	level2	expression	#/root/2/global decl/938
+S00114	technical	level3	expression	#/root/0/1695
+S00114	technical	level3	expression	#/root/2/global decl/942
+S00115	technical	exiescene	expression	#/root/0/1730
+S00115	technical	exiescene	expression	#/root/0/1741
+S00115	technical	exiescene	expression	#/root/0/1752
+S00115	technical	exiescene	expression	#/root/0/1763
+S00116	technical	adinascene	expression	#/root/0/1774
+S00116	technical	adinascene	expression	#/root/0/1785
+S00116	technical	adinascene	expression	#/root/0/1796
+S00116	technical	adinascene	expression	#/root/0/1807
+S00116	technical	adinascene	expression	#/root/2/global decl/986
+S00117	technical	tamaniscene_anim	expression	#/root/0/1853
+S00117	technical	tamaniscene_anim	expression	#/root/0/1864
+S00117	technical	tamaniscene_anim	expression	#/root/0/1875
+S00117	technical	tamaniscene_anim	expression	#/root/0/1886
+S00118	technical	tamaniscene	expression	#/root/0/1897
+S00118	technical	tamaniscene	expression	#/root/0/1908
+S00118	technical	tamaniscene	expression	#/root/0/1919
+S00118	technical	tamaniscene	expression	#/root/0/1930
+S00118	technical	tamaniscene	expression	#/root/0/1941
+S00118	technical	tamaniscene	expression	#/root/0/1952
+S00118	technical	tamaniscene	expression	#/root/0/1963
+S00118	technical	tamaniscene	expression	#/root/0/1974
+S00118	technical	tamaniscene	expression	#/root/0/1985
+S00119	technical	sex_01	expression	#/root/0/1900
+S00120	technical	sex_02	expression	#/root/0/1911
+S00121	technical	sex_03	expression	#/root/0/1922
+S00122	technical	sex_04	expression	#/root/0/1933
+S00123	technical	sex_05	expression	#/root/0/1944
+S00124	technical	withvenitaidle	expression	#/root/0/1955
+S00125	technical	withvenitahappy	expression	#/root/0/1966
+S00126	technical	withvenitamad	expression	#/root/0/1977
+S00127	technical	withvenitashock	expression	#/root/0/1988
+S00128	technical	object	expression	#/root/0/2033
+S00128	technical	object	expression	#/root/0/2042
+S00128	technical	object	expression	#/root/0/2051
+S00129	technical	intro	expression	#/root/0/2061
+S00130	technical	play	expression	#/root/0/2070
+S00131	technical	style2	expression	#/root/0/2079
+S00132	technical	style1	expression	#/root/0/2088
+S00132	technical	style1	expression	#/root/0/2115
+S00132	technical	style1	expression	#/root/0/2124
+S00132	technical	style1	expression	#/root/0/2133
+S00132	technical	style1	expression	#/root/0/2149
+S00133	technical	style3	expression	#/root/0/2097
+S00134	technical	style4	expression	#/root/0/2106
+S00135	text	"""0xffffff"""	expression	#/root/0/2141
+S00135	text	"""0xffffff"""	expression	#/root/2/spine/21
+S00135	text	"""0xffffff"""	expression	#/root/2/tintColor/6/1/b/3
+S00136	technical	style5	expression	#/root/0/2158
+S00137	technical	tug_style1	expression	#/root/0/2167
+S00138	technical	slap_style1	expression	#/root/0/2176
+S00139	technical	 	direct	#/root/2/TitleScreen/1/4/1/b/0
+S00139	technical	 	direct	#/root/2/TitleScreen/1/7/25/25/c-0/0
+S00139	technical	 	direct	#/root/2/TitleScreen/1/7/25/25/c-1/0
+S00139	technical	 	direct	#/root/2/GameStart/0/0/4/1/b/0
+S00139	technical	 	expression	#/root/2/nameStyling/5/1/b/19
+S00139	technical	 	expression	#/root/2/portraitStyling/5/1/b/19
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/6
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/14
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/22
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/30
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/38
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/46
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/54
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/62
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/70
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/78
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/86
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/94
+S00139	technical	 	direct	#/root/2/clearstage/3/1/b/102
+S00139	technical	 	direct	#/root/2/clearbg/3/1/b/6
+S00139	technical	 	direct	#/root/2/clearbg/3/1/b/14
+S00139	technical	 	direct	#/root/2/clearbg/3/1/b/22
+S00139	technical	 	direct	#/root/2/clearbg/3/1/b/30
+S00139	technical	 	direct	#/root/2/clearbg/3/1/b/38
+S00139	technical	 	direct	#/root/2/clearbg/3/1/b/46
+S00139	technical	 	direct	#/root/2/clearbg/3/1/b/54
+S00139	technical	 	direct	#/root/2/clearactor/3/1/b/6
+S00139	technical	 	direct	#/root/2/clearactor/3/1/b/14
+S00139	technical	 	direct	#/root/2/clearactor/3/1/b/22
+S00139	technical	 	direct	#/root/2/clearactor/3/1/b/30
+S00139	technical	 	direct	#/root/2/clearactor/3/1/b/38
+S00139	technical	 	direct	#/root/2/fullscreen_transition/21/1/b/1/6/b/7
+S00139	technical	 	direct	#/root/2/fullscreen_transition/21/1/b/3/14/b/7
+S00139	technical	 	expression	#/root/2/imgDisplay/5/1/b/31/1/b/3
+S00139	technical	 	direct	#/root/2/setCutaway/18
+S00139	technical	 	direct	#/root/2/SoundStop/9
+S00139	technical	 	expression	#/root/2/SoundIntro/16/1/b/20
+S00139	technical	 	expression	#/root/2/SoundIntro/16/1/b/34
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-0/1/42/c-6/0
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-0/1/42/g-0/5
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-0/1/42/g-0/11
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-1/1/42/c-6/0
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-1/1/42/g-0/5
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-2/1/42/c-6/0
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-2/1/42/g-0/5
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-2/1/42/g-0/11
+S00139	technical	 	direct	#/root/2/soundsettings/0/0/24/c-3/0
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/0
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-0/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-1/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-2/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-3/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-4/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-5/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-6/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-7/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-8/0
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/0
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-0/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-1/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-2/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-3/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-4/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-5/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-6/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-7/16
+S00139	technical	 	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-8/0
+S00139	technical	 	direct	#/root/2/saveload/2/1/g-0/1/5
+S00139	technical	 	direct	#/root/2/swapEnemy/5/1/b/0
+S00139	technical	 	expression	#/root/2/characterDefine/5/6/b/8/6/b/9
+S00139	technical	 	expression	#/root/2/addbulge/7
+S00139	technical	 	direct	#/root/2/flow/1/10/c-0/0
+S00139	technical	 	direct	#/root/2/respond/1/10/c-0/0
+S00139	technical	 	direct	#/root/2/respond/1/10/c-0/7
+S00139	technical	 	direct	#/root/2/goBack/1/11/c-0/0
+S00139	technical	 	direct	#/root/2/debug_menu/0/24/c-2/1/30/c-3/0
+S00139	technical	 	direct	#/root/2/debug_menu/0/24/c-2/1/30/c-3/2/24/c-0/0
+S00139	technical	 	direct	#/root/2/debug_menu/0/24/c-2/1/30/c-3/2/24/c-1/0
+S00139	technical	 	direct	#/root/2/debug_menu/0/24/c-2/1/30/c-3/2/24/c-2/0
+S00139	technical	 	direct	#/root/2/debug_menu/0/24/c-2/1/30/c-3/2/24/c-3/0
+S00139	technical	 	direct	#/root/2/debug_menu/0/24/c-2/1/30/c-4/0
+S00139	technical	 	direct	#/root/2/debug_menu/0/24/c-3/0
+S00139	technical	 	direct	#/root/2/debug_menu/1/media/0/12/c-1/1/72/c-11/0
+S00139	technical	 	direct	#/root/2/Tutorial/10/walkthroughintro/18
+S00139	technical	 	direct	#/root/2/Tutorial/10/walkthroughintro/25
+S00139	technical	 	direct	#/root/2/Tutorial/10/walkthroughintro/67
+S00139	technical	 	direct	#/root/2/Tutorial/10/walkthroughintro/143
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-4/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-4/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-4/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-4/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-5/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-5/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-5/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-5/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-6/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-6/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-6/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-6/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-7/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-7/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-7/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-7/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-8/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-8/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-8/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-8/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-9/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-9/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-9/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-9/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-10/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-10/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-10/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-10/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-11/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-11/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-11/2/19/c-1/1/12/c-1/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-11/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-12/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-12/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-12/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-12/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-13/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-13/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-13/2/19/c-1/1/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-13/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-14/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-14/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-14/2/19/c-1/1/12/c-1/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-0/1/116/c-14/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-16/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-16/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-16/2/19/c-1/1/12/c-1/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-16/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-17/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-17/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-17/2/19/c-1/1/12/c-1/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-17/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-18/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-18/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-18/2/19/c-1/1/12/c-1/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-18/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-19/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-19/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-19/2/19/c-1/1/12/c-1/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-19/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-20/2/19/c-0/12/18/c-2/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-20/2/19/c-0/12/18/g-0/6/c-3/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-20/2/19/c-1/1/12/c-1/0
+S00139	technical	 	direct	#/root/2/GalleryScreen/0/44/g-1/4/62/c-20/2/19/c-2/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/51/1/b/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/67/1/b/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/70/61/c-0/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/70/61/c-1/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/70/61/c-2/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/70/61/c-3/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/70/61/c-4/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/70/61/c-5/1/26/c-1/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/70/61/c-5/1/26/c-2/0
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/10/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/23/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/36/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/49/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/62/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/75/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/88/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/101/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/114/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/127/1/b/8
+S00139	technical	 	direct	#/root/2/SexenaMap/0/71/g-0/1/10/140/1/b/8
+S00139	technical	 	direct	#/root/2/Tavern/1/Init/0/5/1/b/0
+S00139	technical	 	direct	#/root/2/Tavern/1/tavern/0/4
+S00139	technical	 	direct	#/root/2/Tavern/1/tavern/0/24/6/37/c-0/5
+S00139	technical	 	direct	#/root/2/Tavern/1/tavern/0/24/6/37/c-3/0
+S00139	technical	 	direct	#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/7
+S00139	technical	 	direct	#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/c-0/0
+S00139	technical	 	direct	#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/excuseme/5
+S00139	technical	 	direct	#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/sauce_top/0/21/g-0/12/c-3/5
+S00139	technical	 	direct	#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/sauce_top/0/21/g-0/12/c-4/5
+S00139	technical	 	direct	#/root/2/TavernEvents/1/gotobed/0/42/34/46/24/c-0/14/15/c-1/41/12/sauce_top/0/21/g-1/10
+S00139	technical	 	direct	#/root/2/VenitaScenes/1/Intro/0/25/c-0/10/13/c-0/15/6/c-0/31/12/c-1/0
+S00139	technical	 	direct	#/root/2/VenitaScenes/1/Intro/0/25/c-0/10/13/c-0/15/6/c-0/31/12/g-0/14/4/1/b/0
+S00139	technical	 	direct	#/root/2/VenitaScenes/1/rat/0/0/89/4/26/c-0/0
+S00139	technical	 	direct	#/root/2/VenitaScenes/1/rat/0/0/89/4/26/c-0/78/14/c-0/0
+S00139	technical	 	direct	#/root/2/VenitaScenes/1/rat/0/0/89/4/26/c-1/14/6/g-0/14/18/c-0/0
+S00139	technical	 	direct	#/root/2/ItemShop/4/itemshop/0/60/c-2/0
+S00139	technical	 	direct	#/root/2/WeaponShop/4/weaponshop/0/59/c-2/0
+S00139	technical	 	direct	#/root/2/ArmorShop/4/armorshop/0/58/c-2/0
+S00139	technical	 	direct	#/root/2/AdinaScenes/1/talkconditions/4/1/b/0
+S00139	technical	 	direct	#/root/2/Arena/1/entry/0/25
+S00139	technical	 	direct	#/root/2/Arena/1/entry/0/34/25/c-0/1/12/c-0/5
+S00139	technical	 	direct	#/root/2/Arena/1/entry/0/34/25/c-1/0
+S00139	technical	 	direct	#/root/2/Arena/1/entry/0/35/g-0/1/3/1/b/5
+S00139	technical	 	direct	#/root/2/Arena/1/entry/0/35/g-0/1/10/4
+S00139	technical	 	direct	#/root/2/Arena/1/fighterintro/7
+S00139	technical	 	direct	#/root/2/Arena/1/fighterintro/12
+S00139	technical	 	direct	#/root/2/SetArena/12
+S00139	technical	 	direct	#/root/2/SetArena/18
+S00139	technical	 	direct	#/root/2/CombatResult/1/events/0/6/b/1/11/s0/1
+S00139	technical	 	direct	#/root/2/ArenaEvents/1/lose/6
+S00139	technical	 	direct	#/root/2/ArenaEvents/1/dead/14
+S00139	technical	 	direct	#/root/2/showAttack/11
+S00139	technical	 	direct	#/root/2/Player/1/Actions/0/5/1/b/0
+S00139	technical	 	direct	#/root/2/Player/1/DefendChoice/1/13/c-0/1/16/c-0/5
+S00139	technical	 	direct	#/root/2/Player/1/DefendChoice/1/13/c-0/1/16/c-1/0
+S00139	technical	 	direct	#/root/2/Player/1/ItemChoice/0/10/c-0/0
+S00139	technical	 	direct	#/root/2/Player/1/ItemChoice/0/10/c-0/2/30/c-2/0
+S00139	technical	 	direct	#/root/2/RatScenes/1/lickend/0/135/c-0/15/12/c-0/8/12/c-0/8/12/c-1/0
+S00139	technical	 	direct	#/root/2/RatScenes/1/lickend/0/135/c-0/15/12/c-0/8/12/c-1/0
+S00139	technical	 	direct	#/root/2/RatScenes/1/Intro/0/45/c-0/35/12/c-1/0
+S00139	technical	 	direct	#/root/2/RatScenes/1/Fuck/0/4
+S00139	technical	 	direct	#/root/2/RatScenes/1/Fuck/0/25/c-0/0
+S00139	technical	 	direct	#/root/2/KoboldScenes/1/Mid/0/33/c-1/0
+S00139	technical	 	direct	#/root/2/KoboldScenes/1/Fuck/0/51/c-0/140/6/c-0/0
+S00139	technical	 	direct	#/root/2/GoblinScenes/1/Fuck/0/160
+S00139	technical	 	direct	#/root/2/GoblinScenes/1/Fuck/0/586
+S00139	technical	 	direct	#/root/2/GnollScenes/1/Fuck/4
+S00139	technical	 	direct	#/root/2/SevenSharks/1/38/10
+S00139	technical	 	direct	#/root/2/SevenSharks/1/38/20
+S00139	technical	 	direct	#/root/2/SevenSharks/1/38/32/73/c-5/0
+S00139	technical	 	direct	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-0/0
+S00139	technical	 	direct	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/136/c-5/0
+S00139	technical	 	direct	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-2/0
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/28/6/b/41
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/28/6/b/51
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/28/6/b/65/1/b/14
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/28/6/b/65/1/b/24
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/29/6/b/41
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/29/6/b/51
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/29/6/b/65/1/b/14
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/29/6/b/65/1/b/24
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/30/1/b/41
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/30/1/b/51
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/30/1/b/65/1/b/14
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/30/1/b/65/1/b/24
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/86/c-0/0
+S00139	technical	 	direct	#/root/2/TallyWinner/0/59/86/c-1/0
+S00139	technical	 	direct	#/root/2/cardListSuit/6/1/b/0
+S00139	technical	 	direct	#/root/2/cardListSuit/22/1/b/0
+S00139	technical	 	direct	#/root/2/cardListSuit/30/1/b/0
+S00139	technical	 	direct	#/root/2/cardListName/17/1/b/13
+S00139	technical	 	direct	#/root/2/cardListName/22/1/b/4
+S00139	technical	 	direct	#/root/2/cardListNameStyled/49/1/b/17
+S00139	technical	 	direct	#/root/2/cardListNameStyled/54/1/b/16
+S00139	technical	 	direct	#/root/2/GambleDrink/59/showhand/0/46/different_choice/18/c-3/0
+S00139	technical	 	direct	#/root/2/GambleDrink/59/showhand/0/46/same_choice/18/c-8/0
+S00139	technical	 	direct	#/root/2/gdCardListSuit/8/1/b/12/1/b/0
+S00139	technical	 	direct	#/root/2/gdCardListName/16/1/b/13
+S00139	technical	 	direct	#/root/2/gdCardListName/21/1/b/4
+S00139	technical	 	direct	#/root/2/gdCardListNameStyled/30/1/b/17
+S00139	technical	 	direct	#/root/2/gdCardListNameStyled/35/1/b/16
+S00139	technical	 	direct	#/root/2/CatchPig/0/19
+S00139	technical	 	direct	#/root/2/CatchPig/0/28/3/1/b/0
+S00139	technical	 	direct	#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-3/18/0/2/c-0/17
+S00139	technical	 	direct	#/root/2/XXXScenes/1/Quip/0/0/12
+S00140	text	S  E  X  E  N  A	expression	#/root/2/TitleScreen/1/7/11
+S00140	text	S  E  X  E  N  A	expression	#/root/2/EndingScenes/1/Credits/0/7
+S00142	technical		direct	#/root/2/TitleScreen/1/7/21
+S00142	technical		expression	#/root/2/drawDiv/10/3
+S00142	technical		expression	#/root/2/nameStyling/6/1/b/3
+S00142	technical		expression	#/root/2/portraitStyling/6/1/b/3
+S00142	technical		expression	#/root/2/d/3
+S00142	technical		expression	#/root/2/glue/2
+S00142	technical		direct	#/root/2/clearstage/3/1/b/110
+S00142	technical		direct	#/root/2/clearactor/3/1/b/46
+S00142	technical		direct	#/root/2/clearfadecharacter/3/1/b/5
+S00142	technical		direct	#/root/2/clearfadestage/3/1/b/5
+S00142	technical		direct	#/root/2/clearfadeall/3/1/b/5
+S00142	technical		direct	#/root/2/clearfadeall/3/1/b/11
+S00142	technical		direct	#/root/2/SetStage/3/1/b/5
+S00142	technical		direct	#/root/2/SetStage/3/1/b/11
+S00142	technical		direct	#/root/2/NukeStage/3/1/b/5
+S00142	technical		expression	#/root/2/fullscreen_transition/8
+S00142	technical		expression	#/root/2/imgDisplay/5/1/b/3
+S00142	technical		expression	#/root/2/imgDisplay/5/1/b/20
+S00142	technical		expression	#/root/2/imgDisplay/5/1/b/27
+S00142	technical		direct	#/root/2/setCutaway/24
+S00142	technical		expression	#/root/2/DS/51/6/b/5
+S00142	technical		direct	#/root/2/SoundPlay/26
+S00142	technical		expression	#/root/2/SoundFadeIn/9/1/b/1/3
+S00142	technical		expression	#/root/2/SoundFadeIn/9/1/b/2/3
+S00142	technical		direct	#/root/2/soundsettings/0/0/24/c-0/1/42/c-0/6
+S00142	technical		direct	#/root/2/soundsettings/0/0/24/c-0/1/42/c-1/6
+S00142	technical		expression	#/root/2/characterDefine/6/6/b/8/6/b/4
+S00142	technical		direct	#/root/2/characterDefine/6/6/b/15
+S00142	technical		expression	#/root/2/clean/1/4/b/3
+S00142	technical		direct	#/root/2/commaListName/7/6/b/20
+S00142	technical		direct	#/root/2/commaListName/9/6/b/6
+S00142	technical		direct	#/root/2/commaListName/10/1/b/20
+S00142	technical		direct	#/root/2/commaList/6/6/b/17
+S00142	technical		direct	#/root/2/commaList/8/6/b/6
+S00142	technical		direct	#/root/2/commaList/9/1/b/17
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/10/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/23/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/36/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/49/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/62/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/75/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/88/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/101/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/114/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/127/1/b/14
+S00142	technical		direct	#/root/2/SexenaMap/0/71/g-0/1/10/140/1/b/14
+S00142	technical		direct	#/root/2/Tavern/1/Init/0/7
+S00142	technical		direct	#/root/2/Tavern/1/tavern/0/25/end/8/11/5
+S00142	technical		direct	#/root/2/ItemShop/4/itemshop/0/4
+S00142	technical		direct	#/root/2/WeaponShop/4/weaponshop/0/4
+S00142	technical		direct	#/root/2/WeaponShop/4/weaponshop/0/19
+S00142	technical		direct	#/root/2/ArmorShop/4/armorshop/0/4
+S00142	technical		direct	#/root/2/Arena/1/entry/0/35/g-0/1/3/1/b/11
+S00142	technical		direct	#/root/2/Arena/1/fighterintro/22
+S00142	technical		direct	#/root/2/Arena/1/fighterintro/28/6/b/2
+S00142	technical		direct	#/root/2/Arena/1/fighterintro/30
+S00142	technical		direct	#/root/2/RatScenes/1/Fuck/0/25/c-0/10
+S00142	technical		direct	#/root/2/KoboldScenes/1/Fuck/0/4
+S00142	technical		direct	#/root/2/KoboldScenes/1/Fuck/0/11
+S00142	technical		direct	#/root/2/KoboldScenes/1/Fuck/0/24
+S00142	technical		direct	#/root/2/KoboldScenes/1/LewdGameOver/0/16
+S00142	technical		direct	#/root/2/KoboldScenes/1/LewdGameOver/0/23
+S00142	technical		direct	#/root/2/GoblinScenes/1/Intro/0/33/c-0/103
+S00142	technical		direct	#/root/2/GoblinScenes/1/LewdGameOver/59
+S00142	technical		direct	#/root/2/GoblinScenes/1/Fuck/0/22
+S00142	technical		direct	#/root/2/GoblinScenes/1/Fuck/0/206
+S00142	technical		direct	#/root/2/GoblinScenes/1/Fuck/0/417
+S00142	technical		direct	#/root/2/GoblinScenes/1/Fuck/0/472
+S00142	technical		direct	#/root/2/MinotaurScenes/1/NoSword/6/6/b/8
+S00142	technical		direct	#/root/2/MinotaurScenes/1/Fuck/10
+S00142	technical		direct	#/root/2/EttinScenes/1/Fuck/696
+S00142	technical		direct	#/root/2/SevenSharks/1/38/32/73/c-5/404
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/13
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/51
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-0/30
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/7
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/28
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/54
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/80
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-1/35/106
+S00142	technical		expression	#/root/2/SevenSharks/2/showhand/0/24/15/93/c-3/1/18/c-0/5
+S00142	technical		expression	#/root/2/EnemyTurn/57
+S00142	technical		expression	#/root/2/EnemyTurn/79
+S00142	technical		direct	#/root/2/TallyWinner/0/51/10/b/14/1/b/14
+S00142	technical		direct	#/root/2/TallyWinner/0/51/10/b/30/1/b/14
+S00142	technical		expression	#/root/2/scoreSuitAI/6
+S00142	technical		expression	#/root/2/cardListSuit/6/1/b/6
+S00142	technical		expression	#/root/2/cardListSuit/14/1/b/6
+S00142	technical		expression	#/root/2/cardListSuit/22/1/b/6
+S00142	technical		expression	#/root/2/cardListSuit/30/1/b/6
+S00142	technical		expression	#/root/2/cardListSuitExt/11/1/b/1/4/b/6
+S00142	technical		expression	#/root/2/cardListSuitExt/11/1/b/2/1/b/6
+S00142	technical		expression	#/root/2/cardListSuitExt/20/1/b/10/4/b/6
+S00142	technical		expression	#/root/2/cardListSuitExt/20/1/b/11/1/b/6
+S00142	technical		expression	#/root/2/cardListSuitExt/29/1/b/19/4/b/6
+S00142	technical		expression	#/root/2/cardListSuitExt/29/1/b/20/1/b/6
+S00142	technical		expression	#/root/2/cardListSuitExt/38/1/b/28/4/b/6
+S00142	technical		expression	#/root/2/cardListSuitExt/38/1/b/29/1/b/6
+S00142	technical		direct	#/root/2/cardListSuitExt/38/1/b/31
+S00142	technical		expression	#/root/2/cardListName/17/1/b/11/1/b/2
+S00142	technical		expression	#/root/2/cardListNameStyled/16
+S00142	technical		expression	#/root/2/cardListNameStyled/22
+S00142	technical		expression	#/root/2/cardListNameStyled/28
+S00142	technical		expression	#/root/2/dealCard/34/1/b/4
+S00142	technical		direct	#/root/2/gdCardListSuitExt/10/1/b/13/1/b/1/4/b/10
+S00142	technical		direct	#/root/2/gdCardListSuitExt/10/1/b/13/1/b/2/1/b/10
+S00142	technical		expression	#/root/2/gdCardListName/16/1/b/11/1/b/2
+S00142	technical		expression	#/root/2/gdDealCard/34/1/b/4
+S00142	technical		expression	#/root/2/CatchPig/0/2
+S00142	technical		expression	#/root/2/global decl/230
+S00142	technical		expression	#/root/2/global decl/234
+S00142	technical		expression	#/root/2/global decl/310
+S00142	technical		expression	#/root/2/global decl/314
+S00142	technical		expression	#/root/2/global decl/318
+S00142	technical		expression	#/root/2/global decl/322
+S00142	technical		expression	#/root/2/global decl/326
+S00142	technical		expression	#/root/2/global decl/330
+S00142	technical		expression	#/root/2/global decl/334
+S00142	technical		expression	#/root/2/global decl/338
+S00142	technical		expression	#/root/2/global decl/342
+S00142	technical		expression	#/root/2/global decl/346
+S00142	technical		expression	#/root/2/global decl/350
+S00142	technical		expression	#/root/2/global decl/354
+S00142	technical		expression	#/root/2/global decl/358
+S00142	technical		expression	#/root/2/global decl/362
+S00142	technical		expression	#/root/2/global decl/366
+S00142	technical		expression	#/root/2/global decl/370
+S00142	technical		expression	#/root/2/global decl/374
+S00142	technical		expression	#/root/2/global decl/378
+S00142	technical		expression	#/root/2/global decl/382
+S00142	technical		expression	#/root/2/global decl/386
+S00142	technical		expression	#/root/2/global decl/390
+S00142	technical		expression	#/root/2/global decl/394
+S00142	technical		expression	#/root/2/global decl/398
+S00142	technical		expression	#/root/2/global decl/402
+S00142	technical		expression	#/root/2/global decl/406
+S00142	technical		expression	#/root/2/global decl/410
+S00142	technical		expression	#/root/2/global decl/414
+S00142	technical		expression	#/root/2/global decl/418
+S00142	technical		expression	#/root/2/global decl/422
+S00142	technical		expression	#/root/2/global decl/426
+S00142	technical		expression	#/root/2/global decl/430
+S00142	technical		expression	#/root/2/global decl/434
+S00142	technical		expression	#/root/2/global decl/438
+S00142	technical		expression	#/root/2/global decl/442
+S00142	technical		expression	#/root/2/global decl/446
+S00142	technical		expression	#/root/2/global decl/450
+S00142	technical		expression	#/root/2/global decl/454
+S00142	technical		expression	#/root/2/global decl/458
+S00142	technical		expression	#/root/2/global decl/462
+S00142	technical		expression	#/root/2/global decl/466
+S00142	technical		expression	#/root/2/global decl/470
+S00142	technical		expression	#/root/2/global decl/474
+S00142	technical		expression	#/root/2/global decl/478
+S00142	technical		expression	#/root/2/global decl/482
+S00142	technical		expression	#/root/2/global decl/486
+S00142	technical		expression	#/root/2/global decl/490
+S00142	technical		expression	#/root/2/global decl/494
+S00142	technical		expression	#/root/2/global decl/498
+S00142	technical		expression	#/root/2/global decl/502
+S00142	technical		expression	#/root/2/global decl/506
+S00142	technical		expression	#/root/2/global decl/510
+S00142	technical		expression	#/root/2/global decl/514
+S00142	technical		expression	#/root/2/global decl/518
+S00142	technical		expression	#/root/2/global decl/522
+S00142	technical		expression	#/root/2/global decl/526
+S00142	technical		expression	#/root/2/global decl/530
+S00142	technical		expression	#/root/2/global decl/534
+S00142	technical		expression	#/root/2/global decl/538
+S00142	technical		expression	#/root/2/global decl/542
+S00142	technical		expression	#/root/2/global decl/546
+S00142	technical		expression	#/root/2/global decl/550
+S00142	technical		expression	#/root/2/global decl/554
+S00142	technical		expression	#/root/2/global decl/558
+S00142	technical		expression	#/root/2/global decl/562
+S00142	technical		expression	#/root/2/global decl/566
+S00142	technical		expression	#/root/2/global decl/570
+S00142	technical		expression	#/root/2/global decl/574
+S00142	technical		expression	#/root/2/global decl/578
+S00142	technical		expression	#/root/2/global decl/582
+S00142	technical		expression	#/root/2/global decl/586
+S00142	technical		expression	#/root/2/global decl/590
+S00142	technical		expression	#/root/2/global decl/594
+S00142	technical		expression	#/root/2/global decl/598
+S00142	technical		expression	#/root/2/global decl/602
+S00142	technical		expression	#/root/2/global decl/606
+S00142	technical		expression	#/root/2/global decl/610
+S00142	technical		expression	#/root/2/global decl/614
+S00142	technical		expression	#/root/2/global decl/618
+S00142	technical		expression	#/root/2/global decl/622
+S00142	technical		expression	#/root/2/global decl/626
+S00142	technical		expression	#/root/2/global decl/630
+S00142	technical		expression	#/root/2/global decl/634
+S00142	technical		expression	#/root/2/global decl/638
+S00142	technical		expression	#/root/2/global decl/642
+S00142	technical		expression	#/root/2/global decl/646
+S00142	technical		expression	#/root/2/global decl/650
+S00142	technical		expression	#/root/2/global decl/654
+S00142	technical		expression	#/root/2/global decl/658
+S00142	technical		expression	#/root/2/global decl/662
+S00142	technical		expression	#/root/2/global decl/666
+S00142	technical		expression	#/root/2/global decl/670
+S00142	technical		expression	#/root/2/global decl/674
+S00142	technical		expression	#/root/2/global decl/678
+S00142	technical		expression	#/root/2/global decl/682
+S00142	technical		expression	#/root/2/global decl/686
+S00142	technical		expression	#/root/2/global decl/690
+S00142	technical		expression	#/root/2/global decl/694
+S00142	technical		expression	#/root/2/global decl/698
+S00142	technical		expression	#/root/2/global decl/702
+S00142	technical		expression	#/root/2/global decl/706
+S00142	technical		expression	#/root/2/global decl/710
+S00142	technical		expression	#/root/2/global decl/714
+S00142	technical		expression	#/root/2/global decl/718
+S00142	technical		expression	#/root/2/global decl/722
+S00142	technical		expression	#/root/2/global decl/726
+S00142	technical		expression	#/root/2/global decl/730
+S00142	technical		expression	#/root/2/global decl/734
+S00142	technical		expression	#/root/2/global decl/738
+S00142	technical		expression	#/root/2/global decl/742
+S00142	technical		expression	#/root/2/global decl/746
+S00142	technical		expression	#/root/2/global decl/750
+S00142	technical		expression	#/root/2/global decl/754
+S00142	technical		expression	#/root/2/global decl/758
+S00142	technical		expression	#/root/2/global decl/762
+S00142	technical		expression	#/root/2/global decl/766
+S00142	technical		expression	#/root/2/global decl/770
+S00142	technical		expression	#/root/2/global decl/774
+S00142	technical		expression	#/root/2/global decl/778
+S00142	technical		expression	#/root/2/global decl/782
+S00142	technical		expression	#/root/2/global decl/786
+S00142	technical		expression	#/root/2/global decl/790
+S00142	technical		expression	#/root/2/global decl/794
+S00142	technical		expression	#/root/2/global decl/798
+S00142	technical		expression	#/root/2/global decl/802
+S00142	technical		expression	#/root/2/global decl/806
+S00142	technical		expression	#/root/2/global decl/810
+S00142	technical		expression	#/root/2/global decl/814
+S00142	technical		expression	#/root/2/global decl/818
+S00142	technical		expression	#/root/2/global decl/822
+S00142	technical		expression	#/root/2/global decl/826
+S00142	technical		expression	#/root/2/global decl/830
+S00142	technical		expression	#/root/2/global decl/834
+S00142	technical		expression	#/root/2/global decl/838
+S00142	technical		expression	#/root/2/global decl/842
+S00142	technical		expression	#/root/2/global decl/846
+S00142	technical		expression	#/root/2/global decl/850
+S00142	technical		expression	#/root/2/global decl/854
+S00142	technical		expression	#/root/2/global decl/858
+S00142	technical		expression	#/root/2/global decl/862
+S00142	technical		expression	#/root/2/global decl/866
+S00142	technical		expression	#/root/2/global decl/870
+S00142	technical		expression	#/root/2/global decl/874
+S00142	technical		expression	#/root/2/global decl/878
+S00142	technical		expression	#/root/2/global decl/882
+S00142	technical		expression	#/root/2/global decl/886
+S00142	technical		expression	#/root/2/global decl/890
+S00142	technical		expression	#/root/2/global decl/894
+S00142	technical		expression	#/root/2/global decl/898
+S00142	technical		expression	#/root/2/global decl/902
+S00142	technical		expression	#/root/2/global decl/906
+S00142	technical		expression	#/root/2/global decl/910
+S00142	technical		expression	#/root/2/global decl/914
+S00142	technical		expression	#/root/2/global decl/918
+S00142	technical		expression	#/root/2/global decl/922
+S00142	technical		expression	#/root/2/global decl/926
+S00142	technical		expression	#/root/2/global decl/1034
+S00142	technical		expression	#/root/2/global decl/1038
+S00142	technical		expression	#/root/2/global decl/1042
+S00142	technical		expression	#/root/2/global decl/1046
+S00142	technical		expression	#/root/2/global decl/1050
+S00142	technical		expression	#/root/2/global decl/1054
+S00142	technical		expression	#/root/2/global decl/1058
+S00142	technical		expression	#/root/2/global decl/1062
+S00142	technical		expression	#/root/2/global decl/1066
+S00142	technical		expression	#/root/2/global decl/1070
+S00142	technical		expression	#/root/2/global decl/1074
+S00142	technical		expression	#/root/2/global decl/1078
+S00142	technical		expression	#/root/2/global decl/1082
+S00142	technical		expression	#/root/2/global decl/1214
+S00142	technical		expression	#/root/2/global decl/1222
+S00142	technical		expression	#/root/2/global decl/1230
+S00142	technical		expression	#/root/2/global decl/1346
+S00142	technical		expression	#/root/2/global decl/1384
+S00142	technical		expression	#/root/2/global decl/1424
+S00142	technical		expression	#/root/2/global decl/1464
+S00142	technical		expression	#/root/2/global decl/1504
+S00142	technical		expression	#/root/2/global decl/1544
+S00142	technical		expression	#/root/2/global decl/1584
+S00142	technical		expression	#/root/2/global decl/1624
+S00142	technical		expression	#/root/2/global decl/1664
+S00142	technical		expression	#/root/2/global decl/1704
+S00142	technical		expression	#/root/2/global decl/1744
+S00142	technical		expression	#/root/2/global decl/1784
+S00142	technical		expression	#/root/2/global decl/1824
+S00142	technical		expression	#/root/2/global decl/1864
+S00142	technical		expression	#/root/2/global decl/2062
+S00142	technical		expression	#/root/2/global decl/2066
+S00142	technical		expression	#/root/2/global decl/2070
+S00147	technical	hpbargroup	expression	#/root/2/TitleScreen/1/8/g-0/1/8
+S00147	technical	hpbargroup	expression	#/root/2/SetArena/73
+S00147	technical	hpbargroup	expression	#/root/2/ArenaEvents/1/dead/2
+S00148	technical	EnemyHP	expression	#/root/2/TitleScreen/1/8/g-0/1/16
+S00149	technical	PlayerHP1	expression	#/root/2/TitleScreen/1/8/g-0/1/24
+S00150	technical	saveto:restart:TitleScreen	direct	#/root/2/GameStart/0/0/11/3/1/b/0
+S00151	technical	<	direct	#/root/2/hide/4/1/b/0
+S00151	technical	<	expression	#/root/2/simpleCSS/3
+S00151	technical	<	expression	#/root/2/CSS/4/6/b/2/18/s0/4
+S00151	technical	<	expression	#/root/2/CSS/5/6/b/4
+S00151	technical	<	expression	#/root/2/CSSClass/5/6/b/2/18/s0/4
+S00151	technical	<	expression	#/root/2/CSSClass/6/6/b/4
+S00151	technical	<	expression	#/root/2/CSSOpen/3
+S00152	technical	/	direct	#/root/2/hide/4/1/b/5/1/b/0
+S00152	technical	/	expression	#/root/2/nameStyling/5/1/b/12
+S00152	technical	/	expression	#/root/2/portraitStyling/5/1/b/12
+S00153	technical	style> 	direct	#/root/2/hide/4/1/b/7
+S00154	technical	: 	expression	#/root/2/drawDiv/4/1/b/3
+S00155	technical	</div>	expression	#/root/2/drawDiv/10/8/b/11
+S00156	technical	<div class='	expression	#/root/2/drawDiv/11/1/b/11
+S00157	technical	'>	expression	#/root/2/drawDiv/11/1/b/21
+S00157	technical	'>	expression	#/root/2/CSSClass/6/6/b/14
+S00158	technical	<div class='nameui'>	expression	#/root/2/drawStyle/10/3
+S00158	technical	<div class='nameui'>	expression	#/root/2/drawStyle/10/8/b/11
+S00159	technical	<div class='dialogueui'>	expression	#/root/2/drawStyle/11/3
+S00159	technical	<div class='dialogueui'>	expression	#/root/2/drawStyle/11/8/b/11
+S00160	technical	name	expression	#/root/2/nameStyling/6/1/b/11
+S00160	technical	name	expression	#/root/2/nameStyling/6/1/b/37
+S00160	technical	name	expression	#/root/2/portraitStyling/6/1/b/41
+S00160	technical	name	expression	#/root/2/portraitStyling/6/1/b/67
+S00161	technical	 nameui	expression	#/root/2/nameStyling/6/1/b/16
+S00161	technical	 nameui	expression	#/root/2/nameStyling/6/1/b/42
+S00161	technical	 nameui	expression	#/root/2/portraitStyling/6/1/b/46
+S00161	technical	 nameui	expression	#/root/2/portraitStyling/6/1/b/72
+S00162	technical	 class='dialogueui name	expression	#/root/2/nameStyling/6/1/b/55
+S00162	technical	 class='dialogueui name	expression	#/root/2/portraitStyling/6/1/b/85
+S00163	technical	'	expression	#/root/2/nameStyling/6/1/b/60
+S00163	technical	'	expression	#/root/2/portraitStyling/6/1/b/90
+S00163	technical	'	expression	#/root/2/spine_ext/51
+S00163	technical	'	expression	#/root/2/spine/68
+S00163	technical	'	expression	#/root/2/imgDisplay/5/1/b/64
+S00164	technical	portrait	expression	#/root/2/portraitStyling/6/1/b/11
+S00164	technical	portrait	expression	#/root/2/portraitStyling/6/1/b/26
+S00165	technical	 portraitui	expression	#/root/2/portraitStyling/6/1/b/16
+S00165	technical	 portraitui	expression	#/root/2/portraitStyling/6/1/b/31
+S00166	technical	>	expression	#/root/2/simpleCSS/8
+S00166	technical	>	expression	#/root/2/CSS/4/6/b/2/18/s0/9
+S00166	technical	>	expression	#/root/2/CSS/4/6/b/2/18/s1/9
+S00166	technical	>	expression	#/root/2/CSS/5/6/b/9
+S00166	technical	>	expression	#/root/2/CSSClass/5/6/b/2/18/s0/9
+S00166	technical	>	expression	#/root/2/CSSClass/5/6/b/2/18/s1/9
+S00166	technical	>	expression	#/root/2/CSSOpen/8
+S00167	technical	</	expression	#/root/2/CSS/4/6/b/2/18/s1/4
+S00167	technical	</	expression	#/root/2/CSSClass/5/6/b/2/18/s1/4
+S00168	technical	 class='	expression	#/root/2/CSSClass/6/6/b/9
+S00169	technical	capitalize	expression	#/root/2/capitalize/5
+S00169	technical	capitalize	expression	#/root/2/capitalize/19
+S00172	technical	.json:	expression	#/root/2/spine_ext/14
+S00172	technical	.json:	expression	#/root/2/spine/31
+S00173	technical	:'x:	expression	#/root/2/spine_ext/19
+S00173	technical	:'x:	expression	#/root/2/spine/36
+S00174	technical	,y:	expression	#/root/2/spine_ext/24
+S00174	technical	,y:	expression	#/root/2/spine/41
+S00175	technical	,scale:	expression	#/root/2/spine_ext/29
+S00175	technical	,scale:	expression	#/root/2/spine/46
+S00176	technical	,loop:	expression	#/root/2/spine_ext/34
+S00176	technical	,loop:	expression	#/root/2/spine/51
+S00176	technical	,loop:	expression	#/root/2/Howler/7/1/b/13
+S00177	technical	,timescale:	expression	#/root/2/spine_ext/39
+S00177	technical	,timescale:	expression	#/root/2/spine/56
+S00178	technical	,tint:	expression	#/root/2/spine_ext/45
+S00178	technical	,tint:	expression	#/root/2/spine/62
+S00179	technical	clear:text	expression	#/root/2/clearalltext/3/1/b/3
+S00179	technical	clear:text	expression	#/root/2/Arena/1/fighterintro/35/1/b/3
+S00180	technical	transition	expression	#/root/2/fullscreen_animation/4
+S00180	technical	transition	expression	#/root/2/trans/3
+S00181	technical	img class='imgdisplay	expression	#/root/2/imgDisplay/5/1/b/50
+S00182	technical	' src='	expression	#/root/2/imgDisplay/5/1/b/59
+S00183	technical	bg	expression	#/root/2/bg/3
+S00184	technical	bgeffect	expression	#/root/2/bgeffect/3
+S00185	technical	bgoverlay	expression	#/root/2/bgoverlay/3
+S00186	technical	actor	expression	#/root/2/actor/3
+S00187	technical	actorfx	expression	#/root/2/actorfx/3
+S00188	technical	actoroverlay	expression	#/root/2/actoroverlay/3
+S00189	technical	clothes	expression	#/root/2/clothes/3
+S00190	technical	clothesoverlay	expression	#/root/2/clothesoverlay/3
+S00191	technical	fg	expression	#/root/2/fg/3
+S00192	technical	fgeffect	expression	#/root/2/fgeffect/3
+S00193	technical	fgoverlay	expression	#/root/2/fgoverlay/3
+S00194	technical	cutawaybg	expression	#/root/2/cutawaybg/3
+S00195	technical	cutaway	expression	#/root/2/cutaway/3
+S00196	technical	cutawayframe	expression	#/root/2/cutawayframe/3
+S00197	technical	scene	expression	#/root/2/scene/3
+S00198	technical	:	expression	#/root/2/layerDisplay/5/1/b/1/6/b/4/6/b/8
+S00198	technical	:	expression	#/root/2/layerDisplay/5/1/b/1/6/b/5/1/b/8
+S00198	technical	:	expression	#/root/2/layerDisplay/5/1/b/2/1/b/7
+S00199	technical	img/	expression	#/root/2/layerDisplay/5/1/b/2/1/b/10
+S00200	technical	FXCritter.mp3	expression	#/root/2/DS/5/6/b/5
+S00201	technical	FXFailed.mp3	expression	#/root/2/DS/6/6/b/5
+S00202	technical	FXFlame.mp3	expression	#/root/2/DS/7/6/b/5
+S00203	technical	FXFlya.mp3	expression	#/root/2/DS/8/6/b/5
+S00204	technical	FXGulp.mp3	expression	#/root/2/DS/9/6/b/5
+S00205	technical	FXMetalClunk.mp3	expression	#/root/2/DS/10/6/b/5
+S00206	technical	FXMoo.mp3	expression	#/root/2/DS/11/6/b/5
+S00207	technical	FXPunchFace.mp3	expression	#/root/2/DS/12/6/b/5
+S00208	technical	FXSpurt.mp3	expression	#/root/2/DS/13/6/b/5
+S00209	technical	FXSuck.mp3	expression	#/root/2/DS/14/6/b/5
+S00210	technical	FXWhip.mp3	expression	#/root/2/DS/15/6/b/5
+S00211	technical	FXBell.mp3	expression	#/root/2/DS/16/6/b/5
+S00212	technical	FXClank.mp3	expression	#/root/2/DS/17/6/b/5
+S00213	technical	sfxmiss.mp3	expression	#/root/2/DS/18/6/b/5
+S00214	technical	sfxsparklewoosh.mp3	expression	#/root/2/DS/19/6/b/5
+S00215	technical	sfxflirt.mp3	expression	#/root/2/DS/20/6/b/5
+S00216	technical	sfxhealingitem.mp3	expression	#/root/2/DS/21/6/b/5
+S00217	technical	FXEnemyLandsAHit_01.mp3	expression	#/root/2/DS/22/6/b/5
+S00217	technical	FXEnemyLandsAHit_01.mp3	expression	#/root/2/DS/27/6/b/5
+S00218	technical	FXYouLandAHit_01.mp3	expression	#/root/2/DS/23/6/b/5
+S00218	technical	FXYouLandAHit_01.mp3	expression	#/root/2/DS/28/6/b/5
+S00219	technical	fx_guitar.mp3	expression	#/root/2/DS/24/6/b/5
+S00219	technical	fx_guitar.mp3	expression	#/root/2/DS/29/6/b/5
+S00220	technical	fx_walk.mp3	expression	#/root/2/DS/25/6/b/5
+S00220	technical	fx_walk.mp3	expression	#/root/2/DS/30/6/b/5
+S00221	technical	fx_gold.mp3	expression	#/root/2/DS/26/6/b/5
+S00221	technical	fx_gold.mp3	expression	#/root/2/DS/31/6/b/5
+S00222	technical	VO_venita_02.mp3	expression	#/root/2/DS/32/6/b/5
+S00223	technical	VO_venita_03.mp3	expression	#/root/2/DS/33/6/b/5
+S00224	technical	VO_venita_04.mp3	expression	#/root/2/DS/34/6/b/5
+S00225	technical	VO_venita_01.mp3	expression	#/root/2/DS/35/6/b/5
+S00226	technical	FXEnterBuilding.mp3	expression	#/root/2/DS/36/6/b/5
+S00227	technical	music_intro.mp3	expression	#/root/2/DS/37/6/b/5
+S00228	technical	ambient_taverncrowd.mp3	expression	#/root/2/DS/38/6/b/5
+S00229	technical	ambient_tavern.mp3	expression	#/root/2/DS/39/6/b/5
+S00230	technical	ambient_street.mp3	expression	#/root/2/DS/40/6/b/5
+S00231	technical	ambient_town.mp3	expression	#/root/2/DS/41/6/b/5
+S00232	technical	ambient_day.mp3	expression	#/root/2/DS/42/6/b/5
+S00233	technical	music_combat_01.mp3	expression	#/root/2/DS/43/6/b/5
+S00234	technical	music_combat_02.mp3	expression	#/root/2/DS/44/6/b/5
+S00235	technical	music_combat_03.mp3	expression	#/root/2/DS/45/6/b/5
+S00236	technical	music_tavern_02.mp3	expression	#/root/2/DS/46/6/b/5
+S00237	technical	music_smooth.mp3	expression	#/root/2/DS/47/6/b/5
+S00238	technical	MUSICCombat.mp3	expression	#/root/2/DS/48/6/b/5
+S00239	technical	MUSICIntro.mp3	expression	#/root/2/DS/49/6/b/5
+S00240	technical	MUSICConvo.mp3	expression	#/root/2/DS/50/6/b/5
+S00241	technical	stop()	expression	#/root/2/SoundStop/4
+S00242	technical	howler:sound/	expression	#/root/2/Howler/7/1/b/3
+S00242	technical	howler:sound/	expression	#/root/2/HowlerExtGain/8/1/b/3
+S00242	technical	howler:sound/	expression	#/root/2/HowlerExt/6/1/b/3
+S00243	text	":""volume:"	expression	#/root/2/Howler/7/1/b/8
+S00244	technical	",action:'play()'"""	expression	#/root/2/Howler/7/1/b/18
+S00245	technical	":""action:'fade("	expression	#/root/2/HowlerExtGain/8/1/b/8
+S00246	technical	,	expression	#/root/2/HowlerExtGain/8/1/b/13
+S00246	technical	,	expression	#/root/2/HowlerExtGain/8/1/b/18
+S00246	technical	,	direct	#/root/2/SevenSharks/1/38/32/73/c-5/124
+S00246	technical	,	direct	#/root/2/SevenSharks/1/38/32/73/c-5/159
+S00246	technical	,	direct	#/root/2/SevenSharks/1/38/32/73/c-5/299
+S00246	technical	,	direct	#/root/2/SevenSharks/1/38/32/73/c-5/374
+S00247	technical	")'"""	expression	#/root/2/HowlerExtGain/8/1/b/23
+S00248	technical	":""action:'"	expression	#/root/2/HowlerExt/6/1/b/8
+S00249	technical	"'"""	expression	#/root/2/HowlerExt/6/1/b/13
+S00255	technical	1	expression	#/root/2/soundsettings/0/0/24/c-0/1/8
+S00255	technical	1	expression	#/root/2/soundsettings/0/0/24/c-1/1/8
+S00255	technical	1	expression	#/root/2/soundsettings/0/0/24/c-2/1/8
+S00255	technical	1	expression	#/root/2/SevenSharks/1/38/32/7
+S00255	technical	1	direct	#/root/2/SevenSharks/1/38/32/73/c-5/94
+S00256	technical	3	expression	#/root/2/soundsettings/0/0/24/c-0/1/14
+S00256	technical	3	expression	#/root/2/soundsettings/0/0/24/c-1/1/14
+S00256	technical	3	expression	#/root/2/soundsettings/0/0/24/c-2/1/14
+S00256	technical	3	expression	#/root/2/SevenSharks/1/38/32/33
+S00256	technical	3	direct	#/root/2/SevenSharks/1/38/32/73/c-5/324
+S00257	technical	5	expression	#/root/2/soundsettings/0/0/24/c-0/1/20
+S00257	technical	5	expression	#/root/2/soundsettings/0/0/24/c-1/1/20
+S00257	technical	5	expression	#/root/2/soundsettings/0/0/24/c-2/1/20
+S00257	technical	5	expression	#/root/2/SevenSharks/1/38/32/46
+S00258	technical	7	expression	#/root/2/soundsettings/0/0/24/c-0/1/26
+S00258	technical	7	expression	#/root/2/soundsettings/0/0/24/c-1/1/26
+S00258	technical	7	expression	#/root/2/soundsettings/0/0/24/c-2/1/26
+S00259	technical	10	expression	#/root/2/soundsettings/0/0/24/c-0/1/32
+S00259	technical	10	expression	#/root/2/soundsettings/0/0/24/c-1/1/32
+S00259	technical	10	expression	#/root/2/soundsettings/0/0/24/c-2/1/32
+S00260	technical	"icall:""call:'"	direct	#/root/2/icall/7/1/b/1
+S00261	text	',id:'	direct	#/root/2/icall/7/1/b/6
+S00262	technical	',attr:{	direct	#/root/2/icall/7/1/b/11
+S00263	technical	},jquery:{	direct	#/root/2/icall/7/1/b/16
+S00264	technical	"}"""	direct	#/root/2/icall/7/1/b/21
+S00265	technical	"icall:""call:'update_ui',id:'statwrap_"	direct	#/root/2/show_ui_id/4/1/b/1
+S00265	technical	"icall:""call:'update_ui',id:'statwrap_"	direct	#/root/2/hide_ui_id/4/1/b/1
+S00266	technical	"',jquery:{removeClass:'hide',addClass:'visible'}"""	direct	#/root/2/show_ui_id/4/1/b/6
+S00266	technical	"',jquery:{removeClass:'hide',addClass:'visible'}"""	direct	#/root/2/show_ui_id_ext/4/1/b/6
+S00267	technical	"',jquery:{removeClass:'visible',addClass:'hide'}"""	direct	#/root/2/hide_ui_id/4/1/b/6
+S00267	technical	"',jquery:{removeClass:'visible',addClass:'hide'}"""	direct	#/root/2/hide_ui_id_ext/4/1/b/6
+S00268	technical	"icall:""call:'update_ui',id:'"	direct	#/root/2/show_ui_id_ext/4/1/b/1
+S00268	technical	"icall:""call:'update_ui',id:'"	direct	#/root/2/hide_ui_id_ext/4/1/b/1
+S00282	technical	saveto:savepointtest:	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-0/19
+S00283	technical	saveto:savepoint1:	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-1/19
+S00284	technical	saveto:savepoint2:	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-2/19
+S00285	technical	saveto:savepoint3:	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-3/19
+S00286	technical	saveto:savepoint4:	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-4/19
+S00287	technical	saveto:savepoint5:	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-5/19
+S00288	technical	saveto:savepoint6:	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-6/19
+S00289	technical	saveto:savepoint7:	direct	#/root/2/saveload/2/0/18/c-0/8/54/c-7/19
+S00292	technical	load:savepointtest	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-0/19
+S00293	technical	load:savepoint1	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-1/19
+S00294	technical	load:savepoint2	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-2/19
+S00295	technical	load:savepoint3	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-3/19
+S00296	technical	load:savepoint4	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-4/19
+S00297	technical	load:savepoint5	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-5/19
+S00298	technical	load:savepoint6	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-6/19
+S00299	technical	load:savepoint7	direct	#/root/2/saveload/2/0/18/c-1/8/54/c-7/19
+S00309	technical	.	direct	#/root/2/giveItemEnemy/39
+S00309	technical	.	direct	#/root/2/receiveItemEnemy/39
+S00309	technical	.	direct	#/root/2/gainItemEnemy/35
+S00309	technical	.	direct	#/root/2/receiveItemPlayer/35
+S00309	technical	.	direct	#/root/2/gainItemPlayer/29
+S00309	technical	.	direct	#/root/2/loseItemPlayer/29
+S00309	technical	.	direct	#/root/2/hp/20/1/b/24
+S00309	technical	.	direct	#/root/2/VenitaScenes/1/rat/0/0/89/4/26/c-1/14/6/g-0/14/18/c-1/12
+S00309	technical	.	direct	#/root/2/Arena/1/entry/0/34/25/c-1/2/189/c-0/22
+S00309	technical	.	direct	#/root/2/Player/1/DefendChoice/1/13/c-0/1/16/c-0/7
+S00309	technical	.	direct	#/root/2/Player/1/ItemChoice/0/10/c-0/2/30/c-0/1/13/c-0/9
+S00309	technical	.	direct	#/root/2/Player/1/ItemChoice/0/10/c-0/2/30/c-1/1/13/c-0/9
+S00309	technical	.	direct	#/root/2/Player/1/Resolve/25/6/b/10/1/b/15
+S00309	technical	.	direct	#/root/2/RatScenes/1/Intro/0/31
+S00309	technical	.	direct	#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-3/18/0/2/c-1/8/17/s0/1
+S00325	technical	set_var:optionstyle:	direct	#/root/2/choicebox/5/1/b/1
+S00326	technical	pause:	expression	#/root/2/pause/5/1/b/3
+S00331	technical	, 	direct	#/root/2/commaListName/10/1/b/9
+S00331	technical	, 	direct	#/root/2/commaList/9/1/b/7
+S00335	technical	.choice-more	expression	#/root/2/flow/1/6
+S00335	technical	.choice-more	expression	#/root/2/respond/1/6
+S00345	technical	lock_achievement:start_game	direct	#/root/2/debug_menu/0/24/c-0/1/18/c-0/1
+S00345	technical	lock_achievement:start_game	direct	#/root/2/debug_achievement/1/lock/34
+S00346	technical	unlock_achievement:start_game	direct	#/root/2/debug_menu/0/24/c-0/1/18/c-0/3
+S00346	technical	unlock_achievement:start_game	direct	#/root/2/Tutorial/10/walkthroughintro/5
+S00353	technical	debug_menu.debug_menu	expression	#/root/2/debug_menu/0/24/c-2/1/30/c-1/4
+S00390	technical	:x:150,y:150	expression	#/root/2/debug_menu/1/media/0/12/c-0/1/12/c-1/1/66/c-3/7
+S00391	text	:150:150	expression	#/root/2/debug_menu/1/media/0/12/c-0/1/12/c-1/1/66/c-4/7
+S00403	technical	lock_achievement:rat_gallery	direct	#/root/2/debug_achievement/1/lock/0
+S00404	technical	lock_achievement:kobold_gallery	direct	#/root/2/debug_achievement/1/lock/2
+S00405	technical	lock_achievement:goblin_gallery	direct	#/root/2/debug_achievement/1/lock/4
+S00406	technical	lock_achievement:orc_gallery	direct	#/root/2/debug_achievement/1/lock/6
+S00407	technical	lock_achievement:gnoll_gallery	direct	#/root/2/debug_achievement/1/lock/8
+S00408	technical	lock_achievement:minotaur_gallery	direct	#/root/2/debug_achievement/1/lock/10
+S00409	technical	lock_achievement:ettin_gallery	direct	#/root/2/debug_achievement/1/lock/12
+S00410	technical	lock_achievement:gargoyle_gallery	direct	#/root/2/debug_achievement/1/lock/14
+S00411	technical	lock_achievement:quickling_gallery	direct	#/root/2/debug_achievement/1/lock/16
+S00412	technical	lock_achievement:hydra_gallery	direct	#/root/2/debug_achievement/1/lock/18
+S00413	technical	lock_achievement:troll_gallery	direct	#/root/2/debug_achievement/1/lock/20
+S00414	technical	lock_achievement:dragon_gallery	direct	#/root/2/debug_achievement/1/lock/22
+S00415	technical	lock_achievement:venita_gallery	direct	#/root/2/debug_achievement/1/lock/24
+S00416	technical	lock_achievement:exie_gallery	direct	#/root/2/debug_achievement/1/lock/26
+S00417	technical	lock_achievement:joi_gallery	direct	#/root/2/debug_achievement/1/lock/28
+S00418	technical	lock_achievement:tamani_gallery	direct	#/root/2/debug_achievement/1/lock/30
+S00419	technical	lock_achievement:valeri_gallery	direct	#/root/2/debug_achievement/1/lock/32
+S00420	technical	lock_achievement:end_game	direct	#/root/2/debug_achievement/1/lock/36
+S00421	technical	unlock_achievement:rat_gallery	direct	#/root/2/debug_achievement/1/unlock/0
+S00446	technical	  	direct	#/root/2/GalleryScreen/0/44/c-3/0
+S00446	technical	  	direct	#/root/2/SexenaMap/0/59/1/b/0
+S00446	technical	  	direct	#/root/2/GargoyleScenes/1/Mid/65
+S00446	technical	  	direct	#/root/2/cardListSuit/14/1/b/0
+S00446	technical	  	direct	#/root/2/GambleDrink/59/showhand/0/46/oddeven_choice/20/c-6/0
+S00520	technical	.menu	expression	#/root/2/SexenaMap/0/70/7
+S00520	technical	.menu	expression	#/root/2/SexenaMap/0/70/18
+S00520	technical	.menu	expression	#/root/2/SexenaMap/0/70/29
+S00520	technical	.menu	expression	#/root/2/SexenaMap/0/70/40
+S00520	technical	.menu	expression	#/root/2/SexenaMap/0/70/51
+S00525	technical	Options.menu	expression	#/root/2/SexenaMap/0/70/57
+S00526	technical	             	direct	#/root/2/SexenaMap/0/70/61/c-5/1/26/c-0/0
+S00527	technical	unlock_achievement:kobold_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/10/1/b/2
+S00527	technical	unlock_achievement:kobold_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/23/1/b/2
+S00528	technical	unlock_achievement:goblin_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/36/1/b/2
+S00528	technical	unlock_achievement:goblin_gallery	direct	#/root/2/GoblinScenes/1/Fuck/0/611
+S00529	technical	unlock_achievement:orc_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/49/1/b/2
+S00530	technical	unlock_achievement:gnoll_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/62/1/b/2
+S00531	technical	unlock_achievement:minotaur_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/75/1/b/2
+S00531	technical	unlock_achievement:minotaur_gallery	direct	#/root/2/MinotaurScenes/1/Fuck/411
+S00532	technical	unlock_achievement:ettin_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/88/1/b/2
+S00533	technical	unlock_achievement:gargoyle_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/101/1/b/2
+S00534	technical	unlock_achievement:quickling_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/114/1/b/2
+S00535	technical	unlock_achievement:hydra_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/127/1/b/2
+S00536	technical	unlock_achievement:troll_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/140/1/b/2
+S00537	technical	unlock_achievement:venita_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/146/1/b/0/11/s0/1
+S00538	technical	unlock_achievement:joi_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/152/1/b/0/11/s0/1
+S00539	technical	unlock_achievement:exie_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/158/1/b/0/11/s0/1
+S00540	technical	unlock_achievement:valeri_gallery	direct	#/root/2/SexenaMap/0/71/g-0/1/10/164/1/b/0/11/s0/1
+S00703	text	&mldr;	expression	#/root/2/VenitaScenes/1/Intro/0/18
+S01155	technical	 ...	direct	#/root/2/VenitaScenes/1/rub/371
+S01155	technical	 ...	direct	#/root/2/VenitaScenes/1/rub/413
+S01155	technical	 ...	direct	#/root/2/TamaniEvents/1/TamaniFuck/0/56/g-0/183/c-1/6
+S01155	technical	 ...	direct	#/root/2/TamaniEvents/1/TamaniFuck/0/56/g-1/113/c-2/6
+S01155	technical	 ...	direct	#/root/2/GoblinScenes/1/Fuck/0/353
+S01155	technical	 ...	direct	#/root/2/EttinScenes/1/Fuck/37
+S01155	technical	 ...	direct	#/root/2/EttinScenes/1/Fuck/51
+S01155	technical	 ...	direct	#/root/2/GargoyleScenes/1/Fuck/674
+S01155	technical	 ...	direct	#/root/2/GargoyleScenes/1/Fuck/721
+S01194	technical	leave	expression	#/root/2/ItemShop/0/6/b/26
+S01194	technical	leave	expression	#/root/2/WeaponShop/0/6/b/25
+S01194	technical	leave	expression	#/root/2/ArmorShop/0/6/b/26
+S01784	text	refresh_ui:	direct	#/root/2/SetArena/68/1/b/0
+S01793	technical	load:restart sync_watchvars:	expression	#/root/2/ArenaEvents/1/dead/47
+S01794	technical	-5000	direct	#/root/2/ArenaEvents/1/dead/55/1/b/0
+S02000	technical	unlock_achievement:tamani_gallery	direct	#/root/2/TamaniEvents/1/TamaniFuck/0/56/g-2/11
+S02033	technical	    	direct	#/root/2/RatScenes/1/lickend/0/135/c-1/0
+S04062	technical	Doxy	direct	#/root/2/EndingScenes/1/Credits/0/47
+S04064	technical	VernardoHunk	direct	#/root/2/EndingScenes/1/Credits/0/58
+S04066	technical	ArdentPurple	direct	#/root/2/EndingScenes/1/Credits/0/69
+S04068	technical	CyanCapsule	direct	#/root/2/EndingScenes/1/Credits/0/80
+S04070	technical	Atrix	direct	#/root/2/EndingScenes/1/Credits/0/91
+S04072	technical	FlynnFlann	direct	#/root/2/EndingScenes/1/Credits/0/102
+S04074	technical	RedPwny	direct	#/root/2/EndingScenes/1/Credits/0/113
+S04076	technical	Gil	direct	#/root/2/EndingScenes/1/Credits/0/124
+S04078	technical	Seel	direct	#/root/2/EndingScenes/1/Credits/0/135
+S04080	technical	Reva	direct	#/root/2/EndingScenes/1/Credits/0/146
+S04082	technical	unlock_achievement:end_game	direct	#/root/2/EndingScenes/1/Credits/0/153
+S04084	technical	sscardvalue	expression	#/root/2/SevenSharks/1/5
+S04085	technical	sscardsuit	expression	#/root/2/SevenSharks/1/15
+S04086	technical	sscardface	expression	#/root/2/SevenSharks/1/25
+S04087	technical	ui/chapter_cards.png	expression	#/root/2/SevenSharks/1/38/2
+S04088	technical	chapterui icon	expression	#/root/2/SevenSharks/1/38/5
+S04090	technical	2	expression	#/root/2/SevenSharks/1/38/32/20
+S04090	technical	2	direct	#/root/2/SevenSharks/1/38/32/73/c-5/84
+S04090	technical	2	direct	#/root/2/SevenSharks/1/38/32/73/c-5/364
+S04138	technical	)	direct	#/root/2/SevenSharks/2/showhand/0/24/15/42
+S04138	technical	)	direct	#/root/2/GambleDrink/59/showhand/0/34
+S04175	technical	ssCardWhite	expression	#/root/2/doubleScoreRules/8
+S04176	technical	ssCardBlue	expression	#/root/2/doubleScoreRules/18
+S04177	technical	ssCardGreen	expression	#/root/2/doubleScoreRules/28
+S04178	technical	ssCardBlack	expression	#/root/2/doubleScoreRules/38
+S04179	technical	 sscard	expression	#/root/2/cardListNameStyled/41
+S04214	technical	 gdcard	expression	#/root/2/gdCardListNameStyled/22
+S04225	technical	right	expression	#/root/2/CatchPig/0/28/14/c-1/1/3/c-0/9
+S04225	technical	right	expression	#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-3/10
+S04225	technical	right	expression	#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-6/10
+S04226	technical	back	expression	#/root/2/CatchPig/0/28/14/c-1/1/3/c-1/9
+S04226	technical	back	expression	#/root/2/CatchPig/0/28/14/c-1/1/3/g-0/4/c-6/15
+S04227	technical	left	expression	#/root/2/CatchPig/0/28/14/c-1/1/3/c-2/9
+S04251	technical	render_height, render_width	expression	#/root/2/global decl/2
+S04252	text	reset,bg,bgeffect,bgoverlay,actor,actoroverlay,clothes,clothesoverlay,actorfx,fg,fgeffect,fgoverlay,cutawaybg,cutaway,cutawayframe,scene,blurfilter,transition	expression	#/root/2/global decl/12
+S04253	text	reset, bg	expression	#/root/2/global decl/16
+S04254	technical	x:0, y:0, type:'image', value:'', center:true	expression	#/root/2/global decl/20
+S04255	technical	x:0, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/24
+S04255	technical	x:0, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/28
+S04255	technical	x:0, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/32
+S04255	technical	x:0, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/56
+S04255	technical	x:0, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/64
+S04255	technical	x:0, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/80
+S04256	technical	x:150, y:930, type:'image', value:'', center:true, centery:false	expression	#/root/2/global decl/36
+S04256	technical	x:150, y:930, type:'image', value:'', center:true, centery:false	expression	#/root/2/global decl/40
+S04256	technical	x:150, y:930, type:'image', value:'', center:true, centery:false	expression	#/root/2/global decl/44
+S04256	technical	x:150, y:930, type:'image', value:'', center:true, centery:false	expression	#/root/2/global decl/48
+S04257	technical	x:150, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/52
+S04258	technical	x:0, y:0, type:'image', value:'', center:true, centery:true, ztop:true	expression	#/root/2/global decl/60
+S04258	technical	x:0, y:0, type:'image', value:'', center:true, centery:true, ztop:true	expression	#/root/2/global decl/88
+S04259	technical	x:155, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/68
+S04259	technical	x:155, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/72
+S04259	technical	x:155, y:0, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/76
+S04260	technical	x:100, y:25, type:'image', value:'', center:true, centery:true	expression	#/root/2/global decl/84
+S04261	technical	x:0, y:0, type:'filter', value:'blur'	expression	#/root/2/global decl/92
+S04262	technical	ruler	expression	#/root/2/global decl/100
+S04263	technical	break	expression	#/root/2/global decl/104
+S04264	technical	zone	expression	#/root/2/global decl/108
+S04265	technical	title	expression	#/root/2/global decl/112
+S04266	technical	center	expression	#/root/2/global decl/116
+S04267	technical	italic	expression	#/root/2/global decl/120
+S04268	technical	bold	expression	#/root/2/global decl/124
+S04269	technical	underline	expression	#/root/2/global decl/128
+S04270	technical	gameui	expression	#/root/2/global decl/132
+S04271	technical	info	expression	#/root/2/global decl/136
+S04272	technical	log	expression	#/root/2/global decl/140
+S04273	technical	narrate	expression	#/root/2/global decl/144
+S04274	technical	notice	expression	#/root/2/global decl/148
+S04275	technical	display	expression	#/root/2/global decl/152
+S04276	technical	tutorial	expression	#/root/2/global decl/156
+S04277	technical	sign	expression	#/root/2/global decl/160
+S04278	technical	warning	expression	#/root/2/global decl/164
+S04279	technical	uiphealth	expression	#/root/2/global decl/168
+S04280	technical	uiehealth	expression	#/root/2/global decl/172
+S04281	technical	firstupper	expression	#/root/2/global decl/176
+S04282	technical	stophistory	expression	#/root/2/global decl/180
+S04283	technical	⏳	expression	#/root/2/global decl/184
+S04284	technical	💰	expression	#/root/2/global decl/188
+S04285	technical	💬	expression	#/root/2/global decl/192
+S04286	technical	🍺	expression	#/root/2/global decl/196
+S04287	technical	⚗️	expression	#/root/2/global decl/200
+S04288	technical	⚔️	expression	#/root/2/global decl/204
+S04289	technical	🛡️	expression	#/root/2/global decl/208
+S04290	technical	🏟️	expression	#/root/2/global decl/212
+S04291	text	"""0x000000"""	expression	#/root/2/global decl/220
+S04292	technical	frame.png	expression	#/root/2/global decl/226
+S04293	technical	black.jpg	expression	#/root/2/global decl/238
+S04294	technical	tavernyard.jpg	expression	#/root/2/global decl/242
+S04295	technical	taverncellar.jpg	expression	#/root/2/global decl/246
+S04296	technical	arenawall.jpg	expression	#/root/2/global decl/250
+S04297	technical	bedroom.jpg	expression	#/root/2/global decl/254
+S04298	technical	blacksmith.jpg	expression	#/root/2/global decl/258
+S04299	technical	inn.jpg	expression	#/root/2/global decl/262
+S04300	technical	lockerroom.jpg	expression	#/root/2/global decl/266
+S04301	technical	stonefloor.jpg	expression	#/root/2/global decl/270
+S04302	technical	trashheap.jpg	expression	#/root/2/global decl/274
+S04303	technical	tavernstable.jpg	expression	#/root/2/global decl/278
+S04304	technical	shop.jpg	expression	#/root/2/global decl/282
+S04305	technical	townsquare.jpg	expression	#/root/2/global decl/286
+S04306	technical	arena.jpg	expression	#/root/2/global decl/290
+S04307	technical	arenaoutside.jpg	expression	#/root/2/global decl/294
+S04308	technical	arenafloor.jpg	expression	#/root/2/global decl/298
+S04309	technical	titlesplash.jpg	expression	#/root/2/global decl/302
+S04310	technical	tree.jpg	expression	#/root/2/global decl/306
+S04311	technical	exie	expression	#/root/2/global decl/958
+S04312	technical	exiescenes	expression	#/root/2/global decl/962
+S04313	technical	adina	expression	#/root/2/global decl/982
+S04314	technical	joi	expression	#/root/2/global decl/1006
+S04315	technical	joiscene	expression	#/root/2/global decl/1010
+S04316	technical	saucefaeries	expression	#/root/2/global decl/1086
+S04317	technical	jar	expression	#/root/2/global decl/1094
+S04318	technical	sauce	expression	#/root/2/global decl/1098
+S04319	technical	cum	expression	#/root/2/global decl/1102
+S04320	technical	chonkers	expression	#/root/2/global decl/1106
+S04321	technical	book	expression	#/root/2/global decl/1110
+S04322	technical	cauldron	expression	#/root/2/global decl/1114
+S04323	technical	column	expression	#/root/2/global decl/1118
+S04324	technical	introsplash	expression	#/root/2/global decl/1122
+S04325	technical	fxmiss	expression	#/root/2/global decl/1130
+S04325	technical	fxmiss	expression	#/root/2/global decl/1146
+S04326	technical	fxcharge	expression	#/root/2/global decl/1134
+S04326	technical	fxcharge	expression	#/root/2/global decl/1138
+S04327	technical	fxtailswipe	expression	#/root/2/global decl/1142
+S04328	technical	fxlick	expression	#/root/2/global decl/1150
+S04329	technical	fxstab	expression	#/root/2/global decl/1154
+S04330	technical	fxdust	expression	#/root/2/global decl/1158
+S04331	technical	fxspeedline	expression	#/root/2/global decl/1162
+S04332	technical	combatfx	expression	#/root/2/global decl/1166
+S04332	technical	combatfx	expression	#/root/2/global decl/1170
+S04333	technical	true	expression	#/root/2/global decl/1188
+S04334	technical	false	expression	#/root/2/global decl/1192
+S04335	technical	norepeat	expression	#/root/2/global decl/1196
+S04336	technical	clear	expression	#/root/2/global decl/1252
+S04337	text	PlayerGold,PlayerHP,EnemyHP	expression	#/root/2/global decl/1878
+S04341	text	type:'divbar',name:'EnemyHP',max:20,classes:'hide',bartext:'normal'	expression	#/root/2/global decl/1894
+S04342	text	sync_watchvars:true	expression	#/root/2/global decl/1898

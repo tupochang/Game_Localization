@@ -1,0 +1,6 @@
+{
+  "type:'divbar',max:20,classes:'democlass',name:'Stamina',bartext:'normal'": "type:'divbar',max:20,classes:'democlass',name:'體力',bartext:'normal'",
+  "type:'text',classes:'democlass2',name:'Stamina'": "type:'text',classes:'democlass2',name:'體力'",
+  "type:'text',name:'Gold'": "type:'text',name:'金幣'",
+  "type:'divbar',name:'EnemyHP',max:20,classes:'hide',bartext:'normal'": "type:'divbar',name:'敵方生命值',max:20,classes:'hide',bartext:'normal'"
+}
