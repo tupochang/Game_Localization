@@ -1,0 +1,43 @@
+import json
+from pathlib import Path
+p=Path(__file__).with_name('translation_master.json')
+d=json.loads(p.read_text(encoding='utf-8'))
+d.update({
+'Your body is so much better than ':'你的身材比我好多了，',
+'mine, I could never live up to it!':'我怎麼可能比得上！',
+"But don't expect me to wear it":'但別指望我會穿著它',
+'at the Olympic games!':'去參加奧運！',
+"I can't believe that you picked me.":'真不敢相信你選了我。',
+"I'm hardly the best-looking ":'我可不是這裡',
+'one out here.':'最漂亮的人。',
+'Would be better if you started ':'你還是開始',
+'hitting the monsters.':'打怪物比較實際。',
+'With a crystal shoe? ':'用水晶鞋嗎？',
+"I don't think so!":'我看不行！',
+'But thanks for the gesture.':'不過還是謝謝你的心意。',
+"It's rare a blonde who acknow-":'難得有金髮女孩',
+"ledges it. Anyway, you'll put it on ":'肯承認這一點。總之，你會把它放在',
+'the fireplace mantel.':'壁爐架上吧。',
+'I will!':'我會的！',
+"I don't receive such beautiful gifts":'我可不是常常收到',
+'all so often!':'這麼漂亮的禮物！',
+'No wait, it just occured to me...':'等等，我突然想到了……',
+"What about the hospital? It's very close.":'醫院怎麼樣？離這裡很近。',
+'Only a ten minute walk. Have you been there?':'走十分鐘就到。你去過嗎？',
+'There\'s no "but".':'別再說「可是」了。',
+"Let's go there, we'll get a chance to heal":'我們去那裡吧，可以治療',
+'our wounds, maybe rest.':'傷口，或許還能休息。',
+"The hospital's a good place,":'醫院是個好去處，',
+"and we won't be lost because Laura":'而且有蘿拉帶路，',
+'will serve as guide.':'我們不會迷路。',
+"I'm always serving you in one":'看來我總是在用',
+'way or another it seems.':'各種方式幫你呢。',
+'When Laura and I were studying at the':'我和蘿拉在醫院實習時，',
+'hospital, he was always very caring and':'他一直很關心我們，',
+'helpful.':'也很照顧我們。',
+"I'll abandon you here for the monsters ":'我要把你丟在這裡，讓怪物',
+'to devour you and every newspaper ':'把你吃掉；到時每份報紙',
+'will tell the story of the pathetic death':'都會報導辛蒂・多森',
+'of Cindy Dorson ha ha ha!':'可悲的死法，哈哈哈！',
+})
+p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

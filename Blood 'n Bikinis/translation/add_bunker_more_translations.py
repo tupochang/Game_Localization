@@ -1,0 +1,43 @@
+import json
+from pathlib import Path
+p=Path(__file__).with_name('translation_master.json')
+d=json.loads(p.read_text(encoding='utf-8'))
+d.update({
+'Also, your big butt could never':'再說，你那麼大的屁股',
+'go through this small window.':'也鑽不過這扇小窗戶。',
+"I don't have a big butt.":'我的屁股才不大。',
+'Maybe big boobs, if you want.':'胸部或許大，這我承認。',
+'If you have big,':'如果你都算大，',
+'then how are mine?':'那我的算什麼？',
+"More or less like Laura's":'跟蘿拉差不多',
+'Huge':'很大',
+'Gigantic':'大得驚人',
+'Rocket tits':'火箭奶',
+"I'm baffled you can't see the difference.":'你居然看不出差別，真讓我無語。',
+'I can hardly fit mine in HER bikini.':'我的胸部根本塞不進她的比基尼。',
+'Anyway...':'算了……',
+'(Thank you, that was sweet...)':'（謝謝你，真貼心……）',
+"Exactly! There's a big difference":'就是嘛！我的身材',
+"with Laura's pretty common rack.":'跟蘿拉普通的胸部差多了。',
+"Not sure if that's such a good way to":'這說法可能不太恰當，',
+"say it, but yes, that's the idea.":'但意思差不多。',
+"I wish you'd stop being so childish.":'真希望你別再這麼幼稚。',
+'... You really like that "woman", ':'……你真的喜歡那個「女人」嗎，',
+'Karine, lower your bikini top.':'卡琳，把比基尼上衣拉下來。',
+"He'll see your minuscule boobs":'讓他看看你那小得可憐的胸部，',
+'and judge for himself.':'自己評評理。',
+"I'm the most well-endowed here,":'這裡我的胸部最大，',
+"and I don't think it matters much,":'可我不覺得這有多重要，',
+'especially right now.':'尤其是在這種時候。',
+"Can't we just postpone this?":'不能晚點再說嗎？',
+'Even you can do better than this.':'就連你也能做得更好吧。',
+"C'mon, press up that little flatties of you,":'來嘛，把你那對小胸部擠一擠，',
+"let 'em ridiculous nips get out!":'讓那可笑的乳頭露出來！',
+"Finally! Of course you'll lose it,":'總算！難怪你的上衣會掉，',
+"there's nothing to hold it in the ":'裡面根本沒東西',
+'first place!':'撐得住嘛！',
+'I like how she looks!':'我喜歡她的樣子！',
+"You're right, Isa!":'伊莎，你說得對！',
+'Everyone knows Karine is ugly!':'誰都知道卡琳很醜！',
+})
+p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

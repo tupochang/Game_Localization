@@ -1,0 +1,1474 @@
+
+### CommonEvents
+19:0:3:401:0	  \w[114] \c[6]BLOOD 'N BIKINIS DEVELOPED BY\c[0]  \w[115]
+19:0:4:401:0	JUICY MELONS INC.
+19:0:5:101:0	\c[6]SCR34MER\c[0] (MAIN IDEA AND STORY)
+19:0:6:401:0	\c[6]KAZAAR\c[0] (LEVELS)
+19:0:7:401:0	\c[6]PICO\c[0] (GAMEPLAY AND TESTING)
+19:0:14:101:0	  \w[112] \c[6]WORLDS GFX\c[0]  \w[113]
+19:0:15:401:0	YMS (PIXER ART WORLD)
+19:0:16:401:0	NANIKASIRA TKOOL
+19:0:17:401:0	PANDA MARU
+19:0:18:101:0	DEGICA (MODERN DAY, SF TILES,
+19:0:19:401:0	POP HORROR CITY)
+19:0:20:401:0	(C) 2012 ENTERBRAIN, INC
+19:0:21:401:0	ARCHEIA, CAZ, ENTERBRAIN
+19:0:22:101:0	ZOMBIE SURVIVAL
+19:0:23:401:0	(C) 2013 ENTERBRAIN, INC
+19:0:24:401:0	LUNAREA
+19:0:26:401:0	  \w[116] \c[6]MONSTERS GFX\c[0]  \w[122]
+19:0:27:401:0	CYANYURIKAGO
+19:0:29:401:0	  \w[117] \c[6]SPRITES GFX\c[0]  \w[117]
+19:0:30:401:0	LOOSELEAF
+19:0:32:401:0	(LEATHERFACE SPRITE, BLACKHAWK
+19:0:33:401:0	MASK: KAZZADOR)
+19:0:35:401:0	(TANK SPRITE: NOWEL)
+19:0:37:401:0	  \w[118] \c[6]CHARACTERS GFX\c[0]  \w[115]
+19:0:38:401:0	ARSENIQUEZ
+19:0:40:401:0	  \w[123] \c[6]ICONS GFX\c[0]  \w[115]
+19:0:41:401:0	AVERY, ALMACEN, SUNAYUME, HIDDENONE
+19:0:43:401:0	  \w[124] \c[6]ANIMATIONS FX\c[0]  \w[125]
+19:0:44:401:0	ENTERBRAIN
+19:0:46:401:0	(FIRE ANIMATION, TANK EXPLOSION:
+19:0:47:401:0	WRATH GAMES STUDIO)
+19:0:48:101:0	  \w[119] \c[6]MUSIC\c[0]  \w[121]
+19:0:49:401:0	JOREN "TENSEI" DE BRUIN,
+19:0:50:401:0	ENTERBRAIN, GYROWOLF
+19:0:51:101:0	  \w[120] \c[6]SOUNDS\c[0]  \w[121]
+19:0:52:401:0	MODERN MUSIC MEGA
+19:0:53:401:0	SF SOUND EFFECTS
+19:0:54:401:0	GAME BURP
+25:0:43:102:0	\n[20]
+25:0:43:102:1	\n[21]
+25:0:43:102:2	\n[22]
+25:0:43:102:3	\n[23]
+25:0:75:101:0	\n[1]:
+25:0:91:101:0	\n[1]:
+49:0:43:102:0	\n[20]
+49:0:43:102:1	\n[21]
+49:0:43:102:2	\n[22]
+49:0:43:102:3	\n[23]
+50:0:43:102:0	\n[20]
+50:0:43:102:1	\n[21]
+50:0:43:102:2	\n[22]
+50:0:43:102:3	\n[23]
+51:0:43:102:0	\n[20]
+51:0:43:102:1	\n[21]
+51:0:43:102:2	\n[22]
+51:0:43:102:3	\n[23]
+52:0:43:102:0	\n[20]
+52:0:43:102:1	\n[21]
+52:0:43:102:2	\n[22]
+52:0:43:102:3	\n[23]
+53:0:43:102:0	\n[20]
+53:0:43:102:1	\n[21]
+53:0:43:102:2	\n[22]
+53:0:43:102:3	\n[23]
+54:0:43:102:0	\n[20]
+54:0:43:102:1	\n[21]
+54:0:43:102:2	\n[22]
+54:0:43:102:3	\n[23]
+54:0:165:101:0	\n[1]:
+54:0:218:101:0	\n[1]:
+55:0:43:102:0	\n[20]
+55:0:43:102:1	\n[21]
+55:0:43:102:2	\n[22]
+55:0:43:102:3	\n[23]
+67:0:9:401:0	\i[15] \i[15] \i[15] 
+67:0:17:401:0	\i[19] \i[19] \i[19] 
+67:0:22:401:0	\i[18] \i[18] \i[18] 
+67:0:65:401:0	\i[15] \i[15] \i[15] 
+67:0:72:401:0	... And?
+67:0:73:401:0	\i[19] \i[19] \i[19] 
+67:0:77:401:0	... And?
+67:0:78:401:0	\i[18] \i[18] \i[18] 
+67:0:117:401:0	Stop, I'm going to throw up...
+67:0:118:401:0	\i[15] \i[15] \i[15] 
+67:0:125:401:0	This is disgusting. I'm a star.
+67:0:126:401:0	\i[19] \i[19] \i[19] 
+67:0:130:401:0	This is disgusting. I'm a star.
+67:0:131:401:0	\i[18] \i[18] \i[18] 
+67:0:171:401:0	I don't mind the occasional freak fun,
+67:0:172:401:0	but you really don't know when to stop.
+67:0:173:401:0	\i[15] \i[15] \i[15] 
+67:0:180:401:0	I don't see the point.
+67:0:181:401:0	\i[19] \i[19] \i[19] 
+67:0:185:401:0	I don't see the point.
+67:0:186:401:0	\i[18] \i[18] \i[18] 
+67:0:228:401:0	Okay, thanks, but share a bit with others,
+67:0:229:401:0	or else they're gonna be real jealous ha ha.
+67:0:230:401:0	\i[15] \i[15] \i[15] 
+67:0:237:401:0	You think I'm impressed?
+67:0:238:401:0	Been seein' these flyin' left and right lately.
+67:0:239:401:0	\i[19] \i[19] \i[19] 
+67:0:243:401:0	You think I'm impressed?
+67:0:244:401:0	Been seein' these flyin' left and right lately.
+67:0:245:401:0	\i[18] \i[18] \i[18] 
+67:0:283:401:0	May I decline politely?
+67:0:284:401:0	\i[15] \i[15] \i[15] 
+67:0:291:401:0	Yuck!
+67:0:292:401:0	I already have enough blood on myself.
+67:0:293:401:0	\i[19] \i[19] \i[19] 
+67:0:297:401:0	Yuck!
+67:0:298:401:0	I already have enough blood on myself.
+67:0:299:401:0	\i[18] \i[18] \i[18] 
+67:0:339:401:0	... Again?
+67:0:340:401:0	\i[15] \i[15] \i[15] 
+67:0:347:401:0	... I don't think I can handle this.
+67:0:348:401:0	\i[19] \i[19] \i[19] 
+67:0:352:401:0	... I don't think I can handle this.
+67:0:353:401:0	\i[18] \i[18] \i[18] 
+67:0:392:401:0	It's just a torn body part,
+67:0:393:401:0	what are you after exactly?
+67:0:394:401:0	\i[15] \i[15] \i[15] 
+67:0:401:401:0	Don't imagine I haven't already seen
+67:0:402:401:0	plenty of these in my several months here.
+67:0:403:401:0	\i[19] \i[19] \i[19] 
+67:0:407:401:0	Don't imagine I haven't already seen
+67:0:408:401:0	plenty of these in my several months here.
+67:0:409:401:0	\i[18] \i[18] \i[18] 
+68:0:8:401:0	Hum please stop,
+68:0:9:401:0	you are scaring me!
+68:0:10:401:0	\i[15] \i[15] \i[15] 
+68:0:18:401:0	\i[19] \i[19] \i[19] 
+68:0:23:401:0	\i[18] \i[18] \i[18] 
+68:0:64:401:0	Giving ripped out hearts to ladies
+68:0:65:401:0	is not exactly romantic...
+68:0:66:401:0	\i[15] \i[15] \i[15] 
+68:0:73:401:0	Is it how you want to steal my heart?
+68:0:74:401:0	\i[19] \i[19] \i[19] 
+68:0:78:401:0	Is it how you want to steal my heart?
+68:0:79:401:0	\i[18] \i[18] \i[18] 
+68:0:119:401:0	Blood puts me off...
+68:0:120:401:0	\i[15] \i[15] \i[15] 
+68:0:127:401:0	What do you want me to do 
+68:0:128:401:0	with that?
+68:0:129:401:0	\i[19] \i[19] \i[19] 
+68:0:133:401:0	What do you want me to do 
+68:0:134:401:0	with that?
+68:0:135:401:0	\i[18] \i[18] \i[18] 
+68:0:174:401:0	This is getting old...
+68:0:175:401:0	\i[15] \i[15] \i[15] 
+68:0:182:401:0	I have a good and working one,
+68:0:183:401:0	thank you.
+68:0:184:401:0	\i[19] \i[19] \i[19] 
+68:0:188:401:0	I have a good and working one,
+68:0:189:401:0	thank you.
+68:0:190:401:0	\i[18] \i[18] \i[18] 
+68:0:229:401:0	You're making me afraid now...
+68:0:230:401:0	\i[15] \i[15] \i[15] 
+68:0:237:401:0	Is this for real?
+68:0:238:401:0	\i[19] \i[19] \i[19] 
+68:0:242:401:0	Is this for real?
+68:0:243:401:0	\i[18] \i[18] \i[18] 
+68:0:284:401:0	The best jokes are the shortest.
+68:0:285:401:0	\i[15] \i[15] \i[15] 
+68:0:292:401:0	Eh! Is this how you're stealing
+68:0:293:401:0	a girl's heart?
+68:0:294:401:0	\i[19] \i[19] \i[19] 
+68:0:298:401:0	Eh! Is this how you're stealing
+68:0:299:401:0	a girl's heart?
+68:0:300:401:0	\i[18] \i[18] \i[18] 
+68:0:342:401:0	......
+68:0:343:401:0	\i[15] \i[15] \i[15] 
+68:0:350:401:0	I don't get many presents in
+68:0:351:401:0	general so this will do...
+68:0:352:401:0	\i[19] \i[19] \i[19] 
+68:0:356:401:0	I don't get many presents in
+68:0:357:401:0	general so this will do...
+68:0:358:401:0	\i[18] \i[18] \i[18] 
+68:0:397:401:0	It can't be Valentine's Day every day! 
+68:0:398:401:0	Share also with the others!
+68:0:399:401:0	\i[15] \i[15] \i[15] 
+68:0:406:401:0	Is it Valentine's Day?
+68:0:407:401:0	\i[19] \i[19] \i[19] 
+68:0:411:401:0	Is it Valentine's Day?
+68:0:412:401:0	\i[18] \i[18] \i[18] 
+69:0:8:401:0	Stop giving me these things,
+69:0:9:401:0	I'm fed up...
+69:0:10:401:0	\i[15] \i[15] \i[15] 
+69:0:14:401:0	Why are you giving me this?
+69:0:15:401:0	\i[18] \i[18] \i[18] 
+69:0:17:101:0	\n[1]:
+69:0:18:401:0	It's beautiful severed finger,
+69:0:19:401:0	maybe one day I'll put a ring on it
+69:0:20:401:0	ha ha ha!
+69:0:56:401:0	I don't really want a collection
+69:0:57:401:0	of body parts.
+69:0:58:401:0	\i[15] \i[15] \i[15] 
+69:0:62:401:0	And your point is?
+69:0:63:401:0	\i[18] \i[18] \i[18] 
+69:0:65:101:0	\n[1]:
+69:0:66:401:0	Only lacks a ring to
+69:0:67:401:0	be romantic, ha ha ha!
+69:0:101:401:0	Ewwww, stop please.
+69:0:102:401:0	\i[15] \i[15] \i[15] 
+69:0:106:401:0	This is so gross.
+69:0:107:401:0	\i[18] \i[18] \i[18] 
+69:0:145:401:0	I already have my own, thank you.
+69:0:146:401:0	\i[15] \i[15] \i[15] 
+69:0:150:401:0	Yes, people died. So?
+69:0:151:401:0	\i[18] \i[18] \i[18] 
+69:0:192:401:0	Now I'm getting really
+69:0:193:401:0	concerned about you...
+69:0:194:401:0	\i[15] \i[15] \i[15] 
+69:0:198:401:0	It's so horrible!
+69:0:199:401:0	\i[18] \i[18] \i[18] 
+69:0:238:401:0	Okay okay, I know I'm a Goddess,
+69:0:239:401:0	but I truly don't need that many offerings.
+69:0:240:401:0	\i[15] \i[15] \i[15] 
+69:0:244:401:0	You're a bit on the freaky side, you!
+69:0:245:401:0	\i[18] \i[18] \i[18] 
+69:0:284:401:0	Stop giving me so many things,
+69:0:285:401:0	this will get me into trouble.
+69:0:286:401:0	\i[15] \i[15] \i[15] 
+69:0:290:401:0	Your generosity touches me.
+69:0:291:401:0	\i[18] \i[18] \i[18] 
+69:0:293:101:0	\n[1]:
+69:0:294:401:0	I don't think that's the only
+69:0:295:401:0	thing that will be touching you 
+69:0:296:401:0	ha ha ha!
+69:0:301:401:0	(He can be so lame sometimes...)
+69:0:337:401:0	Don't forget the others,
+69:0:338:401:0	they'll get jealous otherwise.
+69:0:339:401:0	\i[15] \i[15] \i[15] 
+69:0:343:401:0	Is it a valuable present in your world?
+69:0:344:401:0	\i[18] \i[18] \i[18] 
+70:0:18:401:0	Your body is so much better than 
+70:0:19:401:0	mine, I could never live up to it!
+70:0:117:401:0	But don't expect me to wear it
+70:0:118:401:0	at the Olympic games!
+70:0:150:401:0	I can't believe that you picked me.
+70:0:151:401:0	I'm hardly the best-looking 
+70:0:152:401:0	one out here.
+70:0:179:101:0	\n[1]:
+70:0:180:401:0	Would be better if you started 
+70:0:181:401:0	hitting the monsters.
+70:0:184:401:0	With a crystal shoe? 
+70:0:185:401:0	I don't think so!
+70:0:186:401:0	But thanks for the gesture.
+70:0:244:101:0	\n[1]:
+70:0:245:401:0	It's rare a blonde who acknow-
+70:0:246:401:0	ledges it. Anyway, you'll put it on 
+70:0:247:401:0	the fireplace mantel.
+70:0:250:401:0	I will!
+70:0:251:401:0	I don't receive such beautiful gifts
+70:0:252:401:0	all so often!
+88:0:72:401:0	\c[4]MULTI-SPARE!\c[0]  \i[187] \i[187] \i[187]
+88:0:73:401:0	+15 LIFE, +10 NRG
+88:0:84:401:0	\c[4]DOUBLE-SPARE!\c[0]  \i[187] \i[187]
+88:0:85:401:0	+12 LIFE, +7 NRG
+88:0:95:401:0	\c[4]SPARE!\c[0]  \i[187]
+88:0:96:401:0	+10 LIFE, +5 NRG
+88:0:115:401:0	\c[3]MULTI-STRIKE!\c[0]  \i[186] \i[186] \i[186]
+88:0:116:401:0	+75 LIFE, +40 NRG
+88:0:127:401:0	\c[3]DOUBLE-STRIKE!\c[0]  \i[186] \i[186]
+88:0:128:401:0	+35 LIFE, +22 NRG
+88:0:138:401:0	\c[3]STRIKE!\c[0]  \i[186]
+88:0:139:401:0	+15 LIFE, +12 NRG
+88:0:170:401:0	+7 LIFE +1 NRG 
+88:0:171:401:0	(Stetoscope boost for Laura)
+88:0:185:401:0	+5 LIFE +3 NRG 
+88:0:186:401:0	(Iphone boost for Sandy)
+88:0:212:401:0	+3 LIFE +4 NRG 
+88:0:213:401:0	(Iphone boost for Cindy)
+88:0:225:401:0	+4 LIFE +5 NRG +69 EXP
+88:0:226:401:0	(Microphone boost for Cindy)
+88:0:240:401:0	+10 NRG +99 EXP
+88:0:241:401:0	(Handcuffs boost for Karine)
+88:0:392:401:0	AUTO-SAVED!
+88:0:408:401:0	AUTO-SAVED!
+93:0:72:401:0	Laura is a slave to you.
+93:0:77:401:0	Laura is submissive to you.
+93:0:82:401:0	Laura is a potential girlfriend to you.
+93:0:87:401:0	Laura is a close friend to you.
+93:0:92:401:0	Laura is a friend to you.
+93:0:96:401:0	Laura is still a stranger to you.
+94:0:36:401:0	Sandy is a slave to you.
+94:0:41:401:0	Sandy is submissive to you.
+94:0:46:401:0	Sandy is a potential girlfriend to you.
+94:0:51:401:0	Sandy is a close friend to you.
+94:0:56:401:0	Sandy is a friend to you.
+94:0:60:401:0	Sandy is still a stranger to you.
+95:0:68:401:0	Cindy is a slave to you.
+95:0:73:401:0	Cindy is submissive to you.
+95:0:78:401:0	Cindy is a potential girlfriend to you.
+95:0:83:401:0	Cindy is a close friend to you.
+95:0:88:401:0	Cindy is a friend to you.
+95:0:92:401:0	Cindy is still a stranger to you.
+96:0:36:401:0	Nancy is a slave to you.
+96:0:41:401:0	Nancy is submissive to you.
+96:0:46:401:0	Nancy is a potential girlfriend to you.
+96:0:51:401:0	Nancy is a close friend to you.
+96:0:56:401:0	Nancy is a friend to you.
+96:0:60:401:0	Nancy is still a stranger to you.
+97:0:36:401:0	Alison is a slave to you.
+97:0:41:401:0	Alison is submissive to you.
+97:0:46:401:0	Alison is a potential girlfriend to you.
+97:0:51:401:0	Alison is a close friend to you.
+97:0:56:401:0	Alison is a friend to you.
+97:0:60:401:0	Alison is still a stranger to you.
+98:0:36:401:0	Isa is a slave to you.
+98:0:41:401:0	Isa is submissive to you.
+98:0:46:401:0	Isa is a potential girlfriend to you.
+98:0:51:401:0	Isa is a close friend to you.
+98:0:56:401:0	Isa is a friend to you.
+98:0:60:401:0	Isa is still a stranger to you.
+99:0:99:401:0	Karine is a slave to you.
+99:0:104:401:0	Karine is submissive to you.
+99:0:109:401:0	Karine is a potential girlfriend to you.
+99:0:114:401:0	Karine is a close friend to you.
+99:0:119:401:0	Karine is a friend to you.
+99:0:123:401:0	Karine is still a stranger to you.
+100:0:36:401:0	Orange is a slave to you.
+100:0:41:401:0	Orange is submissive to you.
+100:0:46:401:0	Orange is a potential girlfriend to you.
+100:0:51:401:0	Orange is a close friend to you.
+100:0:56:401:0	Orange is a friend to you.
+100:0:60:401:0	Orange is still a stranger to you.
+104:0:30:401:0	No wait, it just occured to me...
+104:0:31:401:0	What about the hospital? It's very close.
+104:0:32:401:0	Only a ten minute walk. Have you been there?
+104:0:49:401:0	There's no "but".
+104:0:50:401:0	Let's go there, we'll get a chance to heal
+104:0:51:401:0	our wounds, maybe rest.
+104:0:61:101:0	The hospital's a good place,
+104:0:62:401:0	and we won't be lost because Laura
+104:0:63:401:0	will serve as guide.
+104:0:66:401:0	I'm always serving you in one
+104:0:67:401:0	way or another it seems.
+104:0:80:401:0	When Laura and I were studying at the
+104:0:81:401:0	hospital, he was always very caring and
+104:0:82:401:0	helpful.
+110:0:73:401:0	Laura is madly in love with you.
+110:0:78:401:0	Laura loves you.
+110:0:83:401:0	Laura has a crush on you.
+110:0:88:401:0	Laura is curious about you.
+110:0:93:401:0	Laura is interested in you.
+110:0:97:401:0	Laura feels nothing for you.
+111:0:41:401:0	Sandy is madly in love with you.
+111:0:46:401:0	Sandy loves you.
+111:0:51:401:0	Sandy has a crush on you.
+111:0:56:401:0	Sandy is curious about you.
+111:0:61:401:0	Sandy is interested in you.
+111:0:65:401:0	Sandy feels nothing for you.
+112:0:73:401:0	Cindy is madly in love with you.
+112:0:78:401:0	Cindy loves you.
+112:0:83:401:0	Cindy has a crush on you.
+112:0:88:401:0	Cindy is curious about you.
+112:0:93:401:0	Cindy is interested in you.
+112:0:97:401:0	Cindy feels nothing for you.
+113:0:41:401:0	Nancy is madly in love with you.
+113:0:46:401:0	Nancy loves you.
+113:0:51:401:0	Nancy has a crush on you.
+113:0:56:401:0	Nancy is curious about you.
+113:0:61:401:0	Nancy is interested in you.
+113:0:65:401:0	Nancy feels nothing for you.
+114:0:41:401:0	Alison is madly in love with you.
+114:0:46:401:0	Alison loves you.
+114:0:51:401:0	Alison has a crush on you.
+114:0:56:401:0	Alison is curious about you.
+114:0:61:401:0	Alison is interested in you.
+114:0:65:401:0	Alison feels nothing for you.
+115:0:41:401:0	Isa is madly in love with you.
+115:0:46:401:0	Isa loves you.
+115:0:51:401:0	Isa has a crush on you.
+115:0:56:401:0	Isa is curious about you.
+115:0:61:401:0	Isa is interested in you.
+115:0:65:401:0	Isa feels nothing for you.
+116:0:87:401:0	   "Sorry..."
+116:0:125:401:0	Karine is madly in love with you.
+116:0:130:401:0	Karine loves you.
+116:0:135:401:0	Karine has a crush on you.
+116:0:140:401:0	Karine is curious about you.
+116:0:145:401:0	Karine is interested in you.
+116:0:149:401:0	Karine feels nothing for you.
+117:0:41:401:0	Orange is madly in love with you.
+117:0:46:401:0	Orange loves you.
+117:0:51:401:0	Orange has a crush on you.
+117:0:56:401:0	Orange is curious about you.
+117:0:61:401:0	Orange is interested in you.
+117:0:65:401:0	Orange feels nothing for you.
+128:0:8:401:0	      BOSS FIGHT!!  \i[299]
+128:0:12:401:0	      BOSS FIGHT!!  \i[299]
+128:0:13:401:0	   (3 extra turns to get a STRIKE or a SPARE!)
+139:0:3:401:0	This is a drink distributor.
+143:0:5:401:0	BOSS fights give you 3 extra rounds to 
+143:0:6:401:0	obtain the same reward as a normal fight.
+144:0:1:101:0	ONE-SHOT CREEPS
+144:0:2:401:0	Creeps can be killed easily in one punch.
+144:0:3:101:0	The party gets as many EXP Pts 
+144:0:4:401:0	as the level of your HERO, and the 
+144:0:5:401:0	latter gets 2 extra EXP pts.
+144:0:7:401:0	If an NRG Card is equipped, 
+144:0:8:401:0	its holder also gains 2 NRG pts.
+145:0:13:101:0	High Love means a bit of healing
+145:0:14:401:0	every turn for the girl.
+145:0:15:401:0	They also come back with more Life
+145:0:16:401:0	after they've been knocked-out.
+146:0:9:401:0	Once the battle is over, any dead
+146:0:10:401:0	character will also be back.
+146:0:12:101:0	Find out more about this system?
+146:0:19:401:0	Characters return with LOVE/10 Life pts 
+146:0:20:401:0	plus 3 pts per Mandragora found.
+146:0:21:101:0	ﾂｷ HERO: 5 turns
+146:0:22:401:0	ﾂｷ LAURA: 2 turns
+146:0:23:401:0	ﾂｷ SANDY: 2 turns
+146:0:24:401:0	ﾂｷ CINDY: 3 turns
+146:0:25:101:0	ﾂｷ \i[294]: 4 turns
+146:0:26:401:0	ﾂｷ \i[295]: 4 turns
+146:0:27:401:0	ﾂｷ \i[296]: 1 turn
+146:0:29:401:0	ﾂｷ \i[297]: 4 turns
+146:0:30:401:0	ﾂｷ \i[298]: 3 turns
+147:0:1:101:0	INTERACTING WITH A GIRL:
+147:0:2:401:0	Interacting with the same girl 
+147:0:3:401:0	several times in a row will result in 
+147:0:4:401:0	her getting fed up.
+147:0:5:101:0	Keep an eye on her reaction,
+147:0:6:401:0	a  \i[16] or  \i[19]\i[19]\i[19] means that 
+147:0:7:401:0	maybe you should stop, and interact
+147:0:8:401:0	with another one instead.
+147:0:9:101:0	Each time you complete a location,
+147:0:10:401:0	all girls become more "available" again
+147:0:11:401:0	for social interactions.
+147:0:13:401:0	Every 6 fight and every boss battle
+147:0:14:401:0	they also get a bit more available.
+147:0:16:101:0	Find out more?
+147:0:23:401:0	If a girl is HIGH,
+147:0:24:401:0	she'll be more easily teased.
+147:0:26:401:0	Sandy gets a bigger boost than
+147:0:27:401:0	the other girls when she's high.
+147:0:29:401:0	If a girl is DRUNK,
+147:0:30:401:0	she'll be more easily seduced.
+147:0:31:101:0	Laura gets a bigger boost than the other 
+147:0:32:401:0	girls when she's drunk. The interaction skill 
+147:0:33:401:0	involving her also decreases more from the
+147:0:34:401:0	"gifting" of hearts, brains and fingers.
+147:0:36:401:0	Be careful, if everybody is drunk,
+147:0:37:401:0	it might become difficult to survive.
+147:0:38:101:0	\i[297] can receive double 
+147:0:39:401:0	more seducing and teasing.
+147:0:40:401:0	\i[296] can receive quadruple 
+147:0:41:401:0	more teasing.
+148:0:1:101:0	GUN SYMBOLS:
+148:0:2:401:0	It's important to know when a friend is
+148:0:3:401:0	carrying a gun so you don't waste bullets.
+148:0:5:401:0	During a fight, you'll find the following
+148:0:6:401:0	symbols next to the name of a gun holder.
+148:0:7:101:0	ﾂ､ : gun and diverse smaller 
+148:0:8:401:0	guns than shotguns
+148:0:9:401:0	ﾂ､ﾂ､ : big gun (shotguns)
+148:0:10:401:0	ﾂ､ﾂ､ﾂ､ : rifle (kalachnikovs)
+148:0:11:101:0	Use a skill (or defend) when 
+148:0:12:401:0	you don't want to waste a bullet.
+148:0:13:401:0	It's not possible to follow the HERO 
+148:0:14:401:0	on his skill when having a gun equipped,
+148:0:16:101:0	except for Karine,
+148:0:17:401:0	because she is so naturally submissive,
+148:0:18:401:0	and Cindy, because she's kinda lost now
+148:0:19:401:0	(and also naturally very submissive).
+148:0:21:401:0	Consequently, if a girl is inflicted with the
+148:0:22:401:0	"submissive" state, she'll follow too.
+148:0:25:101:0	except for Karine,
+148:0:26:401:0	because she is so naturally submissive.
+148:0:27:401:0	Consequently, if a girl is inflicted with the
+148:0:28:401:0	"submissive" state, she'll follow too.
+148:0:31:101:0	When running out of bullets,
+148:0:32:401:0	the best weapon in the inventory
+148:0:33:401:0	is automatically equipped.
+149:0:2:101:0	COOL HIDDEN EXP BONUSES TO KNOW:
+149:0:3:401:0	\n[1] gets +50 EXP per battle for each
+149:0:4:401:0	naked girl in the party.
+149:0:5:101:0	He also receives POWER and ATTACK
+149:0:6:401:0	boosts. The more naked girls, the stronger
+149:0:7:401:0	the boosts.
+149:0:9:401:0	Isa gets +80 EXP per battle if Karine is also 
+149:0:10:401:0	in the party and another +50 EXP if naked.
+151:0:1:101:0	DEFENDING SKILLS:
+151:0:2:401:0	SPEED is the key attribute to defending
+151:0:3:401:0	skills, unlike normal attacks where it's
+151:0:4:401:0	POWER that matters.
+152:0:1:101:0	HIGH:
+152:0:2:401:0	Being inflicted with the "High" status can 
+152:0:3:401:0	give extras to some characters. First of all,
+152:0:4:401:0	you can only attack enemies normally.
+152:0:5:101:0	Influence on base stats:
+152:0:6:401:0	Power Pts 120% Obedience Pts 120%
+152:0:7:401:0	Speed Pts 60% Love Pts 110%
+152:0:8:401:0	Stamina Pts 80%
+152:0:11:401:0	Cindy gets her LEVEL multiplied 
+152:0:12:401:0	by 2 as extra EXP when she's high.
+152:0:15:101:0	\n[1] and  \i[295] get their LEVEL 
+152:0:16:401:0	as extra EXP each turn when high.
+152:0:17:401:0	The others get their LEVEL divided 
+152:0:18:401:0	by 2 instead.
+152:0:20:401:0	\i[296] gets LEVELx4 in EXP Pts 
+152:0:21:401:0	if she is High after a fight. 
+153:0:1:101:0	DRUNK:
+153:0:2:401:0	Being inflicted with the "Drunk" status can 
+153:0:3:401:0	give extras to some characters.
+153:0:4:101:0	First of all,
+153:0:5:401:0	special skills become unusable.
+153:0:6:401:0	This includes the HERO's interactive
+153:0:7:401:0	skills with the girls.
+153:0:8:101:0	Influence on base stats:
+153:0:9:401:0	Love Pts 130%
+153:0:10:401:0	Speed Pts 80% 
+153:0:11:401:0	Attack Pts 80%
+153:0:12:101:0	This status ailment has 35% chances 
+153:0:13:401:0	of going if the character is hit.
+153:0:14:401:0	After 6 turns, it has 25% chances of 
+153:0:15:401:0	going each turn.
+153:0:16:101:0	Because Drunk increases the LOVE 
+153:0:17:401:0	stat, it automatically makes social inter-
+153:0:18:401:0	action between HERO and drunk girls 
+153:0:19:401:0	more successful.
+154:0:1:101:0	EXTRA  ACTIONS & GUNS:
+154:0:2:401:0	Except when specified otherwise, 
+154:0:3:401:0	characters holding guns cannot perform
+154:0:4:401:0	multi-hits and follow a skill from \n[1].
+154:0:5:101:0	Karine is an exception to this, as she 
+154:0:6:401:0	may follow up on a skill from \n[1].
+154:0:7:401:0	Give her a gun with caution.
+155:0:1:101:0	ALCHEMY:
+155:0:2:401:0	Whether you and a girl are meant to
+155:0:3:401:0	be together depends on a variety of factors.
+155:0:4:101:0	LOVE and OBEDIENCE points obviously
+155:0:5:401:0	matter, but so does your overall reputation
+155:0:6:401:0	among all the girls, as well as how each one
+155:0:7:401:0	of them fared during the adventure.
+155:0:9:101:0	Find out more about the formula?
+155:0:15:101:0	LOV * OBD + Womanizer Score
+155:0:16:401:0	+ #fights + #activity * 20 + #cards score
+155:0:17:401:0	- #defeats * 5 - #party defeats * 20
+155:0:18:101:0	If you have a decent score with her,
+155:0:19:401:0	you'll be able to become her boyfriend.
+155:0:20:401:0	To get more from her, you need to develop
+155:0:21:401:0	her LOVE and OBEDIENCE points.
+155:0:22:101:0	Pay attention that it will be the value
+155:0:23:401:0	without equipment and without state
+155:0:24:401:0	(eg drunk, high etc) that will be taken 
+155:0:25:401:0	into account.
+155:0:26:101:0	You need a value superior to 800 in either
+155:0:27:401:0	LOVE or OBEDIENCE (or both) to obtain
+155:0:28:401:0	more privileges from a girl.
+155:0:30:101:0	Playing in FRANTIC mode, you get a 100 pts
+155:0:31:401:0	bonus for LOVE and OBEDIENCE calculations,
+155:0:32:401:0	as well as the overall MATCH formula.
+156:0:1:101:0	RESERVE PARTY:
+156:0:2:401:0	A non-fighting character doesn't get 
+156:0:3:401:0	EXP but heals 40 Life pts and 10 NRG 
+156:0:4:401:0	points each fight.
+156:0:6:401:0	Girls who ARE fighting automatically
+156:0:7:401:0	get healed of LOVE/50 Life pts each turn.
+195:0:21:101:0	\n[1]:
+195:0:22:401:0	I'll abandon you here for the monsters 
+195:0:23:401:0	to devour you and every newspaper 
+195:0:24:401:0	will tell the story of the pathetic death
+195:0:25:101:0	of Cindy Dorson ha ha ha!
+200:0:13:401:0	I admit, you saved me,
+200:0:14:401:0	without you I wouldn't have any way 
+200:0:15:401:0	to make it out of my bathroom!
+200:0:35:401:0	It's not your job!!
+211:0:2:401:0	I wouldn't touch these for now.
+211:0:3:401:0	Let's focus on the main nuclear head.
+230:0:9:101:0	\n[1]:
+230:0:10:401:0	The one on the right doesn't seem
+230:0:11:401:0	in a better disposition.
+234:0:4:401:0	\n[1], do you need to remind us
+234:0:5:401:0	all the time how men and women
+234:0:6:401:0	are getting ripped apart?
+234:0:13:401:0	I don't want to man up!
+234:0:14:401:0	I'm a sexy woman who intends to
+234:0:15:401:0	become a teacher, not some
+234:0:17:401:0	Tomb Raider heroine!
+234:0:24:401:0	Or Tifa. Even better if you're Tifa.
+234:0:29:401:0	Don't be such a nerd!
+234:0:32:401:0	I like nerds, they can be cool!
+234:0:35:401:0	(\n[1],
+234:0:36:401:0	a bad boy on the outside,
+234:0:37:401:0	yet sometimes so nerdy!)
+235:0:12:401:0	I don't eat burgers, have
+235:0:13:401:0	you have a look at my waist?
+235:0:15:101:0	\n[1]:
+235:0:16:401:0	No, I look at something else,
+235:0:17:401:0	are you sure they aren't full of soda?
+235:0:20:401:0	Ahaha you mean my boobs?
+235:0:21:401:0	They're 100% natural and I've always
+235:0:22:401:0	been like this, slender with big boobs!
+235:0:25:401:0	So am I, and I don't brag 
+235:0:26:401:0	constantly about it. Let's go!
+236:0:10:101:0	\n[1]:
+236:0:11:401:0	But it's a big one!
+236:0:12:401:0	Must have been a romantic guy!
+236:0:15:401:0	You're not funny!
+236:0:16:401:0	Focus on the monsters, big guy,
+236:0:17:401:0	show your big heart indeed!
+237:0:61:101:0	\n[1]:
+237:0:62:401:0	You don't know something as
+237:0:63:401:0	simple as that?
+237:0:66:401:0	What? Fuck off!
+237:0:93:101:0	\n[1]:
+237:0:94:401:0	Isa, calm the fuck down, and 
+237:0:95:401:0	tell me where the warehouse is.
+243:0:8:401:0	   \n[1] can now interact with Sandy.
+244:0:8:401:0	   \n[1] can now interact with Cindy.
+245:0:10:401:0	   \n[1] can now interact with Nancy.
+246:0:8:401:0	   \n[1] can now interact with Isabelle.
+247:0:8:401:0	   \n[1] can now interact with Karine.
+248:0:8:401:0	   \n[1] can now interact with Alison.
+249:0:8:401:0	   \n[1] can now interact with Orange.
+265:0:27:401:0	Yes of course, with great pleasure,
+265:0:28:401:0	I hope I'll get the chance to put on
+265:0:29:401:0	an apron!
+268:0:2:101:0	\n[1]:
+268:0:3:401:0	Yeah baby, 
+268:0:4:401:0	more of these little cuties!
+268:0:13:401:0	Don't tell me you're the clichﾃｩ American
+268:0:14:401:0	surfer who loves opiates and-
+269:0:9:101:0	\n[1]:
+269:0:10:401:0	We've made it this far,
+269:0:11:401:0	that's no coincidence.
+270:0:35:401:0	Yep, I got a role offer for that, but...
+270:0:36:401:0	I turned it down.
+270:0:59:401:0	Food is more important, Laura.
+270:0:60:401:0	We'll all get hungry and dehydrated if
+270:0:61:401:0	we don't eat and drink.
+284:0:28:401:0	... You really like that "woman", 
+284:0:29:401:0	\n[1]?
+284:0:40:401:0	Karine, lower your bikini top.
+284:0:48:401:0	He'll see your minuscule boobs
+284:0:49:401:0	and judge for himself.
+284:0:52:401:0	I'm the most well-endowed here,
+284:0:53:401:0	and I don't think it matters much,
+284:0:54:401:0	especially right now.
+284:0:56:401:0	Can't we just postpone this?
+284:0:83:401:0	Even you can do better than this.
+284:0:84:401:0	C'mon, press up that little flatties of you,
+284:0:85:401:0	let 'em ridiculous nips get out!
+284:0:108:401:0	Finally! Of course you'll lose it,
+284:0:109:401:0	there's nothing to hold it in the 
+284:0:110:401:0	first place!
+284:0:117:102:1	I like how she looks!
+284:0:117:102:2	You're right, Isa!
+284:0:143:401:0	Everyone knows Karine is ugly!
+285:0:3:401:0	Our poor school!
+285:0:4:401:0	It's a pool of blood now!
+285:0:13:401:0	Murphy, the dictator, sorry director, 
+285:0:14:401:0	has his office on the 3rd floor!
+285:0:31:401:0	That's what I've been trying to say
+285:0:32:401:0	all along, we need a SHELTER, not a school, 
+285:0:33:401:0	a fast-food, not even an hospital!
+285:0:52:101:0	\n[1]:
+285:0:53:401:0	Yeah I know, and a national
+285:0:54:401:0	treasure, so stand by me.
+285:0:60:401:0	You mean she is completely naked
+285:0:61:401:0	and looks completely drunk?
+285:0:68:401:0	I am... not drunk...
+285:0:69:401:0	Although yes it does seem that...
+285:0:70:401:0	I'm naked....
+286:0:33:101:0	\n[1]:
+286:0:34:401:0	No police. The police are DEAD!
+286:0:35:401:0	Your only chance is with us!
+286:0:72:101:0	LESLIE:
+286:0:73:401:0	Shhh don't make so much noise!
+286:0:74:401:0	We're staying. When the police arrive,
+286:0:75:401:0	we'll be close to the entrance.
+292:0:13:102:0	I can see that, thank you
+292:0:13:102:1	I'd love to make a painting of you
+292:0:13:102:2	I'd love to make a painting of Sandy
+292:0:13:102:3	\n[23]
+292:0:68:401:0	I'd happily pose for you,
+292:0:69:401:0	granted that you're an actual painter,
+292:0:70:401:0	but there's hardly any time for this.
+293:0:28:401:0	This was supposed to 
+293:0:29:401:0	be a stupid shelter!
+293:0:30:401:0	A stupid peaceful SHELTER!
+293:0:40:401:0	But they are everywhere!
+293:0:41:401:0	You always sound like a movie!
+293:0:48:401:0	I don't want my dead body to 
+293:0:49:401:0	appear all over the Net!
+293:0:54:401:0	Listen to \n[1] instead of whining
+293:0:55:401:0	like babies! He's right, we can still
+293:0:56:401:0	overthrow them, fair and square!
+293:0:62:401:0	Do they have water and food here?
+293:0:70:401:0	Right now we are the water and food 
+293:0:71:401:0	for them! We should try to evaluate how 
+293:0:72:401:0	big this bunker is.
+293:0:74:401:0	Maybe we could leave and I call my 
+293:0:75:401:0	dad, or Peterson?
+293:0:78:401:0	Oh no, I forgot about the
+293:0:79:401:0	laser field!
+293:0:82:401:0	Wouldn't it be too dangerous anyway?
+293:0:104:401:0	Cindy, everything's still alright?
+293:0:117:401:0	Isa, is Karine okay?
+293:0:131:401:0	I'm fine.
+293:0:134:401:0	I said nobody cares, bitch!
+293:0:136:101:0	\n[1]:
+293:0:137:401:0	No, let her talk a bit.
+293:0:140:401:0	What?!
+293:0:141:401:0	Oh, whatever...
+293:0:150:401:0	See, it's not just me.
+293:0:151:401:0	I'm not a cry-baby, I can be tough even
+293:0:152:401:0	though I'm a glamorous star.
+293:0:187:401:0	CAREFUL!
+294:0:11:101:0	\n[1]:
+294:0:12:401:0	Yeah, I think so. Just like the one they
+294:0:13:401:0	used to lock us in, those bastards!
+294:0:14:401:0	Don't get close to it.
+294:0:26:101:0	\n[1]:
+294:0:27:401:0	Yeah, you in particular, 
+294:0:28:401:0	with your nips sticking out,
+294:0:29:401:0	pay attention!
+294:0:33:401:0	We need to find a way to switch
+294:0:34:401:0	the energy supply off.
+294:0:40:401:0	But where is it?
+294:0:42:101:0	\n[1]:
+294:0:43:401:0	I don't know, that's why I said
+294:0:44:401:0	we need to find it.
+295:0:6:401:0	Do they want to declare war on the
+295:0:7:401:0	world with so many of them?
+295:0:10:401:0	I'd like to know if this base is
+295:0:11:401:0	run by the government or
+295:0:12:401:0	a private corporation.
+296:0:14:401:0	Let me give it a try!
+296:0:40:101:0	\n[1]:
+296:0:41:401:0	Why, you too, brain like boobs,
+296:0:42:401:0	both very average but acceptable!
+296:0:45:401:0	Sometimes I don't know why I bother...
+296:0:48:401:0	Well don't! Our POTUS said it best!
+296:0:49:401:0	The illegal aliens are taking our jobs!
+296:0:68:401:0	Sandy, got an idea?
+297:0:5:401:0	Only at the beginning.
+297:0:6:401:0	It was supposed to analyze me.
+297:0:7:401:0	Then they let me out.
+299:0:2:401:0	This is getting darker and darker...
+299:0:6:401:0	This place is more comfortable for me,
+299:0:7:401:0	because I don't risk people seeing me
+299:0:8:401:0	without clothes on.
+299:0:11:401:0	Yes it's true.
+299:0:12:401:0	But I've gotten used to it 
+299:0:13:401:0	anyway, now.
+299:0:16:401:0	Don't be so stupid you too!
+299:0:17:401:0	There's nobody else but us here!
+299:0:18:101:0	And \n[1], if he wanted to lust
+299:0:19:401:0	over a good-looking woman,
+299:0:20:401:0	he wouldn't pick any of you for sure!
+299:0:23:401:0	I look very good.
+299:0:26:401:0	If you like small and chubby with
+299:0:27:401:0	mama boobs, then yes.
+299:0:30:401:0	I'm a star so I look very good.
+299:0:33:401:0	Da fuck, you just got lucky
+299:0:34:401:0	some producer needed an air-
+299:0:35:401:0	head with big boobs!
+299:0:85:101:0	\n[1]:
+299:0:86:401:0	You're very big here too.
+299:0:87:401:0	*slaps her boob*
+299:0:88:401:0	Remember you're my little fat cow.
+299:0:91:401:0	I don't like you saying this,
+299:0:92:401:0	please stop.
+300:0:2:401:0	Woah, those guys were in to
+300:0:3:401:0	start World War III!
+300:0:5:101:0	\n[1]:
+300:0:6:401:0	Yeah, and to think we were hoping for
+300:0:7:401:0	a peaceful world... you can always count
+300:0:8:401:0	on govs to smash it all down.
+300:0:12:401:0	Orange, were you aware of this?
+300:0:13:401:0	Their army force?
+300:0:16:401:0	Yes, of course, but in my opinion, it's
+300:0:17:401:0	only a small portion of what they are able
+300:0:18:401:0	to... and not the most threatening one.
+300:0:21:401:0	That says it all, really!
+303:0:17:401:0	Laura has killed more than 15 monsters
+303:0:18:401:0	with her weapon.
+303:0:33:401:0	Laura has killed more than 10 monsters.
+303:0:47:401:0	Laura has killed more than 30 monsters.
+303:0:63:401:0	Laura has killed more than 
+303:0:64:401:0	10 monsters using skills.
+303:0:79:401:0	Laura has been in more than 50 fights.
+303:0:98:401:0	Sandy has killed more than 15 monsters
+303:0:99:401:0	with her weapon.
+303:0:114:401:0	Sandy has killed more than 10 monsters.
+303:0:128:401:0	Sandy has killed more than 30 monsters.
+303:0:144:401:0	Sandy has killed more than 
+303:0:145:401:0	10 monsters using skills.
+303:0:160:401:0	Sandy has been in more than 50 fights.
+303:0:179:401:0	Cindy has killed more than 15 monsters
+303:0:180:401:0	with her weapon.
+303:0:195:401:0	Cindy has killed more than 10 monsters.
+303:0:209:401:0	Cindy has killed more than 30 monsters.
+303:0:225:401:0	Cindy has killed more than 
+303:0:226:401:0	10 monsters using skills.
+303:0:241:401:0	Cindy has been in more than 50 fights.
+303:0:260:401:0	Nancy has killed more than 15 monsters
+303:0:261:401:0	with her weapon.
+303:0:276:401:0	Nancy has killed more than 10 monsters.
+303:0:290:401:0	Nancy has killed more than 30 monsters.
+303:0:306:401:0	Nancy has killed more than 
+303:0:307:401:0	10 monsters using skills.
+303:0:322:401:0	Nancy has been in more than 50 fights.
+303:0:341:401:0	Isa has killed more than 15 monsters
+303:0:342:401:0	with her weapon.
+303:0:357:401:0	Isa has killed more than 10 monsters.
+303:0:371:401:0	Isa has killed more than 30 monsters.
+303:0:387:401:0	Isa has killed more than 
+303:0:388:401:0	10 monsters using skills.
+303:0:403:401:0	Isa has been in more than 50 fights.
+303:0:422:401:0	Karine has killed more than 15 monsters
+303:0:423:401:0	with her weapon.
+303:0:438:401:0	Karine has killed more than 10 monsters.
+303:0:452:401:0	Karine has killed more than 30 monsters.
+303:0:468:401:0	Karine has killed more than 
+303:0:469:401:0	10 monsters using skills.
+303:0:484:401:0	Karine has been in more than 50 fights.
+303:0:503:401:0	Alison has killed more than 15 monsters
+303:0:504:401:0	with her weapon.
+303:0:519:401:0	Alison has killed more than 10 monsters.
+303:0:533:401:0	Alison has killed more than 30 monsters.
+303:0:549:401:0	Alison has killed more than 
+303:0:550:401:0	10 monsters using skills.
+303:0:565:401:0	Alison has been in more than 50 fights.
+303:0:584:401:0	Orange has killed more than 15 monsters
+303:0:585:401:0	with her weapon.
+303:0:600:401:0	Orange has killed more than 10 monsters.
+303:0:614:401:0	Orange has killed more than 30 monsters.
+303:0:630:401:0	Orange has killed more than 
+303:0:631:401:0	10 monsters using skills.
+303:0:646:401:0	Orange has been in more than 50 fights.
+305:0:7:401:0	Also, your big butt could never
+305:0:8:401:0	go through this small window.
+305:0:11:401:0	I don't have a big butt.
+305:0:12:401:0	Maybe big boobs, if you want.
+305:0:15:401:0	If you have big,
+305:0:16:401:0	then how are mine?
+305:0:18:102:0	More or less like Laura's
+305:0:18:102:1	Huge
+305:0:18:102:2	Gigantic
+305:0:18:102:3	Rocket tits
+305:0:22:401:0	I'm baffled you can't see the difference.
+305:0:23:401:0	I can hardly fit mine in HER bikini.
+305:0:24:401:0	Anyway...
+305:0:29:401:0	(Thank you, that was sweet...)
+305:0:36:401:0	Exactly! There's a big difference
+305:0:37:401:0	with Laura's pretty common rack.
+305:0:44:401:0	Not sure if that's such a good way to
+305:0:45:401:0	say it, but yes, that's the idea.
+305:0:50:401:0	I wish you'd stop being so childish.
+306:0:12:101:0	\n[1]:
+306:0:13:401:0	Yeah, good job everyone!
+306:0:58:101:0	\n[1]:
+306:0:59:401:0	Here, your bikini.
+306:0:60:401:0	You lost it during your transformation.
+306:0:65:401:0	I've cleaned myself a bit too.
+306:0:66:401:0	I think I feel better now...
+306:0:69:401:0	... stupid idiotic woman!...
+306:0:70:401:0	Well, "woman"...
+306:0:73:401:0	I'm sorry. I feel like a monster, now.
+306:0:76:401:0	Yeah, that's what I've been telling
+306:0:77:401:0	you ever since we met... 
+314:0:12:401:0	I can't imagine what might have happened
+314:0:13:401:0	here!... all these poor people!...
+315:0:11:401:0	Are you asking because it's
+315:0:12:401:0	the medical room?
+315:0:14:101:0	\n[1]:
+315:0:15:401:0	.....
+315:0:17:401:0	Yes of course!
+315:0:20:401:0	It's not the first time I do that.
+315:0:21:401:0	Okay, moment please.
+315:0:29:101:0	\n[1]:
+315:0:30:401:0	I want to be sure.
+315:0:31:401:0	And this time I'm not turning round.
+315:0:34:401:0	Okay then.
+315:0:35:401:0	But you must turn round.
+315:0:53:401:0	... I understand it's a bit stupid,
+315:0:54:401:0	but still, I'm not very sure.
+315:0:57:101:0	\n[1]:
+315:0:58:401:0	Look, Laura's been naked for so long, 
+315:0:59:401:0	and there's also Cindy, it's not like it's 
+315:0:60:401:0	that special anymore, you see?
+315:0:63:101:0	\n[1]:
+315:0:64:401:0	Look, Laura's been naked for
+315:0:65:401:0	so long, it's not like it's that special
+315:0:66:401:0	anymore, you see?
+315:0:94:401:0	(They are so much smaller than mine.
+315:0:95:401:0	And yet more prone to gravity... Not 
+315:0:96:401:0	everybody can be as exceptional as me!)
+315:0:100:401:0	(I hope he's not gonna ask me
+315:0:101:401:0	to weigh myself...)
+315:0:119:401:0	It makes me feel a bit ashamed...
+315:0:120:401:0	I could easily look much better.
+315:0:129:101:0	\n[1]:
+315:0:130:401:0	I know, not like we all haven't had plenty of 
+315:0:131:401:0	time to notice. But that's not important.
+315:0:132:401:0	You both look good the way you are.
+315:0:146:101:0	\n[1]:
+315:0:147:401:0	Of course, and you can show
+315:0:148:401:0	some solidarity to Laura.
+315:0:152:401:0	True, but...
+315:0:157:101:0	It's already exceptional that I did it
+315:0:158:401:0	in front of you and...
+315:0:159:401:0	You don't want to have another one 
+315:0:160:401:0	walking around like Laura and Cindy!
+315:0:170:401:0	It might become a bit too much!
+315:0:180:401:0	(He's so laxist with her!
+315:0:181:401:0	And never with me!!
+315:0:182:401:0	I'm like his girl toy!!)
+316:0:7:401:0	Laura is tied naked to the wooden pillar.
+316:0:35:401:0	Well, this is about art, isn't it?
+316:0:36:401:0	Not showing the most gorgeous
+316:0:37:401:0	and arousing body?
+316:0:39:101:0	\n[1]:
+316:0:40:401:0	No, no, little Laura, not at all.
+316:0:42:401:0	You're more the type of the girl
+316:0:43:401:0	next door, haha.
+316:0:46:401:0	Sorry if I'm not exactly a model...
+316:0:47:401:0	Next time, just pick someone else.
+317:0:16:401:0	Sandy is tied naked to the wooden pillar.
+317:0:28:401:0	Sandy stands next to the wooden pillar.
+318:0:12:401:0	Cindy is tied naked to the wooden pillar.
+318:0:14:101:0	\n[1]:
+318:0:15:401:0	Okay everyone, ten minute lesson,
+318:0:16:401:0	take a sheet of paper and draw world-
+318:0:17:401:0	wide star Cindy with no clothes at all!
+318:0:22:401:0	I will try.
+318:0:24:101:0	\n[1]:
+318:0:25:401:0	Okay everyone, ten minute lesson,
+318:0:26:401:0	take a sheet of paper and draw world-
+318:0:27:401:0	wide star Cindy, make her look good!
+318:0:52:401:0	It's a photograph of her I need, not a stupid
+318:0:53:401:0	picture! I could sell it for millions!
+319:0:14:401:0	Nancy stands against the wooden pillar.
+321:0:12:101:0	\n[1]:
+321:0:13:401:0	What, you're cold again?
+321:0:17:401:0	No...
+321:0:21:401:0	*coughs blood*
+321:0:22:401:0	I just feel very bad!...
+321:0:175:101:0	\n[1]:
+321:0:176:401:0	No, it's dead now. We killed it.
+321:0:177:401:0	Nobody's gonna transform.
+321:0:179:401:0	Just rest, girls. Rest for a while.
+321:0:180:401:0	And then we'll go.
+321:0:184:401:0	Thank you... I want to feel better...
+321:0:185:401:0	Thanks for my clothes by the way.
+321:0:208:401:0	Thankfully, you were able to defeat the 
+321:0:209:401:0	horrible monster... and barely stayed alive.
+321:0:211:401:0	But Laura and Sandy were almost lost
+321:0:212:401:0	for good...
+321:0:214:401:0	They survived, but suffered severe
+321:0:215:401:0	injuries in the process.
+322:0:7:401:0	Future. Unraveling before your eyes.
+322:0:13:401:0	Was it? I always thought it was one
+322:0:14:401:0	big field for experiments.
+322:0:21:401:0	In fact, I'm willing to be sympathetic.
+322:0:109:401:0	Dude, don't give her an excuse to
+322:0:110:401:0	complain, it's Karine that's all, she
+322:0:111:401:0	never understands anything!
+325:0:48:401:0	(Damn too many blonde bimbos around!)
+328:0:55:401:0	It's been fun to see her 
+328:0:56:401:0	naked the whole time, plus...
+328:0:57:101:0	She said she'd stay 
+328:0:58:401:0	naked if I saved the world, 
+328:0:59:401:0	time to turn a promise a reality!
+328:0:70:401:0	 "A nice moment by the lake"
+328:0:77:401:0	 "A hot day in a 
+328:0:78:401:0	  remote tropical island"
+328:0:95:401:0	 "Laura just doing 
+328:0:96:401:0	  what she does best"
+328:0:114:401:0	 "A nice moment by the lake"
+329:0:44:101:0	She looked hot on the 
+329:0:45:401:0	weighing machine,
+329:0:46:401:0	she seems a cool 
+329:0:47:401:0	and laid back girl...
+329:0:50:101:0	Unlike Laura I still 
+329:0:51:401:0	have to discover her body
+329:0:52:401:0	but she looks fit with 
+329:0:53:401:0	nice curves.
+329:0:57:401:0	And of course, 
+329:0:58:401:0	she has billions!
+329:0:70:401:0	 "A nice moment by the lake"
+329:0:82:401:0	 "A hot day in a 
+329:0:83:401:0	  remote tropical island"
+329:0:100:401:0	 "Sandy Insta Star"
+329:0:118:401:0	 "A nice moment by the lake"
+330:0:41:101:0	PROS: A man's fantasy, boobs
+330:0:42:401:0	of legends, saw her naked
+330:0:43:401:0	CONS: Unlikely to look good at 40 
+330:0:44:401:0	with such big boobs already now
+330:0:47:101:0	PROS: A man's fantasy, 
+330:0:48:401:0	boobs of legends
+330:0:49:401:0	CONS: Unlikely to look good at 40 
+330:0:50:401:0	with such big boobs already now
+330:0:59:101:0	She's a big star, 
+330:0:60:401:0	I've seen her naked,
+330:0:61:401:0	and she can probably 
+330:0:62:401:0	pay me everything.
+330:0:63:101:0	Plus her big tatas 
+330:0:64:401:0	are legendary. If pics
+330:0:65:401:0	of her come out, they'll be 
+330:0:66:401:0	all over the place!
+330:0:78:401:0	 "A nice moment by the lake"
+330:0:90:401:0	 "A hot day in a 
+330:0:91:401:0	  remote tropical island"
+330:0:108:401:0	 "Cindy's BIG career change"
+330:0:126:401:0	 "A nice moment by the lake"
+331:0:40:401:0	\c[5]NANCY\c[0]  LOVE: \c[6]\v[1530]\c[0]  OBEDIENCE: \c[6]\v[1531]\c[0]
+331:0:42:101:0	PROS: great body, great rack
+331:0:43:401:0	CONS: maybe not the nicest around,
+331:0:44:401:0	white skin prone to sunburn
+331:0:51:101:0	With celebs like Cindy and 
+331:0:52:401:0	Sandy around, 
+331:0:53:401:0	maybe not the "smart" choice.
+331:0:68:401:0	 "A nice moment by the lake"
+331:0:80:401:0	 "A hot day in a 
+331:0:81:401:0	  remote tropical island"
+331:0:98:401:0	 "Nancy Student of the Year"
+331:0:116:401:0	 "A nice moment by the lake"
+332:0:32:401:0	\c[5]ISA\c[0]  LOVE: \c[6]\v[1530]\c[0]  OBEDIENCE: \c[6]\v[1531]\c[0]
+332:0:44:401:0	She tried very hard, let's just hope
+332:0:45:401:0	she forgets about Karine now!
+332:0:57:401:0	 "Hot snow"
+332:0:69:401:0	 "A hot day in a 
+332:0:70:401:0	  remote tropical island"
+332:0:87:401:0	 "Uncharted territory"
+332:0:105:401:0	 "Hot snow"
+333:0:38:401:0	\c[5]KARINE\c[0]  LOVE: \c[6]\v[1530]\c[0]  OBEDIENCE: \c[6]\v[1531]\c[0]
+333:0:40:101:0	PROS: probably the most sub 
+333:0:41:401:0	of the bunch, saw her naked
+333:0:42:401:0	CONS: kinda high all the time,
+333:0:43:401:0	smallest boobs by far
+333:0:50:101:0	I'll finally set her free 
+333:0:51:401:0	from Isa now!
+333:0:52:401:0	If she would stop looking 
+333:0:53:401:0	so stoned all the time,
+333:0:55:401:0	I'm sure she might turn out to be 
+333:0:56:401:0	a great partner! BDSM galore!
+333:0:68:401:0	 "A sexy walk downtown"
+333:0:80:401:0	 "A hot day in a 
+333:0:81:401:0	  remote tropical island"
+333:0:98:401:0	 "A dark dungeon"
+333:0:116:401:0	 "A nice moment by the lake"
+334:0:32:401:0	\c[5]ALISON\c[0]  LOVE: \c[6]\v[1530]\c[0]  OBEDIENCE: \c[6]\v[1531]\c[0]
+334:0:44:101:0	At least this is one girl 
+334:0:45:401:0	I still have to discover, 
+334:0:46:401:0	and with her tanned skin,
+334:0:61:401:0	 "Snowdark"
+334:0:73:401:0	 "A hot day in a 
+334:0:74:401:0	  remote tropical island"
+334:0:91:401:0	 "A walk to remember"
+334:0:109:401:0	 "Snowdark"
+335:0:40:401:0	\c[5]ORANGE\c[0]  LOVE: \c[6]\v[1530]\c[0]  OBEDIENCE: \c[6]\v[1531]\c[0]
+335:0:52:401:0	Of all the bikini squad I had 
+335:0:53:401:0	to pick the one in one piece...
+335:0:54:101:0	She'd be a great addition 
+335:0:55:401:0	to One Piece,
+335:0:56:401:0	let's make her a great 
+335:0:57:401:0	addition to my life!
+335:0:69:401:0	 "Extra-terrestrial Snow"
+335:0:82:401:0	 "A hot day in a 
+335:0:83:401:0	  remote tropical island"
+335:0:101:401:0	 "A walk to remember"
+335:0:120:401:0	 "Extra-terrestrial Snow"
+337:0:26:401:0	Okay, then.
+337:0:27:401:0	You know better.
+337:0:29:101:0	\n[1]: 
+337:0:30:401:0	Do you like to be humiliated Laura?
+337:0:32:401:0	... not too much.
+337:0:33:401:0	But I know I must get used to it.
+337:0:35:401:0	As this is what people want
+337:0:36:401:0	and expect from me...
+338:0:13:101:0	\n[1]: 
+338:0:14:401:0	You're my slave.
+338:0:15:401:0	It's your new status and
+338:0:16:401:0	obligations.
+338:0:25:101:0	\n[1]:
+338:0:26:401:0	Yes, among other things.
+338:0:27:401:0	Walk around now,
+338:0:28:401:0	it'll be your baptism.
+338:0:30:401:0	I can't believe I'm doing this...
+338:0:31:101:0	Passer-by:
+338:0:32:401:0	Look! It's Cindy!
+338:0:33:401:0	Quick, take a picture!
+339:0:13:401:0	I've got millions of followers on Insta
+339:0:14:401:0	now, and counting!
+339:0:16:401:0	My popularity has gone through the roof,
+339:0:17:401:0	on my way to become the biggest star EVER!
+339:0:23:401:0	And now, you'll give me your money.
+339:0:25:401:0	All of it?
+339:0:26:101:0	\n[1]: 
+339:0:27:401:0	Yes, I want you to have nothing.
+339:0:29:401:0	It escalated quite quickly!
+339:0:30:401:0	I'll do it happily, 
+339:0:31:401:0	but it'll take forever.
+340:0:10:401:0	I take off my bikini?
+340:0:11:401:0	But it won't be too much?
+340:0:16:401:0	And where do I put it?
+340:0:25:401:0	I have my lesson in two hours.
+340:0:26:401:0	Should I go like this?
+341:0:10:401:0	Okay, I don't mind, I'm not 
+341:0:11:401:0	ashamed of my body, not at all! 
+341:0:12:401:0	Passers-by will be amazed!
+341:0:16:401:0	Here's a collar.
+341:0:17:401:0	I'll put you on a leash.
+341:0:19:401:0	Okay, sounds fun.
+341:0:20:101:0	\n[1]: 
+341:0:21:401:0	And hold your belly in, I want
+341:0:22:401:0	you to look very slim, your boobs
+341:0:23:401:0	must stick out!
+342:0:15:101:0	\n[1]: 
+342:0:16:401:0	The Masters might whip you again
+342:0:17:401:0	a bit longer.
+342:0:19:401:0	It's not a problem.
+343:0:10:401:0	Nobody else is like me!
+343:0:11:401:0	I'm ridiculous!
+343:0:19:401:0	Hummm, really?
+343:0:20:401:0	I'm flattered.
+343:0:22:401:0	I don't really think that I'm stunning, 
+343:0:23:401:0	but I'll make an effort for you
+343:0:24:101:0	\n[1]: 
+343:0:25:401:0	Good. Now take it all off.
+343:0:27:401:0	Oh, no, I can't do that,
+343:0:28:401:0	I'm already making such
+343:0:29:401:0	a huge effort just for you!
+343:0:30:101:0	\n[1]: 
+343:0:31:401:0	(Damn, that tall bitch is really
+343:0:32:401:0	making things difficult!)
+344:0:10:401:0	Fully naked in the street?
+344:0:11:401:0	I've never done it before.
+344:0:12:401:0	If this is what you want, okay.
+344:0:20:401:0	If this is enjoyable for you,
+344:0:21:401:0	then I'm happy to do it.
+346:0:13:101:0	You were always quite harsh with me
+346:0:14:401:0	during the outbreak, I could never imagine
+346:0:15:401:0	you actually liked me.
+346:0:22:101:0	\n[1]: 
+346:0:23:401:0	A boob job.
+346:0:25:401:0	Oh no, I hope not, they're 
+346:0:26:401:0	already quite big the way they are!
+346:0:27:401:0	Don't you think so?
+347:0:22:101:0	(I better not tell her there're already
+347:0:23:401:0	naked videos of her all over Youtube...
+347:0:24:401:0	She'd have a heart attack.)
+348:0:23:401:0	(Sandy is hot,
+348:0:24:401:0	but she's a bit stupid!)
+349:0:14:401:0	I know! I may not be as rich as Sandy,
+349:0:15:401:0	as famous as Cindy, or as naked as
+349:0:16:401:0	Laura, but I'm the hottest of 'em all!
+349:0:17:101:0	\n[1]: 
+349:0:18:401:0	(Also the palest but hey,
+349:0:19:401:0	you've got the biggest ones!)
+350:0:17:401:0	Oh, you wanna do it?
+350:0:18:401:0	Okay then! Make sure the cream
+350:0:19:401:0	penetrates deeply.
+350:0:20:101:0	\n[1]: 
+350:0:21:401:0	No problem!
+351:0:16:401:0	I could have never imagine someone
+351:0:17:401:0	would pick me to be their spouse,
+351:0:18:401:0	especially not someone like you,
+351:0:19:101:0	who were surrounded by all those
+351:0:20:401:0	amazing women.
+351:0:21:401:0	All of my life I've been treated like
+351:0:22:401:0	dirt, so this is a bit new...
+351:0:24:401:0	But pleasant... I didn't expect it to be.
+351:0:25:101:0	\n[1]: 
+351:0:26:401:0	You're no longer with a stupid Mistress
+351:0:27:401:0	who only wants you as an ego boost.
+351:0:28:401:0	Relax, and enjoy.
+351:0:30:401:0	Okay, I will try.
+352:0:22:401:0	Only for us? Great!
+352:0:23:401:0	I'm only discovering this planet bit by bit.
+352:0:24:101:0	\n[1]: 
+352:0:25:401:0	These rockets are so white,
+352:0:26:401:0	you'll get burned. Come over here,
+352:0:27:401:0	I'll put you some cream.
+353:0:15:101:0	\n[1]: 
+353:0:16:401:0	Yes. You look like you were
+353:0:17:401:0	born in a tropical island.
+353:0:18:101:0	You'll look very good with
+353:0:19:401:0	your oily body tonight when you
+353:0:20:401:0	prepare me a sandwich.
+353:0:22:401:0	Will I be naked like the other day?
+353:0:23:101:0	\n[1]: 
+353:0:24:401:0	Of course. You're my wife now,
+353:0:25:401:0	and that's what wives do.
+353:0:27:401:0	Okay. I don't really know,
+353:0:28:401:0	you need to teach me.
+355:0:10:401:0	Lovely place here,
+355:0:11:401:0	nice vacation!
+355:0:16:401:0	(So many hot girls to choose from...)
+355:0:21:401:0	(The bitch didn't even live up
+355:0:22:401:0	to her promise!)
+356:0:18:101:0	\n[1]: 
+356:0:19:401:0	(Look at that fat bitch, you save
+356:0:20:401:0	her life,
+356:0:21:101:0	then you take her to places 
+356:0:22:401:0	and she's not even showing
+356:0:23:401:0	any sign of gratefulfness!)
+356:0:24:101:0	Fix your top,
+356:0:25:401:0	your stupid boobs are sticking 
+356:0:26:401:0	out, as usual!
+357:0:16:401:0	I didn't mean to sound bad,
+357:0:17:401:0	why do you react like this?
+357:0:18:101:0	\n[1]: 
+357:0:19:401:0	(I wish she'd just take off her
+357:0:20:401:0	clothes and shut up...)
+358:0:10:401:0	Nice place, really.
+358:0:11:401:0	When we come back, I'll have a lot
+358:0:12:401:0	to study though, I've fallen quite behind!
+358:0:13:101:0	\n[1]: 
+358:0:14:401:0	(Can this girl take a moment
+358:0:15:401:0	to enjoy the place, or anything?)
+359:0:10:401:0	Hey, don't you want to play
+359:0:11:401:0	volley-ball a bit?
+359:0:12:401:0	We can play in the snow!
+359:0:20:401:0	Then they'll be saggy like Sandy's!
+359:0:21:401:0	None of us want that!
+360:0:19:401:0	Did I pick my outfit properly
+360:0:20:401:0	enough for you?
+360:0:28:101:0	\n[1]: 
+360:0:29:401:0	I know where we can go,
+360:0:30:401:0	it'll be a lot of fun!
+360:0:37:401:0	It's a little bit cold here.
+360:0:38:101:0	\n[1]: 
+360:0:39:401:0	Yeah but we were getting bored
+360:0:40:401:0	in town.
+360:0:42:401:0	Okay as you prefer.
+362:0:11:101:0	\n[1]: 
+362:0:12:401:0	Hi.
+362:0:18:401:0	Hummm yes. I just don't 
+362:0:19:401:0	know what to do. And it's a bit 
+362:0:20:401:0	here cold, to tell you the truth.
+364:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+364:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+364:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+364:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+364:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+364:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+364:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+364:0:37:401:0	\i[17]\i[17]\i[17]
+364:0:41:401:0	\i[17]
+365:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+365:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+365:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+365:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+365:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+365:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+365:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+365:0:37:401:0	\i[17]\i[17]\i[17]
+365:0:41:401:0	\i[17]
+366:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+366:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+366:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+366:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+366:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+366:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+366:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+366:0:37:401:0	\i[17]\i[17]\i[17]
+366:0:41:401:0	\i[17]
+367:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+367:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+367:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+367:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+367:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+367:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+367:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+367:0:37:401:0	\i[17]\i[17]\i[17]
+367:0:41:401:0	\i[17]
+368:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+368:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+368:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+368:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+368:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+368:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+368:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+368:0:37:401:0	\i[17]\i[17]\i[17]
+368:0:41:401:0	\i[17]
+369:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+369:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+369:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+369:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+369:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+369:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+369:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+369:0:37:401:0	\i[17]\i[17]\i[17]
+369:0:41:401:0	\i[17]
+370:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+370:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+370:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+370:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+370:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+370:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+370:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+370:0:37:401:0	\i[17]\i[17]\i[17]
+370:0:41:401:0	\i[17]
+371:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+371:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+371:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+371:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+371:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+371:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+371:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+371:0:37:401:0	\i[17]\i[17]\i[17]
+371:0:41:401:0	\i[17]
+372:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+372:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+372:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+372:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+372:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+372:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+372:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+372:0:37:401:0	\i[17]\i[17]\i[17]
+372:0:41:401:0	\i[17]
+373:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+373:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+373:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+373:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+373:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+373:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+373:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+373:0:37:401:0	\i[17]\i[17]\i[17]
+373:0:41:401:0	\i[17]
+374:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+374:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+374:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+374:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+374:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+374:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+374:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+374:0:37:401:0	\i[17]\i[17]\i[17]
+374:0:41:401:0	\i[17]
+375:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+375:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+375:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+375:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+375:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+375:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+375:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+375:0:37:401:0	\i[17]\i[17]\i[17]
+375:0:41:401:0	\i[17]
+376:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+376:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+376:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+376:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+376:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+376:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+376:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+376:0:37:401:0	\i[17]\i[17]\i[17]
+376:0:41:401:0	\i[17]
+377:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+377:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+377:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+377:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+377:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+377:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+377:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+377:0:37:401:0	\i[17]\i[17]\i[17]
+377:0:41:401:0	\i[17]
+378:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+378:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+378:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+378:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+378:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+378:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+378:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+378:0:37:401:0	\i[17]\i[17]\i[17]
+378:0:41:401:0	\i[17]
+379:0:2:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]\i[15]
+379:0:7:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]\i[16]
+379:0:12:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]\i[19]
+379:0:17:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]\i[18]
+379:0:22:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]\i[18]
+379:0:27:401:0	\i[17]\i[17]\i[17]\i[18]\i[18]
+379:0:32:401:0	\i[17]\i[17]\i[17]\i[18]
+379:0:37:401:0	\i[17]\i[17]\i[17]
+379:0:41:401:0	\i[17]
+380:0:2:401:0	      LAURA SEDUCTION AVAILABILITY
+380:0:5:401:0	      LAURA TEASING AVAILABILITY
+380:0:14:401:0	      SANDY SEDUCTION AVAILABILITY
+380:0:17:401:0	      SANDY TEASING AVAILABILITY
+380:0:26:401:0	      CINDY SEDUCTION AVAILABILITY
+380:0:29:401:0	      CINDY TEASING AVAILABILITY
+380:0:38:401:0	      NANCY SEDUCTION AVAILABILITY
+380:0:41:401:0	      NANCY TEASING AVAILABILITY
+380:0:50:401:0	      ISA SEDUCTION AVAILABILITY
+380:0:53:401:0	      ISA TEASING AVAILABILITY
+380:0:62:401:0	      KARINE SEDUCTION AVAILABILITY
+380:0:65:401:0	      KARINE TEASING AVAILABILITY
+380:0:74:401:0	      ALISON SEDUCTION AVAILABILITY
+380:0:77:401:0	      ALISON TEASING AVAILABILITY
+380:0:86:401:0	      ORANGE SEDUCTION AVAILABILITY
+380:0:89:401:0	      ORANGE TEASING AVAILABILITY
+382:0:2:101:0	\n[1]:
+382:0:3:401:0	(Damn this is even bigger than Orange's
+382:0:4:401:0	monster tits, what a behemoth of a tank!)
+382:0:7:101:0	\n[1]:
+382:0:8:401:0	(Damn this is even bigger than Nancy's
+382:0:9:401:0	tits, what a behemoth of a tank!)
+383:0:1:101:0	\n[1]:
+383:0:2:401:0	And this has to be the Central
+383:0:3:401:0	Intelligence Room!
+383:0:8:401:0	FINALLY!!
+383:0:19:401:0	What did you say?
+383:0:20:401:0	Lieutenant what?!
+383:0:23:401:0	There is someone here who was in
+383:0:24:401:0	the bunker several times before,
+383:0:25:401:0	and... I'm not talking about myself.
+383:0:38:401:0	I thought you worked at the fucking
+383:0:39:401:0	swimming-pool!
+383:0:44:101:0	\n[1]:
+383:0:45:401:0	I worked here as IT.
+383:0:47:401:0	The Army was leading top secret
+383:0:48:401:0	research.
+383:0:50:401:0	Now it has all gone out of hand.
+383:0:51:401:0	But the moment I found out,
+383:0:53:401:0	I tried to save as many of you.
+383:0:54:101:0	The mission seemed possible.
+383:0:55:401:0	You all look good, so they were gonna
+383:0:56:401:0	try to impregnate you rather than just...
+383:0:57:401:0	kill you.
+383:0:67:401:0	And when my dad's friend mentioned the
+383:0:68:401:0	bunker, you knew about it already!
+383:0:70:101:0	\n[1]:
+383:0:71:401:0	So what?!
+383:0:74:401:0	You were undercover all this time,
+383:0:75:401:0	and we were naive enough 
+383:0:76:401:0	to believe you!
+383:0:79:401:0	Well it's done.
+383:0:80:401:0	What's the plan now? Are you the new guy 
+383:0:81:401:0	in charge or something?
+383:0:83:101:0	\n[1]:
+383:0:84:401:0	So it seems!
+383:0:85:401:0	And you better all behave, ha ha ha!
+383:0:88:401:0	Lieutenant Warwick, or should I call 
+383:0:89:401:0	you General now that all your superiors 
+383:0:90:401:0	are dead?
+383:0:92:401:0	I think there is something very 
+383:0:93:401:0	unusual with the levels of energy.
+383:0:96:401:0	But you know things too,
+383:0:97:401:0	are you a part of it as well or what?
+383:0:100:401:0	I do know things. I've been here for
+383:0:101:401:0	too long. General Warwick...
+383:0:106:101:0	\n[1]:
+383:0:107:401:0	We won't know for sure until
+383:0:108:401:0	we check the main module, quick!
+384:0:1:401:0	Sadly, it didn't work, as the two of you
+384:0:2:401:0	didn't match.
+385:0:1:401:0	Sadly, it didn't work, as love wasn't
+385:0:2:401:0	strong enough between you two.
+386:0:1:401:0	Sadly, it didn't work, as she didn't
+386:0:2:401:0	learn to obey you well enough.
+387:0:37:401:0	   HARD WOMANIZER BONUS: \v[43]
+387:0:42:401:0	   HARD WOMANIZER BONUS: \v[43]
+387:0:53:401:0	   WOMANIZER BONUS: \v[43]
+387:0:58:401:0	   WOMANIZER BONUS: \v[43]
+396:0:1:101:0	\n[1]:
+396:0:2:401:0	What kind of little house of horror
+396:0:3:401:0	is this??
+396:0:6:401:0	It looks like the kind of stuff that
+396:0:7:401:0	could happen in a movie like The Thing!
+396:0:10:401:0	Icons from Hell.
+396:0:12:101:0	\n[1]:
+396:0:13:401:0	Yeah, well, exactly.
+396:0:14:401:0	That doesn't exactly look
+396:0:15:401:0	exhilerating!
+396:0:18:401:0	That's why we must do all it
+396:0:19:401:0	takes to stop it.

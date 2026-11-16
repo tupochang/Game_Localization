@@ -1,0 +1,562 @@
+
+### Actors
+1	name=GARY
+2	name=LAURA [37D/25/37]
+3	name=NANCY [39E/25/38]
+4	name=CINDY [38E/24/36]
+5	name=SANDY [35C/23/36]
+6	name=ALISON [38D/25/38]
+7	name=ISA [36C/24/36]
+8	name=KARINE [34B/23/36]
+9	name=ORANGE [40E/24/38]
+11	name=GARY
+12	name=LAURA
+13	name=NANCY
+14	name=CINDY
+15	name=SANDY
+16	name=ALISON
+17	name=ISA
+18	name=KARINE
+19	name=ORANGE
+20	name=OPT1
+21	name=SEDUCE
+22	name=TEASE
+23	name=OPT4
+counts {'@name': 22}
+
+### Classes
+1	name=30 - 6'1" - 187 - Life-saver
+2	name=23 - 5'7" - 124 - Med Stud./Nude Model
+3	name=23 - 5'9" - 136 - Lit. Student
+4	name=23 - 5'4" - 112 - Pop Star
+5	name=22 - 5'9" - 120 - Rich Celeb/Athlete
+6	name=19 - 5'9" - 133 - Student
+7	name=18 - 5'5" - 119 - Student
+8	name=21 - 5'8" - 116 - Junkie/Slave
+9	name=18 - 5'11" - 145 - ET Sportswoman
+counts {'@name': 9}
+
+### Items
+3	name=Brain description=A gory find that will have its little effect on a girl...
+5	name=Heart description=A gory find that will have its little effect on a girl...
+7	name=Finger description=A gory find that will have its little effect on a girl...
+9	name=Luck Charm description=A stupid horseshoe but you better believe it does make you luckier.
+10	name=Mandragora description=Don't try making a bloody Mary with this.
+11	name=Red Rose description=Give one to put a smile on a pretty girl's face.
+13	name=Hallucination Mushroom description=Take a bit of that and the ugly monsters will have much cooler faces to you!
+14	name=>>>>
+20	name=>>> BUY FROM DISTR
+21	name=Lollipop description=Very sweet and great for a girl's energy and karma!
+22	name=Chocolat Bar description=Which style? Doesn't matter, they're all delicious!
+23	name=Expresso description=Talk to me only after I've had my cup of coffee.
+24	name=Soda Cola description=The junk drink mass capitalism has brainwashed you to consume.
+25	name=Red Taurus description=A boost of energy, and nobody cares how it's made!
+26	name=German Beer description=A good beer will make you a bit stronger but also a bit drunk.
+27	name=Red Wine description=A subtle glass of wine to feel good and positive with everyone else.
+28	name=Vita Madness description=Made with oranges and mango from the tropics!
+29	name=Super Energy description=The absolute best energy drink on the market!
+31	name=>>> POOL
+32	name=Motor Key description=Can't start your engine without this!
+36	name=>>> HOUSE
+38	name=Diamond Gem description=It would be better on a ring but your golddigger friends will surely love it. 
+40	name=50 Shades of Grey description=Only girls will (and can) read this but most of them will be thrilled by it and feel submissive.
+42	name=Iron Key description=It's a key, it opens things. As keys usually do.
+44	name=Cinderella Shoe description=Only got 1, so no girl can wear it, but make sure to give it to the right one at the right moment!
+46	name=>>> BUILDING 
+48	name=Security Key description=It's a key, it opens things. As keys usually do.
+50	name=>>> HOSP 
+52	name=Iron Key description=It's a key, it opens things. As keys usually do.
+54	name=Band Aid description=Put delicately on the wound.
+56	name=Creatine description=The magical pill to get big muscles.
+58	name=Energyzer description=You know it's a hospital when you can find all the doping stuff you need, this one for reflexes.
+60	name=Life Booster description=Another dope, should all be given to Sandy and she'd run in less than 10'00.
+62	name=Love Potion description=If it work, it will renew the feeling of love in one of your girl friends.
+64	name=Obedience Drop description=In the pharmacy of love, this will improve your relationship for sure!
+66	name=Hospital Key description=It's a key, it opens things. As keys usually do.
+68	name=Locker Key description=It's a key, it opens things. As keys usually do.
+75	name=Chalice of Heroic Blood description=This is what superheroes have for breakfast when they are little.
+77	name=>>> SCHOOL 
+79	name=Love Drop description=On the trade market of love it's worth about 1,000 Cupido arrows.
+81	name=History of Bondage description=50 Shades for adults.
+83	name=Dragon Pink description=50 Shades for nerds.
+85	name=Eye of Osiris description=Every girl will be your Isis and want to cover you with kisses!
+87	name=Snake of Passion description=In Ancient Egypt it is said this would turn any lady into your most devoted slave.
+89	name=Kitchen Key description=It's a key, it opens things. As keys usually do.
+91	name=Office Key description=It's a key, it opens things. As keys usually do.
+92	name=Cellphone description=Sandy's previous cellphone, bit outdated but still good.
+94	name=>>> BUNKER 
+96	name=Key Pass description=Federal agents hate it when you get one of these, as you risk piercing  government secrets.
+98	name=Submission Elixir description=When your crush is a feminist and you don't want anyone else...
+100	name=Military Bomb description=Boom!
+104	name=Gorski Key description=A key, but a special family one. Very important, it seems!
+105	name=Room Key description=It's a key, it opens things. As keys usually do.
+106	name=Set of Keys description=Several keys, to unlock several areas maybe?
+114	name=Buddhist Compass description=Reflect on your past experiences and find out that less is more, or something.
+185	name=>>>>>>
+189	name=>>>>>>
+191	name=>>> AMMO 
+196	name=Colt Ammonition description=No ammo, no gun.
+198	name=Gun Ammonition description=No ammo, no gun.
+200	name=Shotgun Ammonition description=No ammo, no shotgun, even for the biggest redneck.
+202	name=Kalachnikov Ammonition
+204	name=S. Kalach. Ammonition
+290	name=>>> G ICONS
+300	name=>>>
+301	name=Tutorial #1 description=About Survival
+302	name=Tutorial #2 description=About Life & Death
+303	name=Tutorial #3 description=About one-shooting enemies
+304	name=Tutorial #4 description=About Love and Submission
+305	name=Tutorial #5 description=About interacting with a girl
+306	name=Tutorial #6 description=About defending skills
+308	name=Tutorial #7 description=About getting high
+310	name=Tutorial #8 description=About getting drunk
+312	name=Tutorial #9 description=About guns
+314	name=Tutorial #10 description=About guns
+316	name=Tutorial #11 description=About the alchemy of love and obedience
+318	name=Tutorial #12 description=About the reserve party
+counts {'@name': 77, '@description': 62}
+
+### Skills
+10	name=[GARY]
+12	name=F I G H T S
+14	name=Bad Boy Punch description=A big punch in the chin or whatever fits!
+16	name=Rescue the Damsels description=Never let a damsel in bondage at the hands of someone (or something) else!
+18	name=Dragon Kick description=Like Bruce Lee in that Dragon movie! Bam!
+20	name=Like a Boss description=Enter the brawl and start kicking MAJOR ass!
+25	name=I N T E R A C T I O N
+27	name=Laura description=Try to get closer to the awkward and docile girl Laura is!
+28	name=Sandy description=Try to get closer to Sandy, heir of the Hilverson empire and see if you can snatch her money!
+29	name=Cindy description=Try to get closer to super star Cindy and see if you can crack the ice!
+30	name=??????
+31	name=??????
+32	name=??????
+33	name=??????
+34	name=??????
+35	name=A U T O
+37	name=You are the Hero description=Each turn you regain a bit of life, the more girls alive, the better!
+40	name=xxx LAURA xxxxxxx
+42	name=Low Hit description=It's too difficult to do a normal one, so all your dedication goes into this sneaky hit!
+50	name=O T H E R S
+52	name=Alcohol is bad description=You really don't like the idea of someone throwing up.
+54	name=Submissive behavior description=You can't help it, you pass others' interests before your own.
+56	name=Drugs are bad too description=As a future doctor, you really like healing others.
+66	name=A U T O
+68	name=Always willing to help description=The more you are obedient the more you heal your friends, especially if they are handsome.
+69	name=Hard-working miss description=Okay you're limited as a fighter but your dedication makes up for it.
+71	name=xxx NANCY xxxxxxx
+72	name=Super Kick description=Long shapely legs reach higher for sure, time to demonstrate it!
+74	name=V-Slide description=With great courage and legs widely spread apart, you cause big havoc.
+85	name=O T H E R S
+87	name=Booby-Trap description=With your big boobs it's easy to create interest in basically anyone (or anything).
+89	name=Black Sheep description=Convince all your friends to pound into this particular enemy, no matter how big.
+91	name=Laura My Bitch description=A teenage pact has put Laura under your control, works even with category 1 guns!
+96	name=A U T O
+98	name=Bikini thief description=Tight bikini make her lose a bit of NRG points if the fight is long
+99	name=Femdom description=A slap on your face now means a slap on their face!
+100	name=xxx CINDY xxxxxxx
+102	name=- FIGHTS - description=based on obd
+104	name=100 Million-Dollars Pop Star description=Sing so loud and high-pitched nobody will want to sing along.
+105	name=Quick Slap description=With all your love, try to hit... but it's not really your thing.
+112	name=O T H E R S
+114	name=At Your Service description=Your subdued ways are inspiring the girls around you.
+116	name=All the Chores description=You're doing everything in this group! This makes your friends stronger.
+118	name=Why always me? description=Be the scapegoat of your group and receive all the enemy blows.
+126	name=A U T O
+128	name=Fragile Celeb description=You look so vulnerable and clumsy that monsters won't try to harm you. Right?
+129	name=Empire Strikes Back description=All behind our hero!!
+130	name=xxx SANDY xxxxxxx
+132	name=- FIGHTS - description=based on obd
+134	name=Olympic Run description=You can run the 100m under 10'50 - and braless - and use this to hurt and slow down foes!
+136	name=Gold-Medal Kick description=Good at every sport, it shows in your fighting skills.
+144	name=O T H E R S
+146	name=Man's Boost description=Despite the millions $$$, you're weak to your knees next to a strong man, and he sees it!
+153	name=A U T O
+155	name=Olympic Champion description=Not everybody can say they won the Gold medal!
+160	name=xxx ALISON xxxxxxx
+164	name=Eaten Alive By... description=Alison is passive, Alison lets the monster devour her, while everyone else kicks ass!
+169	name=O T H E R S
+171	name=Perfect Obedience description=Alison is submissive, Alison will make sure everyone feels great.
+173	name=House Maid description=Alison is doing everything like a perfect housemaid.
+186	name=A U T O
+188	name=My Master description=He is the most important, above all else.
+189	name=Collective Effort description=Together we can do it!
+190	name=xxx ISABELLE xxxxxxx
+194	name=In your face description=Punch it like there is no tomorrow!
+196	name=Nail Scratch description=The best of two worlds, male strength and female nails, they won't like it!
+198	name=Flash Dance description=Do stupid move dances so fast the enemies will start feeling dizzy.
+200	name=CraAAAazy description=When they finally make you crazy enough, it's too late to turn back.
+204	name=O T H E R S
+206	name=Karine My Bitch description=Because Karine is really too stupid to do anything on her own.
+216	name=A U T O
+218	name=Overactive description=There's nothing that you won't happily try! Even fighting off bloody zombies!
+220	name=xxx KARINE xxxxxxx
+223	name=Human Shield description=You got unanimous voting for your damage-enduring exceptional abilities!
+224	name=Club 69 description=It's an orgy of hits, maybe not the strongest ever, but still an orgy of them!
+226	name=Immorality description=Trade your battered soul with the Devil to weaken the crazies!
+230	name=O T H E R S
+232	name=Selfless Act description=Like at the hospital: give your blood to help others!
+234	name=I am your slave description=Your sense of sacrifice is so developed you'll empower someone - at your own cost!
+246	name=A U T O
+248	name=Expert slave description=You will do all you can for your Master(s)!
+250	name=xxx ORANGE xxxxxxx
+254	name=Battle Kick description=With legs like this, kicks are gonna make some nasty damage!
+256	name=Loosen description=Orange knows where to touch to fix you instantly!
+258	name=Global Support description=Orange uses her global knowledge of warfare to put the team with precious support!
+260	name=Melee Attack description=Action!!!!
+263	name=O T H E R S
+265	name=Care description=Magic hands with magic effects!
+276	name=A U T O
+278	name=Action Girl
+280	name=xxx ENM xxxxx
+281	name= throws its head!
+282	name=Crawling Legs
+283	name=Viscous Tentacles
+284	name=Giant Mouth
+285	name=Acidic Ink
+286	name=Sweeping Tail
+287	name=Blood Skull
+288	name=Tokyo Chainsaw
+289	name=Crawl description=Hit all
+290	name=Lingering Mist (Blondie)
+291	name=Lingering Mist (Blu)
+292	name=Lingering Mist (Pale Red)
+293	name=Groundlock
+294	name=Wormy Fragrance
+295	name=Somnolence Fog
+296	name=Crawling Legs
+297	name=Cockroach Run
+298	name=Moaning
+299	name=Ribbons of Slavery
+300	name=Hole
+301	name=Jaws-Hands
+302	name=Psychedelic
+303	name=Wings of Terror
+304	name=300V Slash
+305	name=Corrosive Breath
+306	name=Fast Food
+307	name=Red Eyes
+308	name=Building Up
+309	name=Ropes
+310	name=Energy Drain
+311	name=Sylvie's Body
+312	name=Blood Bolt
+313	name=Pestillence
+314	name=Haunting
+315	name=Fusion
+316	name=Irra
+317	name=Laser
+318	name=Gun
+319	name=Claw
+320	name=Claw Fury
+321	name=Bad Water
+322	name=Opens the Dam
+324	name=attacks!
+325	name=attacks!
+326	name=attacks!
+327	name=attacks!
+328	name=attacks!
+329	name=attacks!
+330	name=attacks!
+331	name=attacks!
+332	name=attacks!
+333	name=attacks!
+334	name=attacks!
+335	name=attacks!
+336	name=attacks!
+337	name=attacks!
+338	name=attacks!
+350	name=ADD
+351	name=Blood Spurt
+352	name=Bubbles
+353	name=Ice Burst
+354	name=Domination
+355	name=Metal Ropes
+356	name=Snake Face
+357	name=Bondage
+358	name=Polluted Liquid
+359	name=Laser Eyes
+360	name=Rocket Tits
+361	name=Horrible Curse
+362	name=Slut-shaming
+363	name=Flame Sweeping
+364	name=Dragon Kick description=Like Bruce Lee in that Dragon movie! Bam!
+365	name=Super Boot Kick
+366	name=Metal Jaws
+367	name=Painful Domination
+368	name=Cannon Rotation
+369	name=Secret Cane
+370	name=Red Orb
+371	name=Evil Fumes
+372	name=Lightning Bolt
+374	name=Blood Skull
+375	name=Somnolence Fog
+376	name=Ribbons of Slavery
+377	name=Psychedelic
+378	name=Corrosive Breath
+379	name=Metal Ropes
+380	name=Haunting
+381	name=Evil Fumes
+382	name=Evil Fumes
+counts {'@name': 180, '@description': 58}
+
+### Weapons
+3	name=___________
+5	name=Floating Board description=Made of old foam fabric, in case of a zombie outbreak, it's the ideal survival weapon - or not.
+7	name=Toilet Brush description=In general it's not used to hit ugly monsters, but if it can fix the shit?
+9	name=Dust Broom description=The perfect tool for a girl - enough said.
+10	name=Cleaning Broom description=Long and steady, this will do wonders in the house, and maybe against ugly foes too.
+11	name=Knife description=With a fork and a spoon you could have a great lunch but for now just use this to cut monsters.
+16	name=Vintage Shotgun description=The good ol' gun Grandpa used to take on hunting days!
+17	name=Vintage Shotgun description=The good ol' gun Grandpa used to take on hunting days!
+20	name=___________
+22	name=Cutter description=One strike of this can cause like eternal bleeding.
+24	name=Whip description=Vintage weapon of submission, with its long range it guarantees you hit first.
+26	name=Hammer description=Thrust a nail in the enemy's face, or directly the hammer, you decide.
+28	name=Meat Chopper description=Technically most of what you stumble into qualifies as meat - although you won't try to eat it.
+30	name=Torture Whip description=Throw a bit of medieval flavor in your fantasies.
+32	name=Colt description=In case of emergency, fire!
+33	name=Colt description=In case of emergency, fire!
+35	name=___________
+37	name=Rambo Knife description=Some knives are for slicing bread, this one is to hunt bears - single-handedly.
+41	name=Gun description=If we had guns like the USA, the zombies wouldn't have attacked us in the first place!
+42	name=Gun description=In case of emergency, fire!
+47	name=___________
+53	name=Shotgun description=When you need to blow up some skulls, cuz it it kills a rhino, it can kill anything, right?
+54	name=Shotgun description=In case of emergency, fire!
+56	name=___________
+57	name=Vietnamese Deadly Knife description=Slit throats and maul bellies like there is no tomorrow!
+59	name=Chain Whip description=This hurts so bad even BDSM users don't try it - but they loved it in the Middle-Age.
+61	name=Historical Viking Axe description=Well it's a genuine one, and they were beheading people with this!
+62	name=Historical Roman Sword description=The Roman Empire was once dominating the world, let's bring this back!
+63	name=___________
+65	name=Kalachnikov description=Don't try to take over an army without one of these! Do it russian style on the enemy side! 
+66	name=Kalachnikov description=Don't try to take over an army without one of these! Do it russian style on the enemy side! 
+67	name=Kalachnikov 2.0 description=The lighter Kalach that you can give to your girl! Do it russian style with a touch of grace!
+68	name=Kalachnikov 2.0 description=The lighter Kalach that you can give to your girl! Do it russian style with a touch of grace!
+69	name=Death Mace description=Hit 'em in the head if they don't speak, Herr Kommander!
+99	name=40
+100	name=41
+101	name=42
+102	name=46
+103	name=47
+105	name=56
+106	name=58
+107	name=59
+108	name=57
+109	name=66
+110	name=62
+111	name=_________
+counts {'@name': 46, '@description': 28}
+
+### Armors
+18	name=Boxer description=Because being naked would make the ladies faint - and the zombies run for their lives.
+20	name=Bikini description=The best enhancer for the female body.
+22	name=Casual Clothes description=Because not everybody can be in a bikini.
+24	name=Swimsuit description=Fashionable where she comes from, no doubt.
+30	name=___________
+32	name=Christian Necklace description=Better have a bit of faith when it seems all Hell is after you. [21ST 31RS]
+34	name=Beautiful Ring description=This will make a young girl happy.
+39	name=NRG Card description=A modern little device to keep fit.
+40	name=___________
+41	name=Nose Ring description=It's not very pretty but it shows who is in control and who isn't.
+42	name=Nose Ring description=It's not very pretty but it shows who is in control and who isn't.
+43	name=Nose Ring description=It's not very pretty but it shows who is in control and who isn't.
+44	name=iphone description=Useless in normal life, even more useless during a zombie outbreak, but Sandy loves it. 
+46	name=Lead Burden description=You'll be slower, and you'll be a slave.
+48	name=Ying Yan Zen Necklace description=You don't really know how but it's supposed to make you more spiritual. Meditate on!
+50	name=Ruby of Obedience description=Maybe it's the ruby, maybe it's the double chain.
+52	name=Tribal Necklace description=You only miss the tribal tattoo on your arm to be the perfect amazon warriorrrr!
+54	name=Ring of Concentration description=Because without it you just don't give a fuck.
+56	name=Ruby Ring description=Be all ruby!
+62	name=___________
+64	name=Engagement Ring description=Give it to a girl and she'll never want to let go of it.
+66	name=Stethoscope description=A doctor or soon-to-become doctor will consider this a nice gift.
+74	name=___________
+76	name=Deluxe Watch description=It may not seem like it, but you'll never be late with this. Better, you'll be ahead of time!
+81	name=Helm of the Huns description=Automatically turns you into a badass, crazy, blood-thirsty savage!
+82	name=___________
+84	name=Police Handcuffs description=Great accessory if you want to play a kinky game or make it real easy for a monster to swallow her.
+86	name=Microphone description=Girls with stardom ambitions will love this accessory.
+88	name=Love Necklace description=If you can't buy a diamond, buy a cute little heart.
+90	name=Evil Spirit description=Slaughter 'em all!
+92	name=___________
+94	name=Diamond Necklace description=If you can buy a diamond, buy a diamond. ALWAYS.
+96	name=Buddhist Compass description=Reflect on your past experiences and find out that less is more, or something.
+150	name=___________
+151	name=2 of Spades description=A POWER CARD.
+157	name=3 of Hearts description=A LOVE CARD.
+163	name=5 of Diamonds description=GET 1 EXTRA DOLLAR FOR EACH FIGHT WON.
+169	name=2 of Clubs description=GET 20 EXTRA EXP FOR EACH FIGHT WON.
+175	name=Ace of Spades description=PRE-EMPTIVE STRIKE.
+181	name=Ace of Hearts description=RECOVER 6 LIFE PTS PER TURN.
+counts {'@name': 40, '@description': 33}
+
+### Enemies
+2	name=xxx - POOL - xxx
+3	name=Marionnette
+4	name=Marionnette
+5	name=Twin Widow
+6	name=18-Eyed Leech
+7	name=Cathy
+9	name=xxx - BUILDING - xxx
+10	name=Aghamonrah
+11	name=Masked Face
+12	name=Trinity
+13	name=Uzugulu
+14	name=Mandy
+15	name=Cindy
+17	name=xxx - HOSPITAL - xxx
+18	name=Flesh Eater
+19	name=Unborn
+20	name=Bull Mask
+21	name=Horse Mask
+22	name=Federal Agent
+23	name=Melanie
+24	name=Dr Marks
+26	name=xxx - MC DOM - xxx
+27	name=Gluttony
+28	name=Skin Ripper
+29	name=Federal Agent
+30	name=Blackhawk Soldier
+31	name=Karine
+32	name=Scarificator
+33	name=Aghazerateus
+36	name=xxx - SCHOOL - xxx
+37	name=Scalp Devourer
+38	name=Crazy Mannequin
+39	name=Murphy
+40	name=Alise
+41	name=Cynthia
+42	name=Sandra
+44	name=xxx - BUNKER - xxx
+45	name=Blackhawk Soldier
+46	name=Blackhawk Pyromaniac
+47	name=Blackhawk Eradicator
+48	name=Lieutenant Choynowski
+49	name=General Gorski
+50	name=Cyborg Tanker
+51	name=Terminator Rex
+52	name=Sir Lawrence
+53	name=Aghadominiom
+55	name=xxx - XXX - xxx
+56	name=Underworld Plague
+57	name=Zoo Station
+58	name=Laura
+59	name=Sandy
+62	name=Murphy
+63	name=Cyborg Tanker Plus
+64	name=Aghadominiom
+65	name=Aghadominiom
+66	name=Aghadominiom
+counts {'@name': 56}
+
+### States
+1	name=KO
+2	name=Tired
+3	name=Bleeding
+4	name=Tied Up
+5	name=Ashamed
+6	name=Afraid
+7	name=Drunk
+8	name=High
+9	name=Stunned
+10	name=Sick
+11	name=Very Sick
+12	name=Lethally Sick
+14	name=Powerful
+15	name=Passionate
+16	name=Fast
+17	name=Submissive
+18	name=Evading
+20	name=Weak
+21	name=Cold
+22	name=Slow
+24	name=Tamed
+25	name=Very Tamed
+26	name=Slave
+28	name=Lured
+29	name=Targeted
+30	name=* eaten alive
+31	name=* im slave
+32	name=Cuffed
+33	name=* brain
+34	name=* heart
+35	name=* finger
+36	name=* cinderella
+37	name=* to this girl
+38	name=* luck charm
+39	name=* huns helmet
+40	name=* nak1
+41	name=* nak2
+42	name=* nak3
+counts {'@name': 38}
+
+### MapInfos
+9	name=BACKGROUND
+47	name=STREET
+28	name=TOILETS (MALE)
+19	name=HOSPITAL
+57	name=BACKGROUND
+38	name=SWIMMING-POOL
+10	name=FLOOR 1 - ENTRANCE
+48	name=STREET
+29	name=WAREHOUSE
+67	name=BACKGROUND
+20	name=FAST-FOOD MC DOM
+58	name=BACKGROUND
+1	name=SWIMMING-POOL
+39	name=FLOOR 3
+30	name=FLOOR 1 - OFFICES
+68	name=BACKGROUND
+11	name=SANDY'S APARTMENT
+49	name=WAREHOUSE
+21	name=ITNL CELEB SCHOOL - FLOOR 1 
+59	name=BACKGROUND
+2	name=SWIMMING-POOL
+40	name=FLOOR 2
+31	name=FLOOR -1 - ARMY UNITS
+69	name=BACKGROUND
+12	name=FLOOR 9
+50	name=BACKGROUND
+3	name=TOILETS (FEMALE)
+41	name=FLOOR 3
+22	name=ARMY BUNKER
+60	name=BACKGROUND
+32	name=FLOOR -2 - APARTMENTS
+13	name=FLOOR 2 - BUSINESS CENTER
+51	name=BACKGROUND
+4	name=TOILETS (MALE)
+42	name=FLOOR 10 - NANCY'S
+23	name=FLOOR 2
+61	name=BACKGROUND
+14	name=FLOOR 3 - HOTEL INTL SCHOOL
+52	name=BACKGROUND
+33	name=FLOOR -4 - LABORATORY
+43	name=SECRET ROOM
+24	name=FLOOR 3
+62	name=BACKGROUND
+5	name=CHANGING ROOM
+15	name=SANDY'S CAR
+53	name=BACKGROUND
+34	name=FLOOR -3 - WASTES
+25	name=KITCHEN
+63	name=BACKGROUND
+6	name=SPA
+44	name=BACKGROUND
+54	name=BACKGROUND
+35	name=BACKGROUNDS
+16	name=BACKGROUND
+26	name=TOILETS (FEMALE)
+64	name=BACKGROUND
+7	name=SHOWERS
+45	name=STREET
+36	name=FLOOR 2
+17	name=WAREHOUSE
+55	name=BACKGROUND
+8	name=BACKGROUND
+46	name=STREET
+27	name=FLOOR 4 - BUSINESS FLOOR
+56	name=BACKGROUND
+37	name=BACKGROUND
+18	name=KID'S POOL
+counts {'@name': 67}
